@@ -1,5 +1,5 @@
 ---
 title: "Naturéo"
-url: /37100/natureo/
+url: /tours/natureo/
 shop: supermarché
 ---
