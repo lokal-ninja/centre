@@ -1,5 +1,5 @@
 ---
-title: "RÉAUTÉ CHOCOLAT"
+title: "Réauté Chocolat"
 url: /barjouville/reaute-chocolat/
 shop: chocolat
 ---
