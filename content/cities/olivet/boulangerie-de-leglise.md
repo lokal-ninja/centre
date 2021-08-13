@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie de l'église"
+title: "Boulangerie de l'Église"
 url: /olivet/boulangerie-de-leglise/
 shop: boulangerie
 ---

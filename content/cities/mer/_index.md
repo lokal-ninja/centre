@@ -1,6 +1,6 @@
 ---
 title: Mer
 url: /mer/
-latitude: 47.39621
-longitude: 1.7588872000000002
+latitude: 47.708364200000005
+longitude: 1.5062706000000001
 ---
