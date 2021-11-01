@@ -1,6 +1,6 @@
 ---
 title: Chambon
 url: /chambon/
-latitude: 46.860689900000004
-longitude: 1.5121704
+latitude: 47.059127200000006
+longitude: 1.5376163
 ---

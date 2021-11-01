@@ -1,5 +1,5 @@
 ---
-title: "STARWAY- Le Vélo Facile"
+title: "Starway - Le Vélo Facile"
 url: /tours/starway-le-velo-facile/
 shop: vélo
 ---

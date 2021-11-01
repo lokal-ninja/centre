@@ -1,5 +1,5 @@
 ---
-title: Ballan Miré
+title: Ballan-Miré
 url: /ballan-mire/
 latitude: 
 longitude: 

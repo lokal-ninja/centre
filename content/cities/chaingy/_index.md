@@ -1,6 +1,6 @@
 ---
 title: Chaingy
 url: /chaingy/
-latitude: 47.890801700000004
-longitude: 1.7753982000000001
+latitude: 47.883725000000005
+longitude: 1.7723591
 ---
