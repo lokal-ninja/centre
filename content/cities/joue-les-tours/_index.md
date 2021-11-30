@@ -1,6 +1,6 @@
 ---
-title: Joué les Tours
+title: Joué-lès-Tours
 url: /joue-les-tours/
-latitude: 
-longitude: 
+latitude: 47.351116100000006
+longitude: 0.6622353000000001
 ---
