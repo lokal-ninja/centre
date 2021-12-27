@@ -1,6 +1,6 @@
 ---
 title: Baugy
 url: /baugy/
-latitude: 46.963849800000006
-longitude: 1.4539671
+latitude: 47.085
+longitude: 2.738
 ---

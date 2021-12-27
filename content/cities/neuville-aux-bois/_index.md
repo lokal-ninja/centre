@@ -1,6 +1,6 @@
 ---
 title: Neuville aux Bois
 url: /neuville-aux-bois/
-latitude: 
-longitude: 
+latitude: 48.056
+longitude: 2.048
 ---

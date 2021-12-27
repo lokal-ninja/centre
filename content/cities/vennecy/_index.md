@@ -1,6 +1,6 @@
 ---
 title: Vennecy
 url: /vennecy/
-latitude: 47.95369
-longitude: 2.05416
+latitude: 47.972
+longitude: 2.064
 ---

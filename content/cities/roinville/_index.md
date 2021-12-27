@@ -1,6 +1,6 @@
 ---
 title: Roinville
 url: /roinville/
-latitude: 48.444980300000005
-longitude: 1.7464904
+latitude: 48.453
+longitude: 1.753
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint-Épain
 url: /saint-epain/
-latitude: 47.1429999
-longitude: 0.5373571
+latitude: 47.145
+longitude: 0.537
 ---

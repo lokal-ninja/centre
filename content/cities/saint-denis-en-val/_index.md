@@ -1,6 +1,6 @@
 ---
 title: Saint-Denis-en-Val
 url: /saint-denis-en-val/
-latitude: 47.879147
-longitude: 1.9631806
+latitude: 47.879
+longitude: 1.956
 ---

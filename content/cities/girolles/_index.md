@@ -1,6 +1,6 @@
 ---
 title: Girolles
 url: /girolles/
-latitude: 48.061530000000005
-longitude: 2.71407
+latitude: 48.084
+longitude: 2.725
 ---

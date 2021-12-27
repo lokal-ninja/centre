@@ -1,6 +1,6 @@
 ---
 title: Martizay
 url: /martizay/
-latitude: 46.807041500000004
-longitude: 1.0430442
+latitude: 46.801
+longitude: 1.09
 ---

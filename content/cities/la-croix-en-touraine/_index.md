@@ -1,6 +1,6 @@
 ---
 title: La Croix-en-Touraine
 url: /la-croix-en-touraine/
-latitude: 47.3404879
-longitude: 0.9894160000000001
+latitude: 47.341
+longitude: 0.986
 ---

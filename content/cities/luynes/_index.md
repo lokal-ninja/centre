@@ -1,6 +1,6 @@
 ---
 title: Luynes
 url: /luynes/
-latitude: 47.385141100000006
-longitude: 0.5545862
+latitude: 47.385
+longitude: 0.555
 ---

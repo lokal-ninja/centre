@@ -1,6 +1,6 @@
 ---
 title: Dreux
 url: /dreux/
-latitude: 
-longitude: 
+latitude: 48.743
+longitude: 1.39
 ---

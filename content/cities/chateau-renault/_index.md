@@ -1,6 +1,6 @@
 ---
 title: Château-Renault
 url: /chateau-renault/
-latitude: 47.5904923
-longitude: 0.9084166
+latitude: 47.587
+longitude: 0.899
 ---

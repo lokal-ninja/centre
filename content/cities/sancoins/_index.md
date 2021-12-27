@@ -1,6 +1,6 @@
 ---
 title: Sancoins
 url: /sancoins/
-latitude: 46.8308788
-longitude: 2.9201075000000003
+latitude: 46.832
+longitude: 2.937
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orlu
 url: /orlu/
-latitude: 48.3701461
-longitude: 1.9185114
+latitude: 48.37
+longitude: 1.918
 ---

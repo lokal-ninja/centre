@@ -1,6 +1,6 @@
 ---
 title: Le Coudray
 url: /le-coudray/
-latitude: 47.0967099
-longitude: 1.1417086
+latitude: 48.429
+longitude: 1.513
 ---

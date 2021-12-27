@@ -1,6 +1,6 @@
 ---
 title: Sandillon
 url: /sandillon/
-latitude: 47.845580500000004
-longitude: 2.0327513
+latitude: 47.845
+longitude: 2.033
 ---

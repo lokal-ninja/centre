@@ -1,6 +1,6 @@
 ---
 title: Le Malesherbois
 url: /le-malesherbois/
-latitude: 
-longitude: 
+latitude: 48.297
+longitude: 2.416
 ---

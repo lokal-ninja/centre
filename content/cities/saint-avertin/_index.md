@@ -1,6 +1,6 @@
 ---
 title: Saint Avertin
 url: /saint-avertin/
-latitude: 
-longitude: 
+latitude: 47.363
+longitude: 0.734
 ---

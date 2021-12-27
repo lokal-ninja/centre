@@ -1,6 +1,6 @@
 ---
 title: Luisant
 url: /luisant/
-latitude: 48.423100000000005
-longitude: 1.46835
+latitude: 48.417
+longitude: 1.459
 ---

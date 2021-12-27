@@ -1,6 +1,6 @@
 ---
 title: Graçay
 url: /gracay/
-latitude: 47.1426965
-longitude: 1.8471081
+latitude: 47.144
+longitude: 1.848
 ---

@@ -1,6 +1,6 @@
 ---
 title: Donnery
 url: /donnery/
-latitude: 47.912600000000005
-longitude: 2.11219
+latitude: 47.91
+longitude: 2.107
 ---

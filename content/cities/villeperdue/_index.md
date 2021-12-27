@@ -1,6 +1,6 @@
 ---
 title: Villeperdue
 url: /villeperdue/
-latitude: 47.199649900000004
-longitude: 0.6348839000000001
+latitude: 47.2
+longitude: 0.632
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vendôme
 url: /vendome/
-latitude: 47.7934453
-longitude: 1.0662256
+latitude: 47.791
+longitude: 1.068
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chambray-lès-Tours
 url: /chambray-les-tours/
-latitude: 47.3390872
-longitude: 0.714368
+latitude: 47.339
+longitude: 0.699
 ---

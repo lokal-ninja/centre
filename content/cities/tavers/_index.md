@@ -1,6 +1,6 @@
 ---
 title: Tavers
 url: /tavers/
-latitude: 47.7580043
-longitude: 1.6134223
+latitude: 47.768
+longitude: 1.615
 ---

@@ -1,6 +1,6 @@
 ---
 title: Puiseaux
 url: /puiseaux/
-latitude: 47.8489652
-longitude: 2.8489995
+latitude: 48.205
+longitude: 2.455
 ---

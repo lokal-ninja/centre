@@ -1,6 +1,6 @@
 ---
 title: Bourgueil
 url: /bourgueil/
-latitude: 47.2827691
-longitude: 0.1788873
+latitude: 47.281
+longitude: 0.169
 ---

@@ -1,6 +1,6 @@
 ---
 title: Monnaie
 url: /monnaie/
-latitude: 47.499661100000004
-longitude: 0.7856396
+latitude: 47.498
+longitude: 0.783
 ---

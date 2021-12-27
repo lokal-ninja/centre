@@ -1,6 +1,6 @@
 ---
 title: Bué
 url: /bue/
-latitude: 47.1791823
-longitude: 1.7709058000000002
+latitude: 47.31
+longitude: 2.793
 ---

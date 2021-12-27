@@ -1,6 +1,6 @@
 ---
 title: Hanches
 url: /hanches/
-latitude: 
-longitude: 
+latitude: 48.592
+longitude: 1.678
 ---

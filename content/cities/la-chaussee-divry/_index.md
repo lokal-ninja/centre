@@ -1,6 +1,6 @@
 ---
 title: La Chaussée d'Ivry
 url: /la-chaussee-divry/
-latitude: 
-longitude: 
+latitude: 48.883
+longitude: 1.479
 ---

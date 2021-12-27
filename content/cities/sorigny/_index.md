@@ -1,6 +1,6 @@
 ---
 title: Sorigny
 url: /sorigny/
-latitude: 47.241591
-longitude: 0.6939483000000001
+latitude: 47.244
+longitude: 0.695
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ivoy-le-Pré
 url: /ivoy-le-pre/
-latitude: 47.34557280000001
-longitude: 2.4848823
+latitude: 47.344
+longitude: 2.488
 ---

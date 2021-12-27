@@ -1,6 +1,6 @@
 ---
 title: Épuisay
 url: /epuisay/
-latitude: 47.900774500000004
-longitude: 0.9298262
+latitude: 47.9
+longitude: 0.93
 ---

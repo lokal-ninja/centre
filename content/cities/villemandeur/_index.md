@@ -1,6 +1,6 @@
 ---
 title: Villemandeur
 url: /villemandeur/
-latitude: 47.9838
-longitude: 2.70819
+latitude: 47.972
+longitude: 2.717
 ---

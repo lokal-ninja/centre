@@ -1,6 +1,6 @@
 ---
 title: MEOBECQ
 url: /meobecq/
-latitude: 
-longitude: 
+latitude: 46.739
+longitude: 1.412
 ---

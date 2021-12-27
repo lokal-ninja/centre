@@ -1,6 +1,6 @@
 ---
 title: Marigny-les-Usages
 url: /marigny-les-usages/
-latitude: 47.9571946
-longitude: 2.0145745
+latitude: 47.959
+longitude: 2.007
 ---

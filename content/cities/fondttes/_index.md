@@ -1,6 +1,6 @@
 ---
 title: Fondttes
 url: /fondttes/
-latitude: 
-longitude: 
+latitude: 47.404
+longitude: 0.597
 ---

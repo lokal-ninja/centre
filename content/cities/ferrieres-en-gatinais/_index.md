@@ -1,6 +1,6 @@
 ---
 title: Ferrières-en-Gâtinais
 url: /ferrieres-en-gatinais/
-latitude: 48.0927506
-longitude: 2.7946987
+latitude: 48.091
+longitude: 2.786
 ---

@@ -1,6 +1,6 @@
 ---
 title: Semblançay
 url: /semblancay/
-latitude: 47.4989788
-longitude: 0.5783512000000001
+latitude: 47.498
+longitude: 0.578
 ---

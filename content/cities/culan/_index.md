@@ -1,6 +1,6 @@
 ---
 title: Culan
 url: /culan/
-latitude: 46.746068400000006
-longitude: 2.476026
+latitude: 46.547
+longitude: 2.346
 ---

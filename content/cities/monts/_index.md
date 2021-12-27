@@ -1,6 +1,6 @@
 ---
 title: MONTS
 url: /monts/
-latitude: 
-longitude: 
+latitude: 47.278
+longitude: 0.625
 ---

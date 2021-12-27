@@ -1,6 +1,6 @@
 ---
 title: Villedômer
 url: /villedomer/
-latitude: 47.5473255
-longitude: 0.8860640000000001
+latitude: 47.579
+longitude: 0.897
 ---

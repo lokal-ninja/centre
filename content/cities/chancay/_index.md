@@ -1,6 +1,6 @@
 ---
 title: Chancay
 url: /chancay/
-latitude: 
-longitude: 
+latitude: 47.451
+longitude: 0.875
 ---

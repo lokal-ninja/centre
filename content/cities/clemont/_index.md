@@ -1,6 +1,6 @@
 ---
 title: Clémont
 url: /clemont/
-latitude: 47.5687945
-longitude: 2.3059764
+latitude: 47.567
+longitude: 2.306
 ---

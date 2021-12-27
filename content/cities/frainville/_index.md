@@ -1,6 +1,6 @@
 ---
 title: Frainville
 url: /frainville/
-latitude: 
-longitude: 
+latitude: 48.355
+longitude: 1.633
 ---

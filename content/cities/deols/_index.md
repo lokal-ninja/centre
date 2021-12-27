@@ -1,6 +1,6 @@
 ---
 title: Deols
 url: /deols/
-latitude: 
-longitude: 
+latitude: 46.83
+longitude: 1.751
 ---

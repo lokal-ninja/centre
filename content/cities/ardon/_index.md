@@ -1,6 +1,6 @@
 ---
 title: Ardon
 url: /ardon/
-latitude: 47.5799241
-longitude: 1.6746356
+latitude: 47.828
+longitude: 1.92
 ---

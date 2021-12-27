@@ -1,6 +1,6 @@
 ---
 title: Maintenon
 url: /maintenon/
-latitude: 
-longitude: 
+latitude: 48.58
+longitude: 1.57
 ---

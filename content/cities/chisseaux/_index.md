@@ -1,6 +1,6 @@
 ---
 title: Chisseaux
 url: /chisseaux/
-latitude: 
-longitude: 
+latitude: 47.331
+longitude: 1.093
 ---

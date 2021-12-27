@@ -1,6 +1,6 @@
 ---
 title: Reuilly
 url: /reuilly/
-latitude: 47.0851206
-longitude: 2.0434337
+latitude: 47.083
+longitude: 2.047
 ---

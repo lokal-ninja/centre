@@ -1,6 +1,6 @@
 ---
 title: Saint-Martin-le-Beau
 url: /saint-martin-le-beau/
-latitude: 47.3563119
-longitude: 0.9090287
+latitude: 47.355
+longitude: 0.91
 ---

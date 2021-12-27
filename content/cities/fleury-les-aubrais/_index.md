@@ -1,6 +1,6 @@
 ---
 title: Fleury-les-Aubrais
 url: /fleury-les-aubrais/
-latitude: 47.930915600000006
-longitude: 1.9208883
+latitude: 47.928
+longitude: 1.9
 ---

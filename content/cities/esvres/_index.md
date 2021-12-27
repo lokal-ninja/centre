@@ -1,6 +1,6 @@
 ---
 title: Esvres
 url: /esvres/
-latitude: 47.284581900000006
-longitude: 0.7861713
+latitude: 47.283
+longitude: 0.787
 ---

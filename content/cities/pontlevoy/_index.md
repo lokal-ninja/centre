@@ -1,6 +1,6 @@
 ---
 title: pontlevoy
 url: /pontlevoy/
-latitude: 
-longitude: 
+latitude: 47.386
+longitude: 1.248
 ---

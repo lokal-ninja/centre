@@ -1,6 +1,6 @@
 ---
 title: Ruan
 url: /ruan/
-latitude: 48.110812300000006
-longitude: 1.9386151
+latitude: 48.096
+longitude: 1.897
 ---

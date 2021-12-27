@@ -1,6 +1,6 @@
 ---
 title: Chartres
 url: /chartres/
-latitude: 
-longitude: 
+latitude: 48.45
+longitude: 1.506
 ---

@@ -1,6 +1,6 @@
 ---
 title: Orville
 url: /orville/
-latitude: 48.243026400000005
-longitude: 2.438761
+latitude: 48.243
+longitude: 2.441
 ---
