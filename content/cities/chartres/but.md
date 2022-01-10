@@ -1,5 +1,5 @@
 ---
-title: "BUT"
+title: "But"
 url: /chartres/but/
 shop: meubles
 ---

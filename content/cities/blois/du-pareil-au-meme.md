@@ -1,5 +1,5 @@
 ---
-title: "Du Pareil... au même"
+title: "Du Pareil au Même"
 url: /blois/du-pareil-au-meme/
 shop: vêtements
 ---
