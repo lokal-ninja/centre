@@ -1,6 +1,6 @@
 ---
 title: Cherisy
 url: /cherisy/
-latitude: 48.746
-longitude: 1.43
+latitude: 48.743
+longitude: 1.424
 ---

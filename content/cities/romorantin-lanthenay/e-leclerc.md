@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /romorantin-lanthenay/e-leclerc/
-shop: commodité
+shop: gaz
 ---
