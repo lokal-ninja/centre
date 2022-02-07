@@ -1,5 +1,5 @@
 ---
-title: "DE FIL EN AIGUILLE"
+title: "De Fil en Aiguille"
 url: /bourges/de-fil-en-aiguille/
 shop: cuir
 ---
