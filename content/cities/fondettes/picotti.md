@@ -1,5 +1,5 @@
 ---
-title: "Picotti"
+title: "PICOTTI"
 url: /fondettes/picotti/
 shop: supermarché
 ---

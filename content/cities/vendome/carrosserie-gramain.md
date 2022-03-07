@@ -1,5 +1,5 @@
 ---
-title: "Carrosserie Gramain"
+title: "CARROSSERIE GRAMAIN"
 url: /vendome/carrosserie-gramain/
 shop: réparation de voitures
 ---
