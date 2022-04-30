@@ -1,6 +1,6 @@
 ---
 title: Saint-Genouph
 url: /saint-genouph/
-latitude: 47.375
-longitude: 0.575
+latitude: 47.371
+longitude: 0.582
 ---
