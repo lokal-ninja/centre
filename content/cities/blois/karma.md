@@ -1,5 +1,5 @@
 ---
 title: "Karma"
 url: /blois/karma/
-shop: shop
+shop: voiture
 ---

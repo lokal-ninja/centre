@@ -1,5 +1,5 @@
 ---
-title: "Naf Naf"
+title: "NAF NAF"
 url: /blois/naf-naf/
 shop: vêtements
 ---
