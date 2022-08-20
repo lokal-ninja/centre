@@ -1,6 +1,6 @@
 ---
 title: Truyes
 url: /truyes/
-latitude: 47.274
-longitude: 0.831
+latitude: 47.276
+longitude: 0.83
 ---
