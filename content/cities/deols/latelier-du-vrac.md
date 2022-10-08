@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier du Vrac"
-url: /chateauroux/latelier-du-vrac/
+url: /deols/latelier-du-vrac/
 shop: commodité
 ---

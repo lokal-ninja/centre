@@ -1,6 +1,6 @@
 ---
 title: Chabris
 url: /chabris/
-latitude: 47.235
-longitude: 1.621
+latitude: 47.245
+longitude: 1.64
 ---
