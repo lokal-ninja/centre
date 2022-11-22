@@ -1,6 +1,6 @@
 ---
 title: Verneuil-sur-Igneraie
 url: /verneuil-sur-igneraie/
-latitude: 46.657
-longitude: 2.02
+latitude: 46.656
+longitude: 2.024
 ---
