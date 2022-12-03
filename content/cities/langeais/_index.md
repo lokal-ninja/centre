@@ -1,6 +1,6 @@
 ---
 title: Langeais
 url: /langeais/
-latitude: 47.332
-longitude: 0.425
+latitude: 47.326
+longitude: 0.406
 ---
