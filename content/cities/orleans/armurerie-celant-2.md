@@ -1,5 +1,5 @@
 ---
 title: "Armurerie Célant"
-url: /orleans/armurerie-celant-2/
+url: /orleans/armurerie-celant/
 shop: armes
 ---

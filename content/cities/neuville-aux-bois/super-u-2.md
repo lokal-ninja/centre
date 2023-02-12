@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /neuville-aux-bois/super-u-2/
+url: /neuville-aux-bois/super-u/
 shop: supermarché
 ---
