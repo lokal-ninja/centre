@@ -1,5 +1,5 @@
 ---
 title: "Le Jardin d'Amandine"
-url: /fondttes/le-jardin-damandine/
+url: /fondettes/le-jardin-damandine/
 shop: fleuriste
 ---

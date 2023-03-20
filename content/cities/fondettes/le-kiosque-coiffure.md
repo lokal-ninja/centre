@@ -1,5 +1,5 @@
 ---
 title: "Le kiosque coiffure"
-url: /fondttes/le-kiosque-coiffure/
+url: /fondettes/le-kiosque-coiffure/
 shop: coiffeur
 ---
