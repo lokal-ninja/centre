@@ -1,6 +1,6 @@
 ---
 title: Auneau
 url: /auneau/
-latitude: 48.477
-longitude: 1.765
+latitude: 48.478
+longitude: 1.769
 ---
