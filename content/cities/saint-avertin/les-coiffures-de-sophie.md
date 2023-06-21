@@ -1,5 +1,5 @@
 ---
-title: "Les Coiffures de Sophie"
+title: "Les coiffures de Sophie"
 url: /saint-avertin/les-coiffures-de-sophie/
 shop: coiffeur
 ---
