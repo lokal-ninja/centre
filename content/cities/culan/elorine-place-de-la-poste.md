@@ -1,5 +1,5 @@
 ---
 title: "Elorine"
 url: /culan/elorine/
-shop: tabac
+shop: marchand de journaux
 ---
