@@ -1,5 +1,5 @@
 ---
 title: "Emmaüs"
-url: /orleans/emmaus/
+url: /orleans/emmaus-avenue-de-buffon/
 shop: charité
 ---

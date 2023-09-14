@@ -1,5 +1,5 @@
 ---
 title: "La Balade Gourmande"
-url: /azay-le-rideau/la-balade-gourmande/
+url: /azay-le-rideau/la-balade-gourmande-rue-gambetta/
 shop: alcool
 ---

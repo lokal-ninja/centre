@@ -1,5 +1,5 @@
 ---
 title: "Kartell"
-url: /orleans/kartell/
+url: /orleans/kartell-rue-jean-hupeau/
 shop: meubles
 ---

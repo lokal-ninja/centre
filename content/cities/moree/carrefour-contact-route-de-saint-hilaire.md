@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /moree/carrefour-contact/
+url: /moree/carrefour-contact-route-de-saint-hilaire/
 shop: supermarché
 ---

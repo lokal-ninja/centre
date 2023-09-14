@@ -1,5 +1,5 @@
 ---
 title: "Burton"
-url: /tours/burton/
+url: /tours/burton-rue-nationale/
 shop: vêtements
 ---

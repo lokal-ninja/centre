@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /vendome/e-leclerc/
+url: /vendome/e-leclerc-rue-de-courtiras/
 shop: gaz
 ---

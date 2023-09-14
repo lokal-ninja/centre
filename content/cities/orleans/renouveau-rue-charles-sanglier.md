@@ -1,5 +1,5 @@
 ---
 title: "Renouveau"
-url: /orleans/renouveau/
+url: /orleans/renouveau-rue-charles-sanglier/
 shop: vêtements
 ---

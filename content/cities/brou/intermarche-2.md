@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /brou/intermarche/
+url: /brou/intermarche-2/
 shop: supermarché
 ---
