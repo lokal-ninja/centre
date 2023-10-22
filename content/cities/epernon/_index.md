@@ -1,6 +1,6 @@
 ---
 title: Épernon
 url: /epernon/
-latitude: 48.604
-longitude: 1.677
+latitude: 48.609
+longitude: 1.679
 ---
