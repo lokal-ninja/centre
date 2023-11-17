@@ -1,11 +1,11 @@
 id: 9542960309
 type: node
-latitude: 47.39409
-longitude: 0.68708
+latitude: 47.39408
+longitude: 0.68706
 postcode: "37000"
 city: Tours
 street: "Rue Nationale"
 housenumber: 
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
-website: ""
+opening_hours: "Mo-Sa 10:00-19:00"
+website: "https://www.lachaiselongue.fr/pages/tours"
