@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie Patisserie"
+title: "Boulangerie-Patisserie"
 url: /orleans/boulangerie-patisserie/
 shop: boulangerie
 ---
