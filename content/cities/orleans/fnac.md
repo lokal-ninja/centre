@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /orleans/fnac/
-shop: livres
+shop: électronique
 ---
