@@ -1,5 +1,5 @@
 ---
 title: "Pomrouge"
 url: /orleans/pomrouge/
-shop: supermarché
+shop: magasin de variétés
 ---
