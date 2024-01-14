@@ -1,5 +1,5 @@
 ---
-title: "Cave de Marc & Sébastien"
+title: "Cave de Marc et Sébastien"
 url: /orleans/cave-de-marc-et-sebastien/
-shop: alcool
+shop: vin
 ---
