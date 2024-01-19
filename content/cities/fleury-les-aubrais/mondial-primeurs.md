@@ -1,5 +1,5 @@
 ---
-title: "MONDIAL PRIMEURS"
+title: "Mondial Primeurs"
 url: /fleury-les-aubrais/mondial-primeurs/
 shop: commodité
 ---
