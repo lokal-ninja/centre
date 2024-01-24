@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /fleury-les-aubrais/lapeyre/
-shop: meubles
+shop: à faire soi-même
 ---
