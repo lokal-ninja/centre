@@ -1,6 +1,6 @@
 ---
-title: Checy
+title: Chécy
 url: /checy/
-latitude: 47.906
-longitude: 2.032
+latitude: 47.904
+longitude: 2.031
 ---

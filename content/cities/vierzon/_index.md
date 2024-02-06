@@ -1,6 +1,6 @@
 ---
 title: Vierzon
 url: /vierzon/
-latitude: 47.238
-longitude: 2.091
+latitude: 47.233
+longitude: 2.083
 ---
