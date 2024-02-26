@@ -1,6 +1,6 @@
 ---
 title: Ingré
 url: /ingre/
-latitude: 47.921
-longitude: 1.827
+latitude: 47.92
+longitude: 1.83
 ---
