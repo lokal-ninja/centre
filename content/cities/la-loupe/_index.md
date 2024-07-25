@@ -1,6 +1,6 @@
 ---
 title: La Loupe
 url: /la-loupe/
-latitude: 48.479
-longitude: 1.025
+latitude: 48.476
+longitude: 1.021
 ---
