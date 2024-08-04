@@ -1,5 +1,5 @@
 ---
-title: "Dr.High-Tech"
+title: "Dr. High-Tech"
 url: /orleans/dr-high-tech/
 shop: électronique
 ---
