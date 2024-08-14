@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /orleans/e-leclerc-drive/
-shop: supermarché
+shop: avant-poste
 ---
