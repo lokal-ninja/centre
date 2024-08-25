@@ -1,6 +1,6 @@
 ---
 title: Lèves
 url: /leves/
-latitude: 48.478
-longitude: 1.48
+latitude: 48.487
+longitude: 1.472
 ---
