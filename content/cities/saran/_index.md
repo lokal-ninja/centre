@@ -1,6 +1,6 @@
 ---
 title: Saran
 url: /saran/
-latitude: 47.959
-longitude: 1.886
+latitude: 47.951
+longitude: 1.878
 ---

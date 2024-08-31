@@ -1,6 +1,6 @@
 ---
 title: Gallardon
 url: /gallardon/
-latitude: 48.525
-longitude: 1.69
+latitude: 48.529
+longitude: 1.697
 ---
