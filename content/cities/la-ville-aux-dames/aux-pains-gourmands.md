@@ -1,5 +1,5 @@
 ---
 title: "Aux Pains Gourmands"
 url: /la-ville-aux-dames/aux-pains-gourmands/
-shop: boulangerie
+shop: Bäckerei
 ---

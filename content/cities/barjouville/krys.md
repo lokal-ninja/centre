@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /barjouville/krys/
-shop: opticien
+shop: Optiker
 ---

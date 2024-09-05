@@ -1,5 +1,5 @@
 ---
 title: "Lib's Old"
 url: /orleans/libs-old/
-shop: charité
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christian Bernard"
 url: /gien/christian-bernard/
-shop: vélo
+shop: Fahrrad
 ---

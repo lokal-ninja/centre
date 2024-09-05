@@ -1,5 +1,5 @@
 ---
 title: "Lucas"
 url: /cherisy/lucas/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo Orléans"
 url: /orleans/mondovelo-orleans/
-shop: vélo
+shop: Fahrrad
 ---

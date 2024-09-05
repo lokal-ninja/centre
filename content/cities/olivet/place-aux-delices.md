@@ -1,5 +1,5 @@
 ---
 title: "Place aux Délices"
 url: /olivet/place-aux-delices/
-shop: boulangerie
+shop: Bäckerei
 ---

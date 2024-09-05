@@ -1,5 +1,5 @@
 ---
 title: "SoCoo'c"
 url: /olivet/socooc/
-shop: cuisine
+shop: Küchen
 ---

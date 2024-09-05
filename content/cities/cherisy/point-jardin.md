@@ -1,5 +1,5 @@
 ---
 title: "Point Jardin"
 url: /cherisy/point-jardin/
-shop: centre de jardinage
+shop: Garten-Center
 ---

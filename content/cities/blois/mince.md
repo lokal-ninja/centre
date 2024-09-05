@@ -1,5 +1,5 @@
 ---
 title: "Mince"
 url: /blois/mince/
-shop: tatouage
+shop: Tattoo
 ---

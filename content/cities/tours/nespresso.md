@@ -1,5 +1,5 @@
 ---
 title: "Nespresso"
 url: /tours/nespresso/
-shop: café
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Générale d'Optique"
+title: "Générale d’Optique"
 url: /orleans/generale-doptique/
-shop: opticien
+shop: Optiker
 ---

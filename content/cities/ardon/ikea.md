@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /ardon/ikea/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Nadal"
 url: /orleans/maison-nadal/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BORDERline"
 url: /tours/borderline/
-shop: tatouage
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /olivet/lissac/
-shop: opticien
+shop: Optiker
 ---

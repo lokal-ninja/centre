@@ -1,5 +1,5 @@
 ---
 title: "Br"
 url: /bourges/br/
-shop: vêtements
+shop: Kleidung
 ---

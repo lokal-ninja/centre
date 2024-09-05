@@ -1,5 +1,5 @@
 ---
 title: "Cordier"
 url: /orleans/cordier/
-shop: chocolat
+shop: Schokolade
 ---

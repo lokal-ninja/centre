@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /ingre/atlantis/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /orleans/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

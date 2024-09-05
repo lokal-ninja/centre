@@ -1,5 +1,5 @@
 ---
 title: "Pinato"
 url: /blois/pinato/
-shop: opticien
+shop: Optiker
 ---

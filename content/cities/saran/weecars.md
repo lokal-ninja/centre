@@ -1,5 +1,5 @@
 ---
 title: "WeeCars"
 url: /saran/weecars/
-shop: voiture
+shop: Autohaus
 ---

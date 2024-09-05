@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /checy/optical-center/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /saran/darty/
-shop: électronique
+shop: Elektronik
 ---

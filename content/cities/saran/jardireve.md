@@ -1,5 +1,5 @@
 ---
 title: "Jardirève"
 url: /saran/jardireve/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /tours/celio/
-shop: vêtements
+shop: Kleidung
 ---

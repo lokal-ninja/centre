@@ -1,5 +1,5 @@
 ---
 title: "MIM"
 url: /amilly/mim/
-shop: vêtements
+shop: Kleidung
 ---

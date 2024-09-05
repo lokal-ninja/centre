@@ -1,5 +1,5 @@
 ---
 title: "Ailleurs Comme Ici"
 url: /orleans/ailleurs-comme-ici/
-shop: beauté
+shop: Kosmetik
 ---

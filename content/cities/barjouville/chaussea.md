@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /barjouville/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /vernouillet/stokomani/
-shop: magasin de variétés
+shop: Kramladen
 ---

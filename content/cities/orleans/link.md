@@ -1,5 +1,5 @@
 ---
 title: "Link"
 url: /orleans/link/
-shop: cuir
+shop: Leder
 ---

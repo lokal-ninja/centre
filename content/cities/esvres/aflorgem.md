@@ -1,5 +1,5 @@
 ---
 title: "Aflorgem"
 url: /esvres/aflorgem/
-shop: fleuriste
+shop: Blumen
 ---

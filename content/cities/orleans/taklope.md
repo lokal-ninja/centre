@@ -1,5 +1,5 @@
 ---
 title: "Taklope"
 url: /orleans/taklope/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

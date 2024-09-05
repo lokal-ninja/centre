@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /montargis/la-civette/
-shop: tabac
+shop: Tabak
 ---

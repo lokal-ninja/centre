@@ -1,5 +1,5 @@
 ---
 title: "Magma Hase"
 url: /olivet/magma-hase/
-shop: cheminée
+shop: Kamine & Öfen
 ---

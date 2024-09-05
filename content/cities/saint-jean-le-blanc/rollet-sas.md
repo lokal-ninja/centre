@@ -1,5 +1,5 @@
 ---
 title: "Rollet SAS"
 url: /saint-jean-le-blanc/rollet-sas/
-shop: serrurier
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catimini"
 url: /orleans/catimini/
-shop: vêtements
+shop: Kleidung
 ---

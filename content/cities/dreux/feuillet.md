@@ -1,5 +1,5 @@
 ---
 title: "Feuillet"
 url: /dreux/feuillet/
-shop: boulangerie
+shop: Bäckerei
 ---

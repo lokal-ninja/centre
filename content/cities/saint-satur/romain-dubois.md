@@ -1,5 +1,5 @@
 ---
 title: "Romain Dubois"
 url: /saint-satur/romain-dubois/
-shop: fromage
+shop: Käse
 ---

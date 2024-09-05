@@ -1,5 +1,5 @@
 ---
 title: "Cycles de Vie"
 url: /loches/cycles-de-vie/
-shop: vélo
+shop: Fahrrad
 ---

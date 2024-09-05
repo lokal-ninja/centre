@@ -1,5 +1,5 @@
 ---
 title: "Ïdkids"
 url: /orleans/idkids/
-shop: vêtements
+shop: Kleidung
 ---

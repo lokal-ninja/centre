@@ -1,5 +1,5 @@
 ---
 title: "Domaine Julien Thurel"
 url: /loury/domaine-julien-thurel/
-shop: ferme
+shop: Hofladen
 ---

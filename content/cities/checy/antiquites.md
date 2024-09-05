@@ -1,5 +1,5 @@
 ---
 title: "Antiquités"
 url: /checy/antiquites/
-shop: antiquités
+shop: Antiquitäten
 ---

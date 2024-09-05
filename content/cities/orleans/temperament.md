@@ -1,5 +1,5 @@
 ---
 title: "Tempérament"
 url: /orleans/temperament/
-shop: coiffeur
+shop: Friseur
 ---

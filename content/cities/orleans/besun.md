@@ -1,5 +1,5 @@
 ---
 title: "BeSun"
 url: /orleans/besun/
-shop: beauté
+shop: Kosmetik
 ---

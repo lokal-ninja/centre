@@ -1,5 +1,5 @@
 ---
 title: "Bric à Brac"
 url: /orleans/bric-a-brac/
-shop: antiquités
+shop: Antiquitäten
 ---

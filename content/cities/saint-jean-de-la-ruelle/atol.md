@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /saint-jean-de-la-ruelle/atol/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEMED'O"
 url: /orleans/cemedo/
-shop: beauté
+shop: Kosmetik
 ---

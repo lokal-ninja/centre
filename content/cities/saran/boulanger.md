@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /saran/boulanger/
-shop: électronique
+shop: Elektronik
 ---

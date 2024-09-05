@@ -1,5 +1,5 @@
 ---
 title: "Panier du Centre"
 url: /orleans/panier-du-centre/
-shop: commodité
+shop: Lebensmittel
 ---

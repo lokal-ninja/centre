@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /checy/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /villemandeur/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

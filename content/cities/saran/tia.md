@@ -1,5 +1,5 @@
 ---
 title: "TIA"
 url: /saran/tia/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Girolet"
 url: /orleans/girolet/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /tours/vertbaudet/
-shop: vêtements
+shop: Kleidung
 ---

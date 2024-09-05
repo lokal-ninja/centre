@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /cherisy/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Berteau"
 url: /ouzouer-le-marche/boulangerie-berteau/
-shop: boulangerie
+shop: Bäckerei
 ---

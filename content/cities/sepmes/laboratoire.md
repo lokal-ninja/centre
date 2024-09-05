@@ -1,5 +1,5 @@
 ---
 title: "Laboratoire"
 url: /sepmes/laboratoire/
-shop: fromage
+shop: Käse
 ---

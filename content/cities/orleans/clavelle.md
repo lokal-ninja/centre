@@ -1,5 +1,5 @@
 ---
 title: "Clavelle"
 url: /orleans/clavelle/
-shop: vêtements
+shop: Kleidung
 ---

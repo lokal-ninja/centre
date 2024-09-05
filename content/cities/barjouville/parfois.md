@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /barjouville/parfois/
-shop: boutique
+shop: Modehaus
 ---

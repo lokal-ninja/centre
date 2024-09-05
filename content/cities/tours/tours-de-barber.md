@@ -1,5 +1,5 @@
 ---
 title: "Tours de barber"
 url: /tours/tours-de-barber/
-shop: coiffeur
+shop: Friseur
 ---

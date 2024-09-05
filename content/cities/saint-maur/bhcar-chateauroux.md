@@ -1,5 +1,5 @@
 ---
 title: "Bhcar chateauroux"
 url: /saint-maur/bhcar-chateauroux/
-shop: voiture
+shop: Autohaus
 ---

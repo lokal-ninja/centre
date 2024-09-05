@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /montargis/mango/
-shop: vêtements
+shop: Kleidung
 ---

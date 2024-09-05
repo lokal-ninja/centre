@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /issoudun/gamm-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

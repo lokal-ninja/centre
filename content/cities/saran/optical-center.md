@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /saran/optical-center/
-shop: opticien
+shop: Optiker
 ---

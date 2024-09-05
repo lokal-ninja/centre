@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /saint-pierre-des-corps/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

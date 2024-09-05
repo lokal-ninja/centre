@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /la-chatre/carrefour-market/
-shop: supermarché
+shop: Supermarkt
 ---

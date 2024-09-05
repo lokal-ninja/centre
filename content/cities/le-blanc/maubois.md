@@ -1,5 +1,5 @@
 ---
 title: "Maubois"
 url: /le-blanc/maubois/
-shop: fleuriste
+shop: Blumen
 ---

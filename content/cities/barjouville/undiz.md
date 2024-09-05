@@ -1,5 +1,5 @@
 ---
 title: "Undiz"
 url: /barjouville/undiz/
-shop: vêtements
+shop: Kleidung
 ---

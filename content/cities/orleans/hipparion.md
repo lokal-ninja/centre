@@ -1,5 +1,5 @@
 ---
 title: "Hipparion"
 url: /orleans/hipparion/
-shop: vêtements
+shop: Kleidung
 ---

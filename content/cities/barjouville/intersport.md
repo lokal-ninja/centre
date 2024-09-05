@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /barjouville/intersport/
-shop: sports
+shop: Sport
 ---

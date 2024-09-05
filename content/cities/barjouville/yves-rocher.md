@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /barjouville/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

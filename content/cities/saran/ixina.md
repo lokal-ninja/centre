@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /saran/ixina/
-shop: cuisine
+shop: Küchen
 ---

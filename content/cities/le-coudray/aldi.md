@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /le-coudray/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

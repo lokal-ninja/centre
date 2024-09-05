@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /villemandeur/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

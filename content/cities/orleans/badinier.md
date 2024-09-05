@@ -1,5 +1,5 @@
 ---
 title: "Badinier"
 url: /orleans/badinier/
-shop: sac
+shop: Taschen & Koffer
 ---

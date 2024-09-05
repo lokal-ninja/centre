@@ -1,5 +1,5 @@
 ---
 title: "Acoté"
 url: /orleans/acote/
-shop: vêtements
+shop: Kleidung
 ---

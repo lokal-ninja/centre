@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /barjouville/courir/
-shop: chaussures
+shop: Schuhe
 ---

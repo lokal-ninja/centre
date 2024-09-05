@@ -1,5 +1,5 @@
 ---
 title: "Mim"
 url: /montargis/mim/
-shop: vêtements
+shop: Kleidung
 ---

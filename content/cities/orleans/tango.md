@@ -1,5 +1,5 @@
 ---
 title: "Tango"
 url: /orleans/tango/
-shop: bijoux
+shop: Schmuck
 ---

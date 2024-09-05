@@ -1,5 +1,5 @@
 ---
 title: "Mistigriff"
 url: /orleans/mistigriff/
-shop: vêtements
+shop: Kleidung
 ---

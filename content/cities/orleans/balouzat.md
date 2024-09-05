@@ -1,5 +1,5 @@
 ---
 title: "Balouzat"
 url: /orleans/balouzat/
-shop: opticien
+shop: Optiker
 ---

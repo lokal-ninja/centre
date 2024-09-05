@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie WEBERT"
 url: /culan/boucherie-charcuterie-webert/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur à domicile ANA'ELLE"
 url: /sandillon/coiffeur-a-domicile-anaelle/
-shop: coiffeur
+shop: Friseur
 ---

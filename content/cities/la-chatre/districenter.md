@@ -1,5 +1,5 @@
 ---
 title: "DistriCenter"
 url: /la-chatre/districenter/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /dreux/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

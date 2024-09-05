@@ -1,5 +1,5 @@
 ---
 title: "Active"
 url: /tours/active/
-shop: charité
+shop: Gebrauchtwaren
 ---

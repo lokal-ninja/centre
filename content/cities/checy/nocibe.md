@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /checy/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

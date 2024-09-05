@@ -1,5 +1,5 @@
 ---
 title: "Berber"
 url: /orleans/berber/
-shop: coiffeur
+shop: Friseur
 ---

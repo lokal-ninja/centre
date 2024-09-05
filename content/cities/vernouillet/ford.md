@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /vernouillet/ford/
-shop: voiture
+shop: Autohaus
 ---

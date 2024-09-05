@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /tours/jules/
-shop: vêtements
+shop: Kleidung
 ---

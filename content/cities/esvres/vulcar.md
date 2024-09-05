@@ -1,5 +1,5 @@
 ---
 title: "Vulcar"
 url: /esvres/vulcar/
-shop: voiture
+shop: Autohaus
 ---

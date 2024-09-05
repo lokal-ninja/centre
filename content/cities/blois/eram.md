@@ -1,5 +1,5 @@
 ---
 title: "Éram"
 url: /blois/eram/
-shop: chaussures
+shop: Schuhe
 ---

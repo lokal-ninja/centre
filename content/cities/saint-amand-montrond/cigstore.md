@@ -1,5 +1,5 @@
 ---
 title: "CIG'Store"
 url: /saint-amand-montrond/cigstore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

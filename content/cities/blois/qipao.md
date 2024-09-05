@@ -1,5 +1,5 @@
 ---
 title: "Qipao"
 url: /blois/qipao/
-shop: beauté
+shop: Kosmetik
 ---

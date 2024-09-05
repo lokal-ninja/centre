@@ -1,5 +1,5 @@
 ---
 title: "Fleurs de Dragées"
 url: /orleans/fleurs-de-dragees/
-shop: confiserie
+shop: Süßwaren
 ---

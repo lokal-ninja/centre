@@ -1,5 +1,5 @@
 ---
 title: "Kaki"
 url: /olivet/kaki/
-shop: vêtements
+shop: Kleidung
 ---

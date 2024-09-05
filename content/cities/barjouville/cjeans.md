@@ -1,5 +1,5 @@
 ---
 title: "C'Jeans"
 url: /barjouville/cjeans/
-shop: vêtements
+shop: Kleidung
 ---

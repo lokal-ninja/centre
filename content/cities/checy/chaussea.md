@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /checy/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

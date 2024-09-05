@@ -1,5 +1,5 @@
 ---
 title: "Monbana"
 url: /olivet/monbana/
-shop: chocolat
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iola"
 url: /orleans/iola/
-shop: chaussures
+shop: Schuhe
 ---

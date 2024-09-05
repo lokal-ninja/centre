@@ -1,5 +1,5 @@
 ---
 title: "Paul Marius"
 url: /orleans/paul-marius/
-shop: sac
+shop: Taschen & Koffer
 ---

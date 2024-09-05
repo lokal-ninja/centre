@@ -1,5 +1,5 @@
 ---
 title: "Val Frais"
 url: /checy/val-frais/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jardiprix"
 url: /esvres/jardiprix/
-shop: centre de jardinage
+shop: Garten-Center
 ---

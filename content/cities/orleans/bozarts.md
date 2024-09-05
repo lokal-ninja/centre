@@ -1,5 +1,5 @@
 ---
 title: "Bozarts"
 url: /orleans/bozarts/
-shop: art
+shop: Kunst
 ---

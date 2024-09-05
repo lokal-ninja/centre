@@ -1,5 +1,5 @@
 ---
 title: "Rapid’Market"
 url: /saint-benoit-sur-loire/rapidmarket/
-shop: supermarché
+shop: Supermarkt
 ---

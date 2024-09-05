@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /vernouillet/mini/
-shop: voiture
+shop: Autohaus
 ---

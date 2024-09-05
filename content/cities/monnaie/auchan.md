@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /monnaie/auchan/
-shop: supermarché
+shop: Supermarkt
 ---

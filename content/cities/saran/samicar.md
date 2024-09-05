@@ -1,5 +1,5 @@
 ---
 title: "Samicar"
 url: /saran/samicar/
-shop: voiture
+shop: Autohaus
 ---

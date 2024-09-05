@@ -1,5 +1,5 @@
 ---
 title: "Méphisto"
 url: /bourges/mephisto/
-shop: chaussures
+shop: Schuhe
 ---

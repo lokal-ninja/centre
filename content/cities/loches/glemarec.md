@@ -1,5 +1,5 @@
 ---
 title: "Glemarec"
 url: /loches/glemarec/
-shop: gaz
+shop: Gasflaschen
 ---

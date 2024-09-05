@@ -1,5 +1,5 @@
 ---
 title: "SCP"
 url: /esvres/scp/
-shop: piscine
+shop: Pool
 ---

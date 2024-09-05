@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
 url: /checy/tamaris/
-shop: chaussures
+shop: Schuhe
 ---

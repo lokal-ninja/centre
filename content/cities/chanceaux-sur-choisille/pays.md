@@ -1,5 +1,5 @@
 ---
 title: "Pays"
 url: /chanceaux-sur-choisille/pays/
-shop: boulangerie
+shop: Bäckerei
 ---

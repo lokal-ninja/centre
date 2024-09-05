@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
 url: /tours/bocage/
-shop: chaussures
+shop: Schuhe
 ---

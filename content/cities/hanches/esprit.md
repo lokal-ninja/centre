@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /hanches/esprit/
-shop: vêtements
+shop: Kleidung
 ---

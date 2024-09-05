@@ -1,5 +1,5 @@
 ---
 title: "Marchi"
 url: /bourges/marchi/
-shop: boulangerie
+shop: Bäckerei
 ---

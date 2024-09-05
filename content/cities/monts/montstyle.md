@@ -1,5 +1,5 @@
 ---
 title: "Montstyle"
 url: /monts/montstyle/
-shop: vêtements
+shop: Kleidung
 ---

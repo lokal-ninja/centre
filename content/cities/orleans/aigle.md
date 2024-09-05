@@ -1,5 +1,5 @@
 ---
 title: "Aigle"
 url: /orleans/aigle/
-shop: vêtements
+shop: Kleidung
 ---

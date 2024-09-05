@@ -1,5 +1,5 @@
 ---
 title: "Tulipalo"
 url: /esvres/tulipalo/
-shop: cheminée
+shop: Kamine & Öfen
 ---

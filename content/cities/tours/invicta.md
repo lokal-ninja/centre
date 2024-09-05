@@ -1,5 +1,5 @@
 ---
 title: "Invicta"
 url: /tours/invicta/
-shop: cheminée
+shop: Kamine & Öfen
 ---

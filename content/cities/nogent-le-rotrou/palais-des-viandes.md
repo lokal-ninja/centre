@@ -1,5 +1,5 @@
 ---
 title: "palais des viandes"
 url: /nogent-le-rotrou/palais-des-viandes/
-shop: boucherie
+shop: Metzgerei
 ---

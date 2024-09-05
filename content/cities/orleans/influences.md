@@ -1,5 +1,5 @@
 ---
 title: "Influences"
 url: /orleans/influences/
-shop: bijoux
+shop: Schmuck
 ---

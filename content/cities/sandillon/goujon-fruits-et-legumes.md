@@ -1,5 +1,5 @@
 ---
 title: "Goujon Fruits et Légumes"
 url: /sandillon/goujon-fruits-et-legumes/
-shop: légumes
+shop: Gemüse & Obst
 ---

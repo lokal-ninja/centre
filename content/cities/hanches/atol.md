@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /hanches/atol/
-shop: opticien
+shop: Optiker
 ---

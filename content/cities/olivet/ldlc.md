@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /olivet/ldlc/
-shop: ordinateur
+shop: Computer
 ---

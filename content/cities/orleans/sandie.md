@@ -1,5 +1,5 @@
 ---
 title: "Sandie"
 url: /orleans/sandie/
-shop: vêtements
+shop: Kleidung
 ---

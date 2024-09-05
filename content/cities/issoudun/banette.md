@@ -1,5 +1,5 @@
 ---
 title: "Banette"
 url: /issoudun/banette/
-shop: boulangerie
+shop: Bäckerei
 ---

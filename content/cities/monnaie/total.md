@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /monnaie/total/
-shop: commodité
+shop: Lebensmittel
 ---

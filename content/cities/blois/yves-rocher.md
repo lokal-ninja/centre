@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /blois/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

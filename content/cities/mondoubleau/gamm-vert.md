@@ -1,5 +1,5 @@
 ---
 title: "Gamm Vert"
 url: /mondoubleau/gamm-vert/
-shop: centre de jardinage
+shop: Garten-Center
 ---

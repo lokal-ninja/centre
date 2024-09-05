@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /amilly/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

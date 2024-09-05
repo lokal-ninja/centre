@@ -1,5 +1,5 @@
 ---
 title: "Ets Gabardos"
 url: /saint-jean-le-blanc/ets-gabardos/
-shop: voiture
+shop: Autohaus
 ---

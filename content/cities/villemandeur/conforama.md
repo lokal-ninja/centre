@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /villemandeur/conforama/
-shop: meubles
+shop: Möbel
 ---

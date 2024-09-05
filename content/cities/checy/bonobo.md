@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /checy/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /orleans/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

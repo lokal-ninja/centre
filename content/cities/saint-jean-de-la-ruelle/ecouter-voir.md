@@ -1,5 +1,5 @@
 ---
 title: "Ecouter Voir"
 url: /saint-jean-de-la-ruelle/ecouter-voir/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gamecash"
 url: /barjouville/gamecash/
-shop: jeux vidéo
+shop: Videospiele
 ---

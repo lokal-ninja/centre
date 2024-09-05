@@ -1,5 +1,5 @@
 ---
 title: "EARL des Fromenteries"
 url: /clery-saint-andre/earl-des-fromenteries/
-shop: légumes
+shop: Gemüse & Obst
 ---

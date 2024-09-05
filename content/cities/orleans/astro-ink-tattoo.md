@@ -1,5 +1,5 @@
 ---
 title: "Astro Ink Tattoo"
 url: /orleans/astro-ink-tattoo/
-shop: tatouage
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promarché"
 url: /issoudun/promarche/
-shop: shop
+shop: Allgemein
 ---

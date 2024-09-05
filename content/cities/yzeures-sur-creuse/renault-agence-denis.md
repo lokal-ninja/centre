@@ -1,5 +1,5 @@
 ---
 title: "Renault Agence Denis"
 url: /yzeures-sur-creuse/renault-agence-denis/
-shop: voiture
+shop: Autohaus
 ---

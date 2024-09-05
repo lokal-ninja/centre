@@ -1,5 +1,5 @@
 ---
 title: "Linéad"
 url: /dreux/linead/
-shop: billet
+shop: Tickets
 ---

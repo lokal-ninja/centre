@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dreux/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

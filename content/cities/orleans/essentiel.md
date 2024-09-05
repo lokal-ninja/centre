@@ -1,5 +1,5 @@
 ---
 title: "Essentiel"
 url: /orleans/essentiel/
-shop: coiffeur
+shop: Friseur
 ---

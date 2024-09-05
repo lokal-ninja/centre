@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /barjouville/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

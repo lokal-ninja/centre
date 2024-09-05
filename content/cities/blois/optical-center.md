@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /blois/optical-center/
-shop: opticien
+shop: Optiker
 ---

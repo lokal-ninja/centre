@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie Berrichone"
 url: /neuvy-saint-sepulchre/charcuterie-berrichone/
-shop: boucherie
+shop: Metzgerei
 ---

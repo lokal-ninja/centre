@@ -1,5 +1,5 @@
 ---
 title: "Diagonal"
 url: /orleans/diagonal/
-shop: coiffeur
+shop: Friseur
 ---

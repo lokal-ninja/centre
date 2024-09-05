@@ -1,5 +1,5 @@
 ---
 title: "L'atelier Coiffure"
 url: /tours/latelier-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Style"
 url: /fleury-les-aubrais/my-style/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bulthaup"
 url: /orleans/bulthaup/
-shop: cuisine
+shop: Küchen
 ---

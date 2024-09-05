@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /montargis/morgan/
-shop: vêtements
+shop: Kleidung
 ---

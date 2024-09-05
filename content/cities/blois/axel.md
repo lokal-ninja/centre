@@ -1,5 +1,5 @@
 ---
 title: "Axel"
 url: /blois/axel/
-shop: sac
+shop: Taschen & Koffer
 ---

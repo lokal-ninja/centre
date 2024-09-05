@@ -1,5 +1,5 @@
 ---
 title: "Cadoux"
 url: /blois/cadoux/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orel"
 url: /orleans/orel/
-shop: bijoux
+shop: Schmuck
 ---

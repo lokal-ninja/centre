@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /olivet/bmw/
-shop: moto
+shop: Motorrad
 ---

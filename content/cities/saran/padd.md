@@ -1,5 +1,5 @@
 ---
 title: "PADD"
 url: /saran/padd/
-shop: sports
+shop: Sport
 ---

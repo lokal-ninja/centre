@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /checy/vapostore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

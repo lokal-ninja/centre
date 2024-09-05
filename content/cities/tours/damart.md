@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /tours/damart/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corrivaud"
 url: /bourgueil/corrivaud/
-shop: vélo
+shop: Fahrrad
 ---

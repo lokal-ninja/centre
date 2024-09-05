@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie d'Abondant"
 url: /abondant/boulangerie-dabondant/
-shop: boulangerie
+shop: Bäckerei
 ---

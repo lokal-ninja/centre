@@ -1,5 +1,5 @@
 ---
 title: "Home"
 url: /blois/home/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /checy/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

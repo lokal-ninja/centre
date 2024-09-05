@@ -1,5 +1,5 @@
 ---
 title: "Vog"
 url: /vendome/vog/
-shop: boutique
+shop: Modehaus
 ---

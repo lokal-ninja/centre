@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /montargis/devred/
-shop: vêtements
+shop: Kleidung
 ---

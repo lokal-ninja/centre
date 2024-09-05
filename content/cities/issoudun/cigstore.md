@@ -1,5 +1,5 @@
 ---
 title: "CIG'Store"
 url: /issoudun/cigstore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

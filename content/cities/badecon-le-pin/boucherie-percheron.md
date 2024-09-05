@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Percheron"
 url: /badecon-le-pin/boucherie-percheron/
-shop: boucherie
+shop: Metzgerei
 ---

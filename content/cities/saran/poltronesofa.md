@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /saran/poltronesofa/
-shop: meubles
+shop: Möbel
 ---

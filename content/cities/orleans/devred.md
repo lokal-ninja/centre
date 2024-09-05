@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /orleans/devred/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pas à Pas"
 url: /orleans/pas-a-pas/
-shop: chaussures
+shop: Schuhe
 ---

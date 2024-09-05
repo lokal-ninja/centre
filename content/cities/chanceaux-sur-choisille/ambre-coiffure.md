@@ -1,5 +1,5 @@
 ---
 title: "Ambre Coiffure"
 url: /chanceaux-sur-choisille/ambre-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

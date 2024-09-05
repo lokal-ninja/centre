@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /issoudun/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

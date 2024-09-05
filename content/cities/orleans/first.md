@@ -1,5 +1,5 @@
 ---
 title: "First"
 url: /orleans/first/
-shop: vêtements
+shop: Kleidung
 ---

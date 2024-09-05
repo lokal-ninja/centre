@@ -1,5 +1,5 @@
 ---
 title: "Altermove"
 url: /saran/altermove/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /la-chatre/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouchard"
 url: /orleans/bouchard/
-shop: bijoux
+shop: Schmuck
 ---

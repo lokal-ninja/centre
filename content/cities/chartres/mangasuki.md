@@ -1,5 +1,5 @@
 ---
 title: "Mangasuki"
 url: /chartres/mangasuki/
-shop: anime
+shop: Anime
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /barjouville/schmidt/
-shop: cuisine
+shop: Küchen
 ---
