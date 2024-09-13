@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /chambray-les-tours/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

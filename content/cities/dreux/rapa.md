@@ -1,5 +1,5 @@
 ---
 title: "Rapa"
 url: /dreux/rapa/
-shop: Baumarkt
+shop: à faire soi-même
 ---

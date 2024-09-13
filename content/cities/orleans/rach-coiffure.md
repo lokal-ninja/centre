@@ -1,5 +1,5 @@
 ---
 title: "Rach' Coiffure"
 url: /orleans/rach-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

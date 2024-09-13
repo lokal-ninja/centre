@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
 url: /olivet/tamaris/
-shop: Schuhe
+shop: chaussures
 ---

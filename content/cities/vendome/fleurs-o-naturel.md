@@ -1,5 +1,5 @@
 ---
 title: "Fleurs Ô Naturel"
 url: /vendome/fleurs-o-naturel/
-shop: Blumen
+shop: fleuriste
 ---

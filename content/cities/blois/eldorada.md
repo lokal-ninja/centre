@@ -1,5 +1,5 @@
 ---
 title: "Eldorada"
 url: /blois/eldorada/
-shop: Modehaus
+shop: boutique
 ---

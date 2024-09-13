@@ -1,5 +1,5 @@
 ---
 title: "Arthurimmo"
 url: /saint-jean-de-la-ruelle/arthurimmo/
-shop: Allgemein
+shop: shop
 ---

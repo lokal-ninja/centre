@@ -1,5 +1,5 @@
 ---
 title: "Co.mar.dis"
 url: /la-chatre/co-mar-dis/
-shop: Fisch
+shop: fruits de mer
 ---

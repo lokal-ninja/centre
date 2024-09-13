@@ -1,5 +1,5 @@
 ---
 title: "Opaline Location"
 url: /dreux/opaline-location/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /chateaudun/orange/
-shop: Handy
+shop: téléphone portable
 ---

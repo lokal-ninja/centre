@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /fondettes/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

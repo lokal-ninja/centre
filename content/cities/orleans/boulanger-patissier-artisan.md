@@ -1,5 +1,5 @@
 ---
 title: "Boulanger Patissier Artisan"
 url: /orleans/boulanger-patissier-artisan/
-shop: Bäckerei
+shop: boulangerie
 ---

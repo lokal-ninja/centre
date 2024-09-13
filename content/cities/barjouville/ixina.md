@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /barjouville/ixina/
-shop: Küchen
+shop: cuisine
 ---

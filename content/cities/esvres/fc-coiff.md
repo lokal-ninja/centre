@@ -1,5 +1,5 @@
 ---
 title: "FC Coiff"
 url: /esvres/fc-coiff/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoadvisor"
 url: /saran/autoadvisor/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

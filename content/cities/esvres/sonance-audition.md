@@ -1,5 +1,5 @@
 ---
 title: "Sonance Audition"
 url: /esvres/sonance-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

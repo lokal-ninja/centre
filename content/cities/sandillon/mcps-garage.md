@@ -1,5 +1,5 @@
 ---
 title: "MCPS Garage"
 url: /sandillon/mcps-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

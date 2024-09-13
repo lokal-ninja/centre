@@ -1,5 +1,5 @@
 ---
 title: "Covifruit"
 url: /olivet/covifruit/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Créa-Mod"
 url: /la-chatre/crea-mod/
-shop: Kleidung
+shop: vêtements
 ---

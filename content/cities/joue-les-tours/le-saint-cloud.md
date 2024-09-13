@@ -1,5 +1,5 @@
 ---
 title: "Le Saint-Cloud"
 url: /joue-les-tours/le-saint-cloud/
-shop: Tabak
+shop: tabac
 ---

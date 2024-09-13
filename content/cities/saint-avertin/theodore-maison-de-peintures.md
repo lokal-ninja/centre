@@ -1,5 +1,5 @@
 ---
 title: "Theodore Maison de Peintures"
 url: /saint-avertin/theodore-maison-de-peintures/
-shop: Farben
+shop: peinture
 ---

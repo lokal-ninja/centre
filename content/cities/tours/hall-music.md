@@ -1,5 +1,5 @@
 ---
 title: "Hall Music"
 url: /tours/hall-music/
-shop: Instrumente
+shop: instrument de musique
 ---

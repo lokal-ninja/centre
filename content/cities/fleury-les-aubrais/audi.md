@@ -1,5 +1,5 @@
 ---
 title: "Audi "
 url: /fleury-les-aubrais/audi/
-shop: Autohaus
+shop: voiture
 ---

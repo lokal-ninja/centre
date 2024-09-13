@@ -1,5 +1,5 @@
 ---
 title: "La Balade Gourmande"
 url: /azay-le-rideau/la-balade-gourmande/
-shop: Feinkost
+shop: charcuterie
 ---

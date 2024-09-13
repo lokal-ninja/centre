@@ -1,5 +1,5 @@
 ---
 title: "Jet Tours"
 url: /checy/jet-tours/
-shop: Reisebüro
+shop: agence de voyage
 ---

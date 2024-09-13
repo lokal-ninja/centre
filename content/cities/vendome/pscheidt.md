@@ -1,5 +1,5 @@
 ---
 title: "Pscheidt"
 url: /vendome/pscheidt/
-shop: Schmuck
+shop: bijoux
 ---

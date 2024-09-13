@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /checy/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

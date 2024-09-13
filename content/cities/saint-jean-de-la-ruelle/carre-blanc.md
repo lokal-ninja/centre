@@ -1,5 +1,5 @@
 ---
 title: "Carré Blanc"
 url: /saint-jean-de-la-ruelle/carre-blanc/
-shop: Bäckerei
+shop: boulangerie
 ---

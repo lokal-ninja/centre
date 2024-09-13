@@ -1,5 +1,5 @@
 ---
 title: "Dimitri coiffure"
 url: /blois/dimitri-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

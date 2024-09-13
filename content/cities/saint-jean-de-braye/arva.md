@@ -1,5 +1,5 @@
 ---
 title: "Arva"
 url: /saint-jean-de-braye/arva/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

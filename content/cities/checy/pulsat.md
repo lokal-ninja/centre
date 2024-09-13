@@ -1,5 +1,5 @@
 ---
 title: "Pulsat"
 url: /checy/pulsat/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

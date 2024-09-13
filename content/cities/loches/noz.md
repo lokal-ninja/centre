@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /loches/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

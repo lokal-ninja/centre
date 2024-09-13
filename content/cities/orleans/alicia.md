@@ -1,5 +1,5 @@
 ---
 title: "Alicia"
 url: /orleans/alicia/
-shop: Kleidung
+shop: vêtements
 ---

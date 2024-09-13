@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /pithiviers/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

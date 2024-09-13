@@ -1,5 +1,5 @@
 ---
 title: "Auneau Automobiles"
 url: /auneau/auneau-automobiles/
-shop: Autohaus
+shop: voiture
 ---

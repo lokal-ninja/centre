@@ -1,5 +1,5 @@
 ---
 title: "O'Bistro"
 url: /checy/obistro/
-shop: Tabak
+shop: tabac
 ---

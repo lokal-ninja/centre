@@ -1,5 +1,5 @@
 ---
 title: "Kookaï"
 url: /tours/kookai/
-shop: Kleidung
+shop: vêtements
 ---

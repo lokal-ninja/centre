@@ -1,5 +1,5 @@
 ---
 title: "HomeSalons"
 url: /barjouville/homesalons/
-shop: Möbel
+shop: meubles
 ---

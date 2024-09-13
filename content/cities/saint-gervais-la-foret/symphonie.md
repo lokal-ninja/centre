@@ -1,5 +1,5 @@
 ---
 title: "Symphonie"
 url: /saint-gervais-la-foret/symphonie/
-shop: Musik
+shop: musique
 ---

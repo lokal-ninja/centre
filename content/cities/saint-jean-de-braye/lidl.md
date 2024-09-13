@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saint-jean-de-braye/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

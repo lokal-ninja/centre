@@ -1,5 +1,5 @@
 ---
 title: "Bricopro"
 url: /la-chatre/bricopro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

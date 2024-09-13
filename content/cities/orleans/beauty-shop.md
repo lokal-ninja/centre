@@ -1,5 +1,5 @@
 ---
 title: "Beauty Shop"
 url: /orleans/beauty-shop/
-shop: Baustoffe
+shop: commerce
 ---

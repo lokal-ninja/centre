@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /olivet/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

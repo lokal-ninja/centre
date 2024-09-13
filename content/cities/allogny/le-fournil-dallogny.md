@@ -1,5 +1,5 @@
 ---
 title: "Le fournil d'Allogny"
 url: /allogny/le-fournil-dallogny/
-shop: Bäckerei
+shop: boulangerie
 ---

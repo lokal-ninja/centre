@@ -1,5 +1,5 @@
 ---
 title: "Revolution"
 url: /saint-jean-de-braye/revolution/
-shop: Wäscherei
+shop: blanchisserie
 ---

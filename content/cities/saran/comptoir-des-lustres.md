@@ -1,5 +1,5 @@
 ---
 title: "Comptoir des Lustres"
 url: /saran/comptoir-des-lustres/
-shop: Lampen
+shop: lampes
 ---

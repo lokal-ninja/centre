@@ -1,5 +1,5 @@
 ---
 title: "Le Churchill"
 url: /tours/le-churchill/
-shop: Tabak
+shop: tabac
 ---

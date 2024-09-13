@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /barjouville/okaidi/
-shop: Kleidung
+shop: vêtements
 ---

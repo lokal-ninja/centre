@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /barjouville/ldlc/
-shop: Computer
+shop: ordinateur
 ---

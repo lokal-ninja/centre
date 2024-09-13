@@ -1,5 +1,5 @@
 ---
 title: "Dépannage 3J - Tours"
 url: /chambray-les-tours/depannage-3j-tours/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

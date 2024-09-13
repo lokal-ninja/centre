@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /epernon/coccimarket/
-shop: Supermarkt
+shop: supermarché
 ---

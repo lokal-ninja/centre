@@ -1,5 +1,5 @@
 ---
 title: "CDC Habitat"
 url: /orleans/cdc-habitat/
-shop: Immobilien
+shop: agent immobilier
 ---

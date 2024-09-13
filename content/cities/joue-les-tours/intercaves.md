@@ -1,5 +1,5 @@
 ---
 title: "interCaves"
 url: /joue-les-tours/intercaves/
-shop: Wein
+shop: vin
 ---

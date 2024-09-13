@@ -1,5 +1,5 @@
 ---
 title: "Carnipneus"
 url: /yzeures-sur-creuse/carnipneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

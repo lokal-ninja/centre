@@ -1,5 +1,5 @@
 ---
 title: "Musicaluce"
 url: /chinon/musicaluce/
-shop: Instrumente
+shop: instrument de musique
 ---

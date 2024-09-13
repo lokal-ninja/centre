@@ -1,5 +1,5 @@
 ---
 title: "Casuale"
 url: /orleans/casuale/
-shop: Gebrauchtwaren
+shop: charité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Herberie de Fany"
 url: /orleans/lherberie-de-fany/
-shop: Kräuter
+shop: herboriste
 ---

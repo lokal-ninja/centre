@@ -1,5 +1,5 @@
 ---
 title: "First Stop Gambetta"
 url: /blois/first-stop-gambetta/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

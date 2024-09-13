@@ -1,5 +1,5 @@
 ---
 title: "Sopa"
 url: /sandillon/sopa/
-shop: Landwirtschaftlich
+shop: agraire
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /cellettes/vival/
-shop: Lebensmittel
+shop: commodité
 ---

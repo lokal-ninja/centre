@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-gervais-la-foret/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie-Pi’Hair"
 url: /tours/marie-pihair/
-shop: Friseur
+shop: coiffeur
 ---

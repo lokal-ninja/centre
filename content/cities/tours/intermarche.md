@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /tours/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

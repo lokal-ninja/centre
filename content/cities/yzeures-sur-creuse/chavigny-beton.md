@@ -1,5 +1,5 @@
 ---
 title: "Chavigny Béton"
 url: /yzeures-sur-creuse/chavigny-beton/
-shop: Baumarkt
+shop: à faire soi-même
 ---

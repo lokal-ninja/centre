@@ -1,5 +1,5 @@
 ---
 title: "Garage Berthault Automobiles"
 url: /la-membrolle-sur-choisille/garage-berthault-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

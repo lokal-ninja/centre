@@ -1,5 +1,5 @@
 ---
 title: "1001 Chances"
 url: /barjouville/1001-chances/
-shop: Zeitungen
+shop: marchand de journaux
 ---

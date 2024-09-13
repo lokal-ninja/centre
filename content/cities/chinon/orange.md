@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /chinon/orange/
-shop: Handy
+shop: téléphone portable
 ---

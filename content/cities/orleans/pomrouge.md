@@ -1,5 +1,5 @@
 ---
 title: "Pomrouge"
 url: /orleans/pomrouge/
-shop: Kramladen
+shop: magasin de variétés
 ---

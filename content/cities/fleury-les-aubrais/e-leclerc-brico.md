@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Brico"
 url: /fleury-les-aubrais/e-leclerc-brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

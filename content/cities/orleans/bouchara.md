@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /orleans/bouchara/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

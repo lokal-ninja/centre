@@ -1,5 +1,5 @@
 ---
 title: "MDA"
 url: /barjouville/mda/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

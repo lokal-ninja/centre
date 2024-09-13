@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /romorantin/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

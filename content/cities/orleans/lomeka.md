@@ -1,5 +1,5 @@
 ---
 title: "Lomeka"
 url: /orleans/lomeka/
-shop: Friseur
+shop: coiffeur
 ---

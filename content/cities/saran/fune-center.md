@@ -1,5 +1,5 @@
 ---
 title: "Fune Center"
 url: /saran/fune-center/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /yzeures-sur-creuse/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

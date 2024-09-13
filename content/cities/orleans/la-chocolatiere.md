@@ -1,5 +1,5 @@
 ---
 title: "La Chocolatière"
 url: /orleans/la-chocolatiere/
-shop: Schokolade
+shop: chocolat
 ---

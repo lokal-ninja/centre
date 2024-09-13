@@ -1,5 +1,5 @@
 ---
 title: "King Jouets Bourges"
 url: /bourges/king-jouets-bourges/
-shop: Spielzeug
+shop: jouets
 ---

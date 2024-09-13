@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /blois/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

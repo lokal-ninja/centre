@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /checy/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

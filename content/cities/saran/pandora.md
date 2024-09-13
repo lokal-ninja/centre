@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /saran/pandora/
-shop: Schmuck
+shop: bijoux
 ---

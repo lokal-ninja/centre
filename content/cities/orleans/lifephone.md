@@ -1,5 +1,5 @@
 ---
 title: "LifePhone"
 url: /orleans/lifephone/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier Anima"
 url: /tours/atelier-anima/
-shop: Tattoo
+shop: tatouage
 ---

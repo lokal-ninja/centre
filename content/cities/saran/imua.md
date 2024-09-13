@@ -1,5 +1,5 @@
 ---
 title: "Imua"
 url: /saran/imua/
-shop: Kleidung
+shop: vêtements
 ---

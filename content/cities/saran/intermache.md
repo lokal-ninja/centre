@@ -1,5 +1,5 @@
 ---
 title: "Intermaché"
 url: /saran/intermache/
-shop: Gasflaschen
+shop: gaz
 ---

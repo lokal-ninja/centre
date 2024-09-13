@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /amilly/orchestra/
-shop: Babysachen
+shop: produits pour bébés
 ---

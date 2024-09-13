@@ -1,5 +1,5 @@
 ---
 title: "Equip'Auto"
 url: /vendome/equipauto/
-shop: Autoteile
+shop: pièces de voitures
 ---

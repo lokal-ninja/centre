@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /issoudun/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

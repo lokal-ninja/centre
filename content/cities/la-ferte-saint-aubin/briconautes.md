@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
 url: /la-ferte-saint-aubin/briconautes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

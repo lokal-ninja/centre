@@ -1,5 +1,5 @@
 ---
 title: "Le Longchamp"
 url: /tours/le-longchamp/
-shop: Zeitungen
+shop: marchand de journaux
 ---

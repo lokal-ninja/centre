@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /la-ferte-saint-aubin/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

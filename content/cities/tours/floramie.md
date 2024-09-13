@@ -1,5 +1,5 @@
 ---
 title: "Floramie"
 url: /tours/floramie/
-shop: Blumen
+shop: fleuriste
 ---

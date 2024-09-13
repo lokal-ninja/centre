@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /orleans/springfield/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Lequivard"
 url: /frainville/garage-lequivard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Georges Opticiens"
 url: /saint-avertin/georges-opticiens/
-shop: Optiker
+shop: opticien
 ---

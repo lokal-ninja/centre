@@ -1,5 +1,5 @@
 ---
 title: "Génération"
 url: /saran/generation/
-shop: Kleidung
+shop: vêtements
 ---

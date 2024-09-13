@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Amilly"
 url: /amilly/decathlon-amilly/
-shop: Sport
+shop: sports
 ---

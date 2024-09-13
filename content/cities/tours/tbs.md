@@ -1,5 +1,5 @@
 ---
 title: "Tbs"
 url: /tours/tbs/
-shop: Schuhe
+shop: chaussures
 ---

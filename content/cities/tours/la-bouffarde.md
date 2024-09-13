@@ -1,5 +1,5 @@
 ---
 title: "La bouffarde"
 url: /tours/la-bouffarde/
-shop: Zeitungen
+shop: marchand de journaux
 ---

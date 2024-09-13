@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /pithiviers/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

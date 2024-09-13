@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /barjouville/sfr/
-shop: Handy
+shop: téléphone portable
 ---

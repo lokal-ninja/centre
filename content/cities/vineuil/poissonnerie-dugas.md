@@ -1,5 +1,5 @@
 ---
 title: "poissonnerie Dugas"
 url: /vineuil/poissonnerie-dugas/
-shop: Fisch
+shop: fruits de mer
 ---

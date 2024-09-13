@@ -1,5 +1,5 @@
 ---
 title: "Marini Auto"
 url: /orleans/marini-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

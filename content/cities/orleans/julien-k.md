@@ -1,5 +1,5 @@
 ---
 title: "Julien K"
 url: /orleans/julien-k/
-shop: Allgemein
+shop: shop
 ---

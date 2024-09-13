@@ -1,5 +1,5 @@
 ---
 title: "Cigusto"
 url: /hanches/cigusto/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

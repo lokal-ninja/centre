@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie"
 url: /barjouville/cordonnerie/
-shop: Schuhe
+shop: chaussures
 ---

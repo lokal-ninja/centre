@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /barjouville/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

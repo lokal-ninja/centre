@@ -1,5 +1,5 @@
 ---
 title: "DELALANDE VOYAGES"
 url: /bourges/delalande-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

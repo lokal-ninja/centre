@@ -1,5 +1,5 @@
 ---
 title: "Fan'd'esthetique"
 url: /fleury-les-aubrais/fandesthetique/
-shop: Parfümerie
+shop: parfumerie
 ---

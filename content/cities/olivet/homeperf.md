@@ -1,5 +1,5 @@
 ---
 title: "HomePerf"
 url: /olivet/homeperf/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

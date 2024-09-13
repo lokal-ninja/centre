@@ -1,5 +1,5 @@
 ---
 title: "MounterA"
 url: /orleans/mountera/
-shop: Outdoor
+shop: extérieur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chlorophylle"
 url: /chinon/chlorophylle/
-shop: Blumen
+shop: fleuriste
 ---

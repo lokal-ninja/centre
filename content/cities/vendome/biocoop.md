@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /vendome/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

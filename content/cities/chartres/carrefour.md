@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /chartres/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VivaSon"
 url: /orleans/vivason/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liger Homme"
 url: /orleans/liger-homme/
-shop: Kleidung
+shop: vêtements
 ---

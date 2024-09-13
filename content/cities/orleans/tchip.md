@@ -1,5 +1,5 @@
 ---
 title: "Tchip"
 url: /orleans/tchip/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /saran/sephora/
-shop: Kosmetik
+shop: beauté
 ---

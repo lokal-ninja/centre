@@ -1,5 +1,5 @@
 ---
 title: "Vitivini"
 url: /charge/vitivini/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vitalaire - Antenne de Chartres"
 url: /gellainville/vitalaire-antenne-de-chartres/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

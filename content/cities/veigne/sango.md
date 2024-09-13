@@ -1,5 +1,5 @@
 ---
 title: "Sango"
 url: /veigne/sango/
-shop: Bioladen
+shop: alimentation saine
 ---

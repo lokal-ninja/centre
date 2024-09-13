@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Lydie"
 url: /chateaudun/coiffure-lydie/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chambray 2"
 url: /chambray-les-tours/chambray-2/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ART'COIFF"
 url: /chailles/artcoiff/
-shop: Friseur
+shop: coiffeur
 ---

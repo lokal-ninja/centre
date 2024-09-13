@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Marlau"
 url: /blois/boulangerie-marlau/
-shop: Bäckerei
+shop: boulangerie
 ---

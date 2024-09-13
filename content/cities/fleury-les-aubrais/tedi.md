@@ -1,5 +1,5 @@
 ---
 title: "Tedi"
 url: /fleury-les-aubrais/tedi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

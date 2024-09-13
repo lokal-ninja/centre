@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /orleans/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

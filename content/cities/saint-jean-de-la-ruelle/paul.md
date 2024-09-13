@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /saint-jean-de-la-ruelle/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

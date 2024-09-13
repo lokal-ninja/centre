@@ -1,5 +1,5 @@
 ---
 title: "Father and sons"
 url: /orleans/father-and-sons/
-shop: Kleidung
+shop: vêtements
 ---

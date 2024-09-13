@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /checy/jennyfer/
-shop: Kleidung
+shop: vêtements
 ---

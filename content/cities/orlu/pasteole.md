@@ -1,5 +1,5 @@
 ---
 title: "Pasteole"
 url: /orlu/pasteole/
-shop: Hofladen
+shop: ferme
 ---

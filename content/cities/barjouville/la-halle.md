@@ -1,5 +1,5 @@
 ---
 title: "La Halle"
 url: /barjouville/la-halle/
-shop: Kleidung
+shop: vêtements
 ---

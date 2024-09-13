@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /pithiviers/thiriet/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chocolats Lade"
 url: /orleans/chocolats-lade/
-shop: Schokolade
+shop: chocolat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /fleury-les-aubrais/carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

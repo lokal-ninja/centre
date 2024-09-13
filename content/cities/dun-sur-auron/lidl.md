@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /dun-sur-auron/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

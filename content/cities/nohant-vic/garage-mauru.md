@@ -1,5 +1,5 @@
 ---
 title: "Garage Mauru"
 url: /nohant-vic/garage-mauru/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

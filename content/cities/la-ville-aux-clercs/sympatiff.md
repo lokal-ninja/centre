@@ -1,5 +1,5 @@
 ---
 title: "SympaTiff"
 url: /la-ville-aux-clercs/sympatiff/
-shop: Friseur
+shop: coiffeur
 ---

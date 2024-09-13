@@ -1,5 +1,5 @@
 ---
 title: "Feuillet"
 url: /vernouillet/feuillet/
-shop: Bäckerei
+shop: boulangerie
 ---

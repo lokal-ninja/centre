@@ -1,5 +1,5 @@
 ---
 title: "Couleurs de Tollens"
 url: /saint-jean-de-la-ruelle/couleurs-de-tollens/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

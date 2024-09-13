@@ -1,5 +1,5 @@
 ---
 title: "Joaquim"
 url: /olivet/joaquim/
-shop: Friseur
+shop: coiffeur
 ---

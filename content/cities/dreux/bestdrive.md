@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /dreux/bestdrive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

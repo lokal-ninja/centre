@@ -1,5 +1,5 @@
 ---
 title: "Brico Dépôt"
 url: /luisant/brico-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

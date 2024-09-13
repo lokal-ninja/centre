@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /chateaudun/sfr/
-shop: Handy
+shop: téléphone portable
 ---

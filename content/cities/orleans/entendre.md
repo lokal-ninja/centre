@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /orleans/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

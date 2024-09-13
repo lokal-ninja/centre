@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Ange"
 url: /olivet/boulangerie-ange/
-shop: Bäckerei
+shop: boulangerie
 ---

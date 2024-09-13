@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /orleans/swarovski/
-shop: Schmuck
+shop: bijoux
 ---

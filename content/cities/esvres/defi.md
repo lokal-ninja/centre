@@ -1,5 +1,5 @@
 ---
 title: "Défi"
 url: /esvres/defi/
-shop: Türen
+shop: portes
 ---

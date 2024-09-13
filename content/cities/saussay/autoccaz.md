@@ -1,5 +1,5 @@
 ---
 title: "Autoccaz"
 url: /saussay/autoccaz/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

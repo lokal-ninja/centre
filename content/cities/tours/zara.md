@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /tours/zara/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
 url: /saint-jean-de-la-ruelle/adopt/
-shop: Parfümerie
+shop: parfumerie
 ---

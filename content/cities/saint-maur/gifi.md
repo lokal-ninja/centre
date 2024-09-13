@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-maur/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

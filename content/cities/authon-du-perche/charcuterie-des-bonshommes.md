@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie des Bonshommes"
 url: /authon-du-perche/charcuterie-des-bonshommes/
-shop: Hofladen
+shop: ferme
 ---

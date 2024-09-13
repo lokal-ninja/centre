@@ -1,5 +1,5 @@
 ---
 title: "Couleurs de Tollens"
 url: /barjouville/couleurs-de-tollens/
-shop: Farben
+shop: peinture
 ---

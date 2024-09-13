@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /gien/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

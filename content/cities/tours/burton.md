@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /tours/burton/
-shop: Kleidung
+shop: vêtements
 ---

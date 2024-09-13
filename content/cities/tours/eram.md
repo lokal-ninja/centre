@@ -1,5 +1,5 @@
 ---
 title: "Éram"
 url: /tours/eram/
-shop: Schuhe
+shop: chaussures
 ---

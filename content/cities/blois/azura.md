@@ -1,5 +1,5 @@
 ---
 title: "Azura"
 url: /blois/azura/
-shop: Eisenwaren
+shop: matériel informatique
 ---

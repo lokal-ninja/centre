@@ -1,5 +1,5 @@
 ---
 title: "Anis distribution"
 url: /saran/anis-distribution/
-shop: Warenhaus
+shop: grand magasin
 ---

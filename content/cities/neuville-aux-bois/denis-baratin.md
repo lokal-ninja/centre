@@ -1,5 +1,5 @@
 ---
 title: "Denis Baratin"
 url: /neuville-aux-bois/denis-baratin/
-shop: Hofladen
+shop: ferme
 ---

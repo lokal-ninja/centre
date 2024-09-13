@@ -1,5 +1,5 @@
 ---
 title: "Revolt"
 url: /orleans/revolt/
-shop: Kleidung
+shop: vêtements
 ---

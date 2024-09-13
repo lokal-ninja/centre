@@ -1,5 +1,5 @@
 ---
 title: "Maison Ruellan"
 url: /orleans/maison-ruellan/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sumam and Co"
 url: /saint-jean-de-braye/sumam-and-co/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuirlux"
 url: /orleans/cuirlux/
-shop: Taschen & Koffer
+shop: sac
 ---

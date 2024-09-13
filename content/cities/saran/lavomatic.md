@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /saran/lavomatic/
-shop: Wäscherei
+shop: blanchisserie
 ---

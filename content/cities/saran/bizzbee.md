@@ -1,5 +1,5 @@
 ---
 title: "Bizzbee"
 url: /saran/bizzbee/
-shop: Kleidung
+shop: vêtements
 ---

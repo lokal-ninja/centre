@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /barjouville/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

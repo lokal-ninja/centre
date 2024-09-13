@@ -1,5 +1,5 @@
 ---
 title: "Toutou Coif'"
 url: /orleans/toutou-coif/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

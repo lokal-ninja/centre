@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /tours/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

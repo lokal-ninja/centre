@@ -1,5 +1,5 @@
 ---
 title: "Tchip Coiffure"
 url: /barjouville/tchip-coiffure/
-shop: Optiker
+shop: opticien
 ---

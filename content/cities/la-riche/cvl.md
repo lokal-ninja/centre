@@ -1,5 +1,5 @@
 ---
 title: "CVL"
 url: /la-riche/cvl/
-shop: Kopieren
+shop: copyshop
 ---

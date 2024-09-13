@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /hanches/krys/
-shop: Optiker
+shop: opticien
 ---

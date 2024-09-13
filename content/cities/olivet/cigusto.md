@@ -1,5 +1,5 @@
 ---
 title: "Cigusto"
 url: /olivet/cigusto/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

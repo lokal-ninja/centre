@@ -1,5 +1,5 @@
 ---
 title: "Mauboussin"
 url: /orleans/mauboussin/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /veigne/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

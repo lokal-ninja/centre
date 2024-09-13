@@ -1,5 +1,5 @@
 ---
 title: "L'audition Orléanaise"
 url: /orleans/laudition-orleanaise/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

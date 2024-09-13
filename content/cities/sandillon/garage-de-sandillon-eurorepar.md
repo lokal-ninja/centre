@@ -1,5 +1,5 @@
 ---
 title: "Garage de Sandillon Eurorepar"
 url: /sandillon/garage-de-sandillon-eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

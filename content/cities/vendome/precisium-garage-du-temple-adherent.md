@@ -1,5 +1,5 @@
 ---
 title: "PRECISIUM Garage du Temple Adhérent"
 url: /vendome/precisium-garage-du-temple-adherent/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

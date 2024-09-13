@@ -1,5 +1,5 @@
 ---
 title: "Mobalpa"
 url: /olivet/mobalpa/
-shop: Küchen
+shop: cuisine
 ---

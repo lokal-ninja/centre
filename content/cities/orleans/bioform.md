@@ -1,5 +1,5 @@
 ---
 title: "Bioform"
 url: /orleans/bioform/
-shop: Massage
+shop: massage
 ---

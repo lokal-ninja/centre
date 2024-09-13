@@ -1,5 +1,5 @@
 ---
 title: "Meuilleurtaux"
 url: /dreux/meuilleurtaux/
-shop: Leiher
+shop: prêteur sur gages
 ---

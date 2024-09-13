@@ -1,5 +1,5 @@
 ---
 title: "Kitbati Habita"
 url: /fleury-les-aubrais/kitbati-habita/
-shop: Baumarkt
+shop: à faire soi-même
 ---

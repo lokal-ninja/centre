@@ -1,5 +1,5 @@
 ---
 title: "Au Bourd’Euphro"
 url: /chailles/au-bourdeuphro/
-shop: Bäckerei
+shop: boulangerie
 ---

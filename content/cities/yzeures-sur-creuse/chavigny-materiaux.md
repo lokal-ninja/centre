@@ -1,5 +1,5 @@
 ---
 title: "Chavigny Matériaux"
 url: /yzeures-sur-creuse/chavigny-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

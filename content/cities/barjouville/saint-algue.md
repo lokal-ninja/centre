@@ -1,5 +1,5 @@
 ---
 title: "Saint Algue"
 url: /barjouville/saint-algue/
-shop: Friseur
+shop: coiffeur
 ---

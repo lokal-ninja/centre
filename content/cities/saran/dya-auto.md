@@ -1,5 +1,5 @@
 ---
 title: "DYA Auto"
 url: /saran/dya-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

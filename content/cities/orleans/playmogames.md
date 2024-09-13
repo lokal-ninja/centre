@@ -1,5 +1,5 @@
 ---
 title: "Playmogames"
 url: /orleans/playmogames/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /barjouville/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

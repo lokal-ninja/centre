@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /tours/promod/
-shop: Kleidung
+shop: vêtements
 ---

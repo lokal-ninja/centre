@@ -1,5 +1,5 @@
 ---
 title: "L'Institut"
 url: /orleans/linstitut/
-shop: Kosmetik
+shop: beauté
 ---

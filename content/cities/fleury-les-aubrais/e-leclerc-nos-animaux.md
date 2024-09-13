@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc nos animaux"
 url: /fleury-les-aubrais/e-leclerc-nos-animaux/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabeann"
 url: /meung-sur-loire/fabeann/
-shop: Andenken
+shop: cadeau
 ---

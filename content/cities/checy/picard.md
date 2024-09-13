@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /checy/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

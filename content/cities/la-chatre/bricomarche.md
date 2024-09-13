@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /la-chatre/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

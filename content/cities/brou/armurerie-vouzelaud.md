@@ -1,5 +1,5 @@
 ---
 title: "Armurerie Vouzelaud"
 url: /brou/armurerie-vouzelaud/
-shop: Waffen
+shop: armes
 ---

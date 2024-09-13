@@ -1,5 +1,5 @@
 ---
 title: "Micr'honnête"
 url: /orville/micrhonnete/
-shop: Computer
+shop: ordinateur
 ---

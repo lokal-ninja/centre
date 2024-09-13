@@ -1,5 +1,5 @@
 ---
 title: "Shopix"
 url: /saran/shopix/
-shop: Baumarkt
+shop: à faire soi-même
 ---

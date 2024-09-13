@@ -1,5 +1,5 @@
 ---
 title: "Anne.K Maison"
 url: /orleans/anne-k-maison/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

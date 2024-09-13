@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /hanches/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

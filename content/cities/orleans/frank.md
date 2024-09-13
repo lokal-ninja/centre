@@ -1,5 +1,5 @@
 ---
 title: "Frank"
 url: /orleans/frank/
-shop: Schuhe
+shop: chaussures
 ---

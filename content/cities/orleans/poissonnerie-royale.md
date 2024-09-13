@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Royale"
 url: /orleans/poissonnerie-royale/
-shop: Fisch
+shop: fruits de mer
 ---

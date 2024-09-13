@@ -1,5 +1,5 @@
 ---
 title: "Terranimo"
 url: /hanches/terranimo/
-shop: Tiere
+shop: animal de compagnie
 ---

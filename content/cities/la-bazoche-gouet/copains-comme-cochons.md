@@ -1,5 +1,5 @@
 ---
 title: "Co'pains Comme Cochons"
 url: /la-bazoche-gouet/copains-comme-cochons/
-shop: Bäckerei
+shop: boulangerie
 ---

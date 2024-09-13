@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Andria"
 url: /orleans/boucherie-andria/
-shop: Metzgerei
+shop: boucherie
 ---

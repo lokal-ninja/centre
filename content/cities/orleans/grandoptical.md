@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /orleans/grandoptical/
-shop: Optiker
+shop: opticien
 ---

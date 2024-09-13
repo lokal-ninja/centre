@@ -1,5 +1,5 @@
 ---
 title: "Jamo Motoculture"
 url: /mehun-sur-yevre/jamo-motoculture/
-shop: Platzpflege
+shop: entretien des terrains
 ---

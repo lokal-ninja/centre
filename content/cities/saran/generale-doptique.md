@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /saran/generale-doptique/
-shop: Optiker
+shop: opticien
 ---

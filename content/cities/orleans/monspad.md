@@ -1,5 +1,5 @@
 ---
 title: "Monspad"
 url: /orleans/monspad/
-shop: Fahrrad
+shop: vélo
 ---

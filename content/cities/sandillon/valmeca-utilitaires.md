@@ -1,5 +1,5 @@
 ---
 title: "Valmeca utilitaires"
 url: /sandillon/valmeca-utilitaires/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

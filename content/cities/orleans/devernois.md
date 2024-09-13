@@ -1,5 +1,5 @@
 ---
 title: "Devernois"
 url: /orleans/devernois/
-shop: Kleidung
+shop: vêtements
 ---

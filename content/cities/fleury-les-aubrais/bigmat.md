@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /fleury-les-aubrais/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chambray-les-tours/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

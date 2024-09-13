@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Azena"
 url: /tours/coiffure-azena/
-shop: Friseur
+shop: coiffeur
 ---

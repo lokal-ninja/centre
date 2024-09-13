@@ -1,5 +1,5 @@
 ---
 title: "Corbeille d'Or"
 url: /checy/corbeille-dor/
-shop: Schmuck
+shop: bijoux
 ---

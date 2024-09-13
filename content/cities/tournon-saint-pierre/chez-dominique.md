@@ -1,5 +1,5 @@
 ---
 title: "Chez Dominique"
 url: /tournon-saint-pierre/chez-dominique/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /auneau/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

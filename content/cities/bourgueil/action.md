@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bourgueil/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

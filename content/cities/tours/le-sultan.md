@@ -1,5 +1,5 @@
 ---
 title: "Le Sultan"
 url: /tours/le-sultan/
-shop: Zeitungen
+shop: marchand de journaux
 ---

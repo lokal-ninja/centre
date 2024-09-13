@@ -1,5 +1,5 @@
 ---
 title: "Desjoyaux"
 url: /olivet/desjoyaux/
-shop: Pool
+shop: piscine
 ---

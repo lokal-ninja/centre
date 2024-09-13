@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /orleans/ikks/
-shop: Kleidung
+shop: vêtements
 ---

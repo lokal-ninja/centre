@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /saran/free/
-shop: Handy
+shop: téléphone portable
 ---

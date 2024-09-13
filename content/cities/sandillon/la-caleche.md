@@ -1,5 +1,5 @@
 ---
 title: "La Calèche"
 url: /sandillon/la-caleche/
-shop: Antiquitäten
+shop: antiquités
 ---

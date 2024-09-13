@@ -1,5 +1,5 @@
 ---
 title: "Le Reinitas"
 url: /langeais/le-reinitas/
-shop: Kramladen
+shop: magasin de variétés
 ---

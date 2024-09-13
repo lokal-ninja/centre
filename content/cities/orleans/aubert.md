@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /orleans/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

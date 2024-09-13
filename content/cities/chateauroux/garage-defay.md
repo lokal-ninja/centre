@@ -1,5 +1,5 @@
 ---
 title: "Garage Defay"
 url: /chateauroux/garage-defay/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

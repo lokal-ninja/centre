@@ -1,5 +1,5 @@
 ---
 title: "Ouest Batteries"
 url: /saint-avertin/ouest-batteries/
-shop: Autoteile
+shop: pièces de voitures
 ---

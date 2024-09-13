@@ -1,5 +1,5 @@
 ---
 title: "Suncoo"
 url: /orleans/suncoo/
-shop: Kleidung
+shop: vêtements
 ---

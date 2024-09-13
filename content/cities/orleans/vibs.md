@@ -1,5 +1,5 @@
 ---
 title: "Vibs"
 url: /orleans/vibs/
-shop: Kleidung
+shop: vêtements
 ---

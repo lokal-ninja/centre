@@ -1,5 +1,5 @@
 ---
 title: "Rrunning"
 url: /orleans/rrunning/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delphine Coiffure"
 url: /clemont/delphine-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /orleans/etam/
-shop: Kleidung
+shop: vêtements
 ---

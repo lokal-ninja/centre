@@ -1,5 +1,5 @@
 ---
 title: "Le Chiquito"
 url: /tours/le-chiquito/
-shop: Tabak
+shop: tabac
 ---

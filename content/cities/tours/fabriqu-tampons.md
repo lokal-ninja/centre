@@ -1,5 +1,5 @@
 ---
 title: "Fabriqu' Tampons"
 url: /tours/fabriqu-tampons/
-shop: Schuhe
+shop: chaussures
 ---

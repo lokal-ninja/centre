@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /tours/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

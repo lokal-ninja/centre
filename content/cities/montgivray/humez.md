@@ -1,5 +1,5 @@
 ---
 title: "Humez"
 url: /montgivray/humez/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

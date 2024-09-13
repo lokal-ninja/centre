@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /saran/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

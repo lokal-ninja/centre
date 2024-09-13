@@ -1,5 +1,5 @@
 ---
 title: "Rose et Léon"
 url: /orleans/rose-et-leon/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simplon Voyages"
 url: /blois/simplon-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

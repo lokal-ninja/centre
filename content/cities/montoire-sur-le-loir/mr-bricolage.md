@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /montoire-sur-le-loir/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

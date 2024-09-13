@@ -1,5 +1,5 @@
 ---
 title: "Marché de producteurs"
 url: /chaveignes/marche-de-producteurs/
-shop: Hofladen
+shop: ferme
 ---

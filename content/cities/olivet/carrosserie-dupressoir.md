@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Dupressoir"
 url: /olivet/carrosserie-dupressoir/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

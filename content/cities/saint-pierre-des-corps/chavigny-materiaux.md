@@ -1,5 +1,5 @@
 ---
 title: "Chavigny Matériaux"
 url: /saint-pierre-des-corps/chavigny-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

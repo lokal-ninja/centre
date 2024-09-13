@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /olivet/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

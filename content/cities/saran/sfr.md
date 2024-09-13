@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /saran/sfr/
-shop: Handy
+shop: téléphone portable
 ---

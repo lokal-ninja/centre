@@ -1,5 +1,5 @@
 ---
 title: "Rapsodie"
 url: /loury/rapsodie/
-shop: Kleidung
+shop: vêtements
 ---

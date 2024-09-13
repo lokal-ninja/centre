@@ -1,5 +1,5 @@
 ---
 title: "C'est 2 Euros"
 url: /orleans/cest-2-euros/
-shop: Kramladen
+shop: magasin de variétés
 ---

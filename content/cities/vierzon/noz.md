@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vierzon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

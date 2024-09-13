@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /montargis/jules/
-shop: Kleidung
+shop: vêtements
 ---

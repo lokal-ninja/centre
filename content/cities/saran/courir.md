@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /saran/courir/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /issoudun/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Forestier"
 url: /montargis/comptoir-forestier/
-shop: Fliesen
+shop: tuiles
 ---

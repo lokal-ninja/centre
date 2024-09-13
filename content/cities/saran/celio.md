@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /saran/celio/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /saran/devred/
-shop: Kleidung
+shop: vêtements
 ---

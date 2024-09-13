@@ -1,5 +1,5 @@
 ---
 title: "Atelier de Flore"
 url: /rochecorbon/atelier-de-flore/
-shop: Farben
+shop: peinture
 ---

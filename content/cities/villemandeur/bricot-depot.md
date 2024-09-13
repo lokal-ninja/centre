@@ -1,5 +1,5 @@
 ---
 title: "Bricot Depot"
 url: /villemandeur/bricot-depot/
-shop: Baumarkt
+shop: à faire soi-même
 ---

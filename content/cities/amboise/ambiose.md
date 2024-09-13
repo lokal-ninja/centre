@@ -1,5 +1,5 @@
 ---
 title: "Ambiose"
 url: /amboise/ambiose/
-shop: Supermarkt
+shop: supermarché
 ---

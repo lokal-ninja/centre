@@ -1,5 +1,5 @@
 ---
 title: "Garage de la Garenne"
 url: /ingre/garage-de-la-garenne/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

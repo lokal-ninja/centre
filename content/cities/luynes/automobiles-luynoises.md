@@ -1,5 +1,5 @@
 ---
 title: "Automobiles Luynoises"
 url: /luynes/automobiles-luynoises/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

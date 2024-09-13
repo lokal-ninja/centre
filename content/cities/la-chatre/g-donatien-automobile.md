@@ -1,5 +1,5 @@
 ---
 title: "G. Donatien Automobile"
 url: /la-chatre/g-donatien-automobile/
-shop: Autohaus
+shop: voiture
 ---

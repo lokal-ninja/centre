@@ -1,5 +1,5 @@
 ---
 title: "Opticien"
 url: /monts/opticien/
-shop: Optiker
+shop: opticien
 ---

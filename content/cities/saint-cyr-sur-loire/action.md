@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-cyr-sur-loire/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

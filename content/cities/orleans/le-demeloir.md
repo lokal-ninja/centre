@@ -1,5 +1,5 @@
 ---
 title: "Le Démêloir"
 url: /orleans/le-demeloir/
-shop: Friseur
+shop: coiffeur
 ---

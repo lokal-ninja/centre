@@ -1,5 +1,5 @@
 ---
 title: "Accessibl'Auto"
 url: /fleury-les-aubrais/accessiblauto/
-shop: Autohaus
+shop: voiture
 ---

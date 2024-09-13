@@ -1,5 +1,5 @@
 ---
 title: "Essens'y Elles"
 url: /esvres/essensy-elles/
-shop: Massage
+shop: massage
 ---

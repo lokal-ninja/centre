@@ -1,5 +1,5 @@
 ---
 title: "BPLA"
 url: /ballan-mire/bpla/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

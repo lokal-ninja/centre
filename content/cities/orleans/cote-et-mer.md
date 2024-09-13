@@ -1,5 +1,5 @@
 ---
 title: "Côte et Mer"
 url: /orleans/cote-et-mer/
-shop: Fisch
+shop: fruits de mer
 ---

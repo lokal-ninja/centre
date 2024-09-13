@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /amilly/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

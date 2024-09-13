@@ -1,5 +1,5 @@
 ---
 title: "Simplon"
 url: /orleans/simplon/
-shop: Reisebüro
+shop: agence de voyage
 ---

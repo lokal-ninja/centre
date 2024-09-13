@@ -1,5 +1,5 @@
 ---
 title: "Ivoire"
 url: /blois/ivoire/
-shop: Schuhe
+shop: chaussures
 ---

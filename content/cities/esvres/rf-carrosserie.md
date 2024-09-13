@@ -1,5 +1,5 @@
 ---
 title: "RF Carrosserie"
 url: /esvres/rf-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

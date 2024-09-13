@@ -1,5 +1,5 @@
 ---
 title: "La Mesure"
 url: /checy/la-mesure/
-shop: Lebensmittel
+shop: commodité
 ---

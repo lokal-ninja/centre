@@ -1,5 +1,5 @@
 ---
 title: "Ferme des P'tits Bergers"
 url: /chaussy/ferme-des-ptits-bergers/
-shop: Kleidung
+shop: vêtements
 ---

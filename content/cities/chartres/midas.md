@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chartres/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

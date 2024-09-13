@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /saran/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

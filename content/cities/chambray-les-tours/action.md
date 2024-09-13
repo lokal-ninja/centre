@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /chambray-les-tours/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

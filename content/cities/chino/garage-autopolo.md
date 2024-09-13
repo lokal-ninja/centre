@@ -1,5 +1,5 @@
 ---
 title: "Garage autopolo"
 url: /chino/garage-autopolo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

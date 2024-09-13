@@ -1,5 +1,5 @@
 ---
 title: "Planet Hair"
 url: /orleans/planet-hair/
-shop: Friseur
+shop: coiffeur
 ---

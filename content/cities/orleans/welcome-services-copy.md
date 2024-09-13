@@ -1,5 +1,5 @@
 ---
 title: "Welcome Services Copy"
 url: /orleans/welcome-services-copy/
-shop: Kopieren
+shop: copyshop
 ---

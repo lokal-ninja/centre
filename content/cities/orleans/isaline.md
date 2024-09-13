@@ -1,5 +1,5 @@
 ---
 title: "Isaline"
 url: /orleans/isaline/
-shop: Kleidung
+shop: vêtements
 ---

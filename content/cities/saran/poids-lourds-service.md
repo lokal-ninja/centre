@@ -1,5 +1,5 @@
 ---
 title: "Poids Lourds Service"
 url: /saran/poids-lourds-service/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

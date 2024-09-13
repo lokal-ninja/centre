@@ -1,5 +1,5 @@
 ---
 title: "Proxi Service"
 url: /saint-amand-longpre/proxi-service/
-shop: Lebensmittel
+shop: commodité
 ---

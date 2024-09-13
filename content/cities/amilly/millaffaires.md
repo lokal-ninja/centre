@@ -1,5 +1,5 @@
 ---
 title: "Mill'Affaires"
 url: /amilly/millaffaires/
-shop: Kramladen
+shop: magasin de variétés
 ---

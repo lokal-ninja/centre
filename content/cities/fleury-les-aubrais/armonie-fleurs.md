@@ -1,5 +1,5 @@
 ---
 title: "Armonie Fleurs"
 url: /fleury-les-aubrais/armonie-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

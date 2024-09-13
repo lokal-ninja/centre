@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /vernouillet/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

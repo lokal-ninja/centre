@@ -1,5 +1,5 @@
 ---
 title: "Look Coiffure"
 url: /ligny-le-ribault/look-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /saran/vertbaudet/
-shop: Kleidung
+shop: vêtements
 ---

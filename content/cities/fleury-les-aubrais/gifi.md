@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /fleury-les-aubrais/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

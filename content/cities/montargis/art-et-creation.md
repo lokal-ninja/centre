@@ -1,5 +1,5 @@
 ---
 title: "Art et Creation"
 url: /montargis/art-et-creation/
-shop: Bücher
+shop: livres
 ---

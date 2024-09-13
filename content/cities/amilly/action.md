@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /amilly/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roussel"
 url: /nancay/roussel/
-shop: Metzgerei
+shop: boucherie
 ---

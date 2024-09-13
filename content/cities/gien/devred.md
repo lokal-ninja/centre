@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /gien/devred/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleurs de Blois"
 url: /blois/fleurs-de-blois/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saran/intersport/
-shop: Sport
+shop: sports
 ---

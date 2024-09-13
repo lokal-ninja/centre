@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /saint-jean-de-la-ruelle/histoire-dor/
-shop: Schmuck
+shop: bijoux
 ---

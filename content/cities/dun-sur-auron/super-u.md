@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /dun-sur-auron/super-u/
-shop: Gasflaschen
+shop: gaz
 ---

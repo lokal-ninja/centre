@@ -1,5 +1,5 @@
 ---
 title: "Garage Venot"
 url: /semoy/garage-venot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

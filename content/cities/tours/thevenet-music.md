@@ -1,5 +1,5 @@
 ---
 title: "Thévenet Music"
 url: /tours/thevenet-music/
-shop: Instrumente
+shop: instrument de musique
 ---

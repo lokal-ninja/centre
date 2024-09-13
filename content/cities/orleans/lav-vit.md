@@ -1,5 +1,5 @@
 ---
 title: "Lav Vit"
 url: /orleans/lav-vit/
-shop: Wäscherei
+shop: blanchisserie
 ---

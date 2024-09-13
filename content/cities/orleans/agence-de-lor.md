@@ -1,5 +1,5 @@
 ---
 title: "Agence de l'Or"
 url: /orleans/agence-de-lor/
-shop: Allgemein
+shop: shop
 ---

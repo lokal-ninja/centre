@@ -1,5 +1,5 @@
 ---
 title: "Atmosphair"
 url: /checy/atmosphair/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audiolab"
 url: /orleans/audiolab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

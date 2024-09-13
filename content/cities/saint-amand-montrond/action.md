@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-amand-montrond/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

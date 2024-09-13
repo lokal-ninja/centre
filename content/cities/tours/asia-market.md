@@ -1,5 +1,5 @@
 ---
 title: "Asia Market"
 url: /tours/asia-market/
-shop: Supermarkt
+shop: supermarché
 ---

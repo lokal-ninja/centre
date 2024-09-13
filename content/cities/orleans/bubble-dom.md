@@ -1,5 +1,5 @@
 ---
 title: "Bubble-Dom"
 url: /orleans/bubble-dom/
-shop: Allgemein
+shop: shop
 ---

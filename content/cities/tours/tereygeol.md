@@ -1,5 +1,5 @@
 ---
 title: "Tereygeol"
 url: /tours/tereygeol/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

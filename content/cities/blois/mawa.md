@@ -1,5 +1,5 @@
 ---
 title: "Mawa"
 url: /blois/mawa/
-shop: Kleidung
+shop: vêtements
 ---

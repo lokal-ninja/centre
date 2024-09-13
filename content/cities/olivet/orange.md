@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /olivet/orange/
-shop: Handy
+shop: téléphone portable
 ---

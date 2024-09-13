@@ -1,5 +1,5 @@
 ---
 title: "Ferme De Beaumont"
 url: /deols/ferme-de-beaumont/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weinberg"
 url: /orleans/weinberg/
-shop: Kleidung
+shop: vêtements
 ---

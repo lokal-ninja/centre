@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tavers/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Proximarché"
 url: /orleans/proximarche/
-shop: Lebensmittel
+shop: commodité
 ---

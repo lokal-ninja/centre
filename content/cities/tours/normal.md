@@ -1,5 +1,5 @@
 ---
 title: "Normal"
 url: /tours/normal/
-shop: Lebensmittel
+shop: commodité
 ---

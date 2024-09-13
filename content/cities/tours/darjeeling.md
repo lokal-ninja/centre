@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /tours/darjeeling/
-shop: Kleidung
+shop: vêtements
 ---

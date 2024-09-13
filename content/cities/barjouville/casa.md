@@ -1,5 +1,5 @@
 ---
 title: "CASA"
 url: /barjouville/casa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

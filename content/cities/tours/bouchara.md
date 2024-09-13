@@ -1,5 +1,5 @@
 ---
 title: "Bouchara"
 url: /tours/bouchara/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

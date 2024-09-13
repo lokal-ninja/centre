@@ -1,5 +1,5 @@
 ---
 title: "Atac"
 url: /olivet/atac/
-shop: Autoteile
+shop: pièces de voitures
 ---

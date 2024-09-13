@@ -1,5 +1,5 @@
 ---
 title: "AUTO PIECES DEPANNAGE DJOE"
 url: /saint-genouph/auto-pieces-depannage-djoe/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

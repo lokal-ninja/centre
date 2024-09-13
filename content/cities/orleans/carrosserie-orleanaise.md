@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Orléanaise"
 url: /orleans/carrosserie-orleanaise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Méhari Evasion"
 url: /checy/mehari-evasion/
-shop: Autoteile
+shop: pièces de voitures
 ---

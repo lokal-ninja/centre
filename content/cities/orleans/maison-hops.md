@@ -1,5 +1,5 @@
 ---
 title: "Maison Hops"
 url: /orleans/maison-hops/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meubles Labarre"
 url: /foecy/meubles-labarre/
-shop: Möbel
+shop: meubles
 ---

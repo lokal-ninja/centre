@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Mallet"
 url: /le-blanc/coiffure-mallet/
-shop: Friseur
+shop: coiffeur
 ---

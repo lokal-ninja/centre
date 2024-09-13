@@ -1,5 +1,5 @@
 ---
 title: "Nicolas Varanne"
 url: /chinon/nicolas-varanne/
-shop: Wein
+shop: vin
 ---

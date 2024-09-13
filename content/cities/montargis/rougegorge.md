@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /montargis/rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

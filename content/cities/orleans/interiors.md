@@ -1,5 +1,5 @@
 ---
 title: "Interior's"
 url: /orleans/interiors/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Louie galerie"
 url: /orleans/louie-galerie/
-shop: Kleidung
+shop: vêtements
 ---

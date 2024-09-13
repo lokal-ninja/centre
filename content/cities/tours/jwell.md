@@ -1,5 +1,5 @@
 ---
 title: "Jwell"
 url: /tours/jwell/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

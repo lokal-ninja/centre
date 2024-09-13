@@ -1,5 +1,5 @@
 ---
 title: "Phonéo"
 url: /chinon/phoneo/
-shop: Handy
+shop: téléphone portable
 ---

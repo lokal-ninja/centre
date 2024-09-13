@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /la-chatre/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

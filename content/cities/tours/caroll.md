@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /tours/caroll/
-shop: Kleidung
+shop: vêtements
 ---

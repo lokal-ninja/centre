@@ -1,5 +1,5 @@
 ---
 title: "Navitour Voyages"
 url: /orleans/navitour-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

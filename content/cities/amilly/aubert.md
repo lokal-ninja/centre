@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /amilly/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

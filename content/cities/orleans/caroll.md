@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /orleans/caroll/
-shop: Kleidung
+shop: vêtements
 ---

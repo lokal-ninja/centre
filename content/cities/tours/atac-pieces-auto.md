@@ -1,5 +1,5 @@
 ---
 title: "Atac Pièces auto"
 url: /tours/atac-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

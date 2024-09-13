@@ -1,5 +1,5 @@
 ---
 title: "Blanchet Ets"
 url: /verneuil-sur-igneraie/blanchet-ets/
-shop: Allgemein
+shop: shop
 ---

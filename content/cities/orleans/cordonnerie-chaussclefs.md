@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie Chauss'clefs"
 url: /orleans/cordonnerie-chaussclefs/
-shop: Schuhe
+shop: chaussures
 ---

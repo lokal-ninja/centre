@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /gallardon/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

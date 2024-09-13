@@ -1,5 +1,5 @@
 ---
 title: "Eight"
 url: /orleans/eight/
-shop: Friseur
+shop: coiffeur
 ---

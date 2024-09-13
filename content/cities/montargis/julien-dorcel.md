@@ -1,5 +1,5 @@
 ---
 title: "Julien D'orcel"
 url: /montargis/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

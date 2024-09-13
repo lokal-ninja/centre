@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /barjouville/pimkie/
-shop: Kleidung
+shop: vêtements
 ---

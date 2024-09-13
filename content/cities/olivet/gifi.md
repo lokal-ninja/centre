@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /olivet/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

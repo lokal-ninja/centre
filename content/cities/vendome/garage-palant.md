@@ -1,5 +1,5 @@
 ---
 title: "Garage Palant"
 url: /vendome/garage-palant/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

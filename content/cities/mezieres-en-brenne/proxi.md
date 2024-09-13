@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /mezieres-en-brenne/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

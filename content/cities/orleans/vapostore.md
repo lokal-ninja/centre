@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /orleans/vapostore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

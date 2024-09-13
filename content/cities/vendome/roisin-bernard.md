@@ -1,5 +1,5 @@
 ---
 title: "Roisin Bernard"
 url: /vendome/roisin-bernard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /gien/gemo/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Koçali Barber"
 url: /orleans/kocali-barber/
-shop: Friseur
+shop: coiffeur
 ---

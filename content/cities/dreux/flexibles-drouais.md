@@ -1,5 +1,5 @@
 ---
 title: "Flexibles Drouais"
 url: /dreux/flexibles-drouais/
-shop: Baumarkt
+shop: à faire soi-même
 ---

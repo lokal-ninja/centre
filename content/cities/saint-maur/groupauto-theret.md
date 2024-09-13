@@ -1,5 +1,5 @@
 ---
 title: "Groupauto Theret"
 url: /saint-maur/groupauto-theret/
-shop: Autoteile
+shop: pièces de voitures
 ---

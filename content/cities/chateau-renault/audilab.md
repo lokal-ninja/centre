@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /chateau-renault/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

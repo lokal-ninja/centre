@@ -1,5 +1,5 @@
 ---
 title: "garage Motrio"
 url: /sainville/garage-motrio/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

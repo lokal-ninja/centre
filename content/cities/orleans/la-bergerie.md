@@ -1,5 +1,5 @@
 ---
 title: "La Bergerie"
 url: /orleans/la-bergerie/
-shop: Milch
+shop: produits laitiers
 ---

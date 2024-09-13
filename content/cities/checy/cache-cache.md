@@ -1,5 +1,5 @@
 ---
 title: "Cache Cache"
 url: /checy/cache-cache/
-shop: Kleidung
+shop: vêtements
 ---

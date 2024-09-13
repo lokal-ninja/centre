@@ -1,5 +1,5 @@
 ---
 title: "L'Envie Gourmande"
 url: /gien/lenvie-gourmande/
-shop: Bäckerei
+shop: boulangerie
 ---

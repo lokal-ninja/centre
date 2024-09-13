@@ -1,5 +1,5 @@
 ---
 title: "SunMobile"
 url: /orleans/sunmobile/
-shop: Handy
+shop: téléphone portable
 ---

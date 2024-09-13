@@ -1,5 +1,5 @@
 ---
 title: "Auchan Orléans Bannier"
 url: /orleans/auchan-orleans-bannier/
-shop: Lebensmittel
+shop: commodité
 ---

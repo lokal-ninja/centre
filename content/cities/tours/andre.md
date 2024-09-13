@@ -1,5 +1,5 @@
 ---
 title: "André"
 url: /tours/andre/
-shop: Schuhe
+shop: chaussures
 ---

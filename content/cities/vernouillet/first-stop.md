@@ -1,5 +1,5 @@
 ---
 title: "First stop"
 url: /vernouillet/first-stop/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

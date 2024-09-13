@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /amilly/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /saran/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

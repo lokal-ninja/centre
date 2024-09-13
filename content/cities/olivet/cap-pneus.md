@@ -1,5 +1,5 @@
 ---
 title: "Cap pneus"
 url: /olivet/cap-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

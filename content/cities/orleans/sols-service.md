@@ -1,5 +1,5 @@
 ---
 title: "Sols service"
 url: /orleans/sols-service/
-shop: Fußböden
+shop: revêtement de sol
 ---

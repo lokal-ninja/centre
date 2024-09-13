@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Feuillette"
 url: /chartres/boulangerie-feuillette/
-shop: Bäckerei
+shop: boulangerie
 ---

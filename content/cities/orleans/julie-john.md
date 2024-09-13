@@ -1,5 +1,5 @@
 ---
 title: "Julie John"
 url: /orleans/julie-john/
-shop: Schuhe
+shop: chaussures
 ---

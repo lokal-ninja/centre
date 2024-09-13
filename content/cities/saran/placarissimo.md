@@ -1,5 +1,5 @@
 ---
 title: "Placarissimo"
 url: /saran/placarissimo/
-shop: Möbel
+shop: meubles
 ---

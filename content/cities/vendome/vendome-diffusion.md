@@ -1,5 +1,5 @@
 ---
 title: "Vendome Diffusion"
 url: /vendome/vendome-diffusion/
-shop: Baustoffe
+shop: commerce
 ---

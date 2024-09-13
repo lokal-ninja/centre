@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /chateaudun/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

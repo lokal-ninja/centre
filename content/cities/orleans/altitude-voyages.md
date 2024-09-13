@@ -1,5 +1,5 @@
 ---
 title: "Altitude Voyages"
 url: /orleans/altitude-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

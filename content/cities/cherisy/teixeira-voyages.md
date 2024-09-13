@@ -1,5 +1,5 @@
 ---
 title: "Teixeira Voyages"
 url: /cherisy/teixeira-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

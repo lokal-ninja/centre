@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /tours/springfield/
-shop: Kleidung
+shop: vêtements
 ---

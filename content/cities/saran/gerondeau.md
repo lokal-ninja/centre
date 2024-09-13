@@ -1,5 +1,5 @@
 ---
 title: "Gérondeau"
 url: /saran/gerondeau/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Profil + La Châtre"
 url: /la-chatre/profil-la-chatre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

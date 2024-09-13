@@ -1,5 +1,5 @@
 ---
 title: "Icéane"
 url: /orleans/iceane/
-shop: Friseur
+shop: coiffeur
 ---

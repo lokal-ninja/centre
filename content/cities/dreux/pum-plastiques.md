@@ -1,5 +1,5 @@
 ---
 title: "PUM Plastiques"
 url: /dreux/pum-plastiques/
-shop: Baumarkt
+shop: à faire soi-même
 ---

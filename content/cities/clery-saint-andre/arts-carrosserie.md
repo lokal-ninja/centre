@@ -1,5 +1,5 @@
 ---
 title: "Art's Carrosserie"
 url: /clery-saint-andre/arts-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NaturéO"
 url: /olivet/natureo/
-shop: Supermarkt
+shop: supermarché
 ---

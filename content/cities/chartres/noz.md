@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chartres/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

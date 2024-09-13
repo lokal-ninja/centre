@@ -1,5 +1,5 @@
 ---
 title: "Cap Saran"
 url: /saran/cap-saran/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

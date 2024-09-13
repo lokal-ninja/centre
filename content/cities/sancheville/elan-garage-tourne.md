@@ -1,5 +1,5 @@
 ---
 title: "Elan - Garage Tourne"
 url: /sancheville/elan-garage-tourne/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

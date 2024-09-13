@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Lagès"
 url: /chambray-les-tours/carrosserie-lages/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

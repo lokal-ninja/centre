@@ -1,5 +1,5 @@
 ---
 title: "Graines au vent"
 url: /corbeilles-en-gatinais/graines-au-vent/
-shop: Hofladen
+shop: ferme
 ---

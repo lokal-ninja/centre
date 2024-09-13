@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /hanches/super-u/
-shop: Gasflaschen
+shop: gaz
 ---
