@@ -4,8 +4,8 @@ latitude: 47.3825
 longitude: 0.68022
 postcode: "37000"
 city: Tours
-street: "Passage Marguéron"
-housenumber: 2
-phone: "+33 6 77 70 36 18"
-opening_hours: "Sur rendez-vous"
-website: "https://www.plantainmaisonfleurie.com/"
+street: Passage Marguéron
+housenumber: "2"
+phone: +33 6 77 70 36 18
+opening_hours: '"Sur rendez-vous"'
+website: https://www.plantainmaisonfleurie.com/

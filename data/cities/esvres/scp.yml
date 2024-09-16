@@ -1,11 +1,11 @@
 id: 68624389
-type: way
+type: node
 latitude: 47.30327
 longitude: 0.79859
 postcode: "37320"
 city: Esvres
-street: "Allée Ettore Bugatti"
-housenumber: 5
+street: Allée Ettore Bugatti
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.scpeurope.fr/"
+website: https://www.scpeurope.fr/

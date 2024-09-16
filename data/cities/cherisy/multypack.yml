@@ -1,11 +1,11 @@
 id: 782670751
-type: way
+type: node
 latitude: 48.74572
 longitude: 1.4303
 postcode: "28500"
 city: Cherisy
-street: "Route de Paris"
-housenumber: 42
-phone: "+33 2 37 62 36 20"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.multypack.fr/"
+street: Route de Paris
+housenumber: "42"
+phone: +33 2 37 62 36 20
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.multypack.fr/

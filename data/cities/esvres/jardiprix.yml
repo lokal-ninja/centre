@@ -1,11 +1,11 @@
 id: 68631424
-type: way
+type: node
 latitude: 47.30033
 longitude: 0.80101
 postcode: "37320"
 city: Esvres
-street: "Allée De Dion-Bouton"
-housenumber: 7
-phone: "+33 2 47 42 96 53"
+street: Allée De Dion-Bouton
+housenumber: "7"
+phone: +33 2 47 42 96 53
 opening_hours: ""
-website: "https://www.jardiprix.com/"
+website: https://www.jardiprix.com/

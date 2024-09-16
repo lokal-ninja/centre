@@ -1,11 +1,11 @@
 id: 95644951
-type: way
+type: node
 latitude: 47.98046
 longitude: 2.72985
 postcode: "45200"
 city: Amilly
-street: "Rue du Vernisson"
-housenumber: 258
-phone: "+33 2 38 89 38 46"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.maisondelaliterie.fr/magasin/19-maison-de-la-literie-amilly"
+street: Rue du Vernisson
+housenumber: "258"
+phone: +33 2 38 89 38 46
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00
+website: https://www.maisondelaliterie.fr/magasin/19-maison-de-la-literie-amilly

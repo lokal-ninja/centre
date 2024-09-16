@@ -4,8 +4,8 @@ latitude: 47.3016
 longitude: 0.79633
 postcode: "37320"
 city: Esvres
-street: "Allée Panhard et Levassor"
-housenumber: 4
-phone: "+33 2 47 26 50 60"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.dekra-norisko.fr/"
+street: Allée Panhard et Levassor
+housenumber: "4"
+phone: +33 2 47 26 50 60
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.dekra-norisko.fr/

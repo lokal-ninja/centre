@@ -1,11 +1,11 @@
 id: 662297450
-type: way
+type: node
 latitude: 46.57985
 longitude: 2.00114
 postcode: "36400"
 city: La Châtre
-street: "Rue des Crosses"
-housenumber: 30
-phone: "+33 2 54 48 03 23"
+street: Rue des Crosses
+housenumber: "30"
+phone: +33 2 54 48 03 23
 opening_hours: ""
-website: "http://www.apicc-peinture.fr/"
+website: http://www.apicc-peinture.fr/

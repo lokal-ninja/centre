@@ -1,11 +1,11 @@
 id: 69776313
-type: way
+type: node
 latitude: 47.29245
 longitude: 0.71889
 postcode: "37250"
 city: Veigné
-street: "Rue de Tivoli"
-housenumber: 2
+street: Rue de Tivoli
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

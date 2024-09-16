@@ -4,8 +4,8 @@ latitude: 47.84104
 longitude: 1.91612
 postcode: "45160"
 city: Olivet
-street: "Rue de Guyenne"
-housenumber: 123
-phone: "+33 238493111"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de Guyenne
+housenumber: "123"
+phone: +33 238493111
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

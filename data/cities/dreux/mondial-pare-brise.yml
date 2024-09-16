@@ -1,11 +1,11 @@
 id: 182678385
-type: way
+type: node
 latitude: 48.73214
 longitude: 1.36539
 postcode: "28100"
 city: Dreux
-street: "Place du vieux pre"
-housenumber: 9
+street: Place du vieux pre
+housenumber: "9"
 phone: "+33237553937"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00"
-website: "https://www.mondialparebrise.fr"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00
+website: https://www.mondialparebrise.fr

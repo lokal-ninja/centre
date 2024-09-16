@@ -1,11 +1,11 @@
 id: 68807813
-type: way
+type: node
 latitude: 47.34108
 longitude: 0.98647
 postcode: "37150"
 city: La Croix-en-Touraine
-street: "Rue Edouard André"
-housenumber: 
-phone: "+33 2 47 23 55 55"
+street: Rue Edouard André
+housenumber: ""
+phone: +33 2 47 23 55 55
 opening_hours: ""
-website: "https://concessions.peugeot.fr/la-croix-en-touraine/"
+website: https://concessions.peugeot.fr/la-croix-en-touraine/

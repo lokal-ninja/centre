@@ -4,8 +4,8 @@ latitude: 47.59334
 longitude: 0.9154
 postcode: "37110"
 city: Château-Renault
-street: "Place Jean Jaurès"
-housenumber: 18
+street: Place Jean Jaurès
+housenumber: "18"
 phone: "+33247523298"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Th off"
-website: "https://www.audilab.fr/centre/audioprothesiste-chateau-renault"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Th off
+website: https://www.audilab.fr/centre/audioprothesiste-chateau-renault

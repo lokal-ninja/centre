@@ -4,8 +4,8 @@ latitude: 47.90748
 longitude: 1.90572
 postcode: "45000"
 city: Orléans
-street: "Rue Nicolas Copernic"
-housenumber: 2
-phone: "+33 238810116"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.claires.com/fr-f/orleans/601.html"
+street: Rue Nicolas Copernic
+housenumber: "2"
+phone: +33 238810116
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.claires.com/fr-f/orleans/601.html

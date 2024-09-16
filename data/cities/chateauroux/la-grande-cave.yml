@@ -4,8 +4,8 @@ latitude: 46.80645
 longitude: 1.68023
 postcode: "36000"
 city: Châteauroux
-street: "Boulevard des Marins"
-housenumber: 41
-phone: "+33 2 54 07 19 04"
-opening_hours: "Mo-Sa 09:00-12:15,14:15-19:15"
+street: Boulevard des Marins
+housenumber: "41"
+phone: +33 2 54 07 19 04
+opening_hours: Mo-Sa 09:00-12:15,14:15-19:15
 website: ""

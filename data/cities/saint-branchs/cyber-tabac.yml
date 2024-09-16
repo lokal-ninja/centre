@@ -4,8 +4,8 @@ latitude: 47.2285
 longitude: 0.77134
 postcode: "37320"
 city: Saint-Branchs
-street: "Place du 11 Novembre"
-housenumber: 11
-phone: "+33 2 47 26 30 40"
+street: Place du 11 Novembre
+housenumber: "11"
+phone: +33 2 47 26 30 40
 opening_hours: ""
-website: "http://www.transfert-film.fr/"
+website: http://www.transfert-film.fr/

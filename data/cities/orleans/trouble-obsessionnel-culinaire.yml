@@ -4,8 +4,8 @@ latitude: 47.90168
 longitude: 1.90377
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 81
+street: Rue Royale
+housenumber: "81"
 phone: "+33236477362"
 opening_hours: ""
-website: "https://www.toc.fr/info/68-magasin-toc-orleans"
+website: https://www.toc.fr/info/68-magasin-toc-orleans

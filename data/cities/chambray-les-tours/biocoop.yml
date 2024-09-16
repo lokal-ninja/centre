@@ -1,11 +1,11 @@
 id: 68773075
-type: way
+type: node
 latitude: 47.33606
 longitude: 0.70251
 postcode: "37170"
 city: Chambray-lès-Tours
 street: ""
-housenumber: 17
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.biocoop37.com/chambray/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.biocoop37.com/chambray/

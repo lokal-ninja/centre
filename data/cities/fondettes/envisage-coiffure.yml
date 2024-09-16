@@ -1,5 +1,5 @@
 id: 319416285
-type: way
+type: node
 latitude: 47.40417
 longitude: 0.60594
 postcode: "37230"
@@ -7,5 +7,5 @@ city: Fondettes
 street: ""
 housenumber: 2 bis
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-17:00"
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-17:00
 website: ""

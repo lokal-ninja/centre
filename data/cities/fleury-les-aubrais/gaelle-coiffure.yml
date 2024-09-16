@@ -4,8 +4,9 @@ latitude: 47.93183
 longitude: 1.90824
 postcode: "45400"
 city: Fleury-les-Aubrais
-street: "Rue Jean Jaurès"
-housenumber: 34
+street: Rue Jean Jaurès
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-We 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-18:30; Fr 09:00-20:00; Sa 08:00-16:00"
+opening_hours: Tu-We 09:00-12:00,14:00-18:00; Th 09:00-12:00,14:00-18:30; Fr 09:00-20:00;
+    Sa 08:00-16:00
 website: ""

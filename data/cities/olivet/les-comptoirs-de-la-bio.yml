@@ -4,8 +4,8 @@ latitude: 47.84418
 longitude: 1.91662
 postcode: "45160"
 city: Olivet
-street: "Rue d'Artois"
-housenumber: 115
+street: Rue d'Artois
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://lescomptoirsdelabio.fr/magasins/olivet"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://lescomptoirsdelabio.fr/magasins/olivet

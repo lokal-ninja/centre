@@ -4,8 +4,8 @@ latitude: 47.90066
 longitude: 1.90579
 postcode: "45000"
 city: Orléans
-street: "Place Louis XI"
-housenumber: 12
-phone: "+33 6 72 10 76 33"
+street: Place Louis XI
+housenumber: "12"
+phone: +33 6 72 10 76 33
 opening_hours: ""
-website: "https://www.oterrefeu.fr/"
+website: https://www.oterrefeu.fr/

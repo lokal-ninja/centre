@@ -1,11 +1,11 @@
 id: 75323813
-type: way
+type: node
 latitude: 47.36693
 longitude: 0.72151
 postcode: "37550"
 city: Saint-Avertin
-street: "Avenue du Lac"
-housenumber: 6
+street: Avenue du Lac
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

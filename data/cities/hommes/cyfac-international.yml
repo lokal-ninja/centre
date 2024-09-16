@@ -1,11 +1,11 @@
 id: 224980580
-type: way
+type: node
 latitude: 47.44587
 longitude: 0.29368
 postcode: "37340"
 city: Hommes
-street: "La Fuye"
-housenumber: 
-phone: "+33.2 47 24 67 42"
+street: La Fuye
+housenumber: ""
+phone: +33.2 47 24 67 42
 opening_hours: ""
-website: "https://www.cyfac.fr/"
+website: https://www.cyfac.fr/

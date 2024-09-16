@@ -4,8 +4,8 @@ latitude: 47.37898
 longitude: 0.67055
 postcode: "37000"
 city: Tours
-street: "Rue Fromentel"
-housenumber: 155
-phone: "+33 6 44 97 74 08"
-opening_hours: "We,Fr,Sa 14:00-17:30, Sa 10:00-12:30"
-website: "https://www.ressourcerie-lacharpentiere.fr"
+street: Rue Fromentel
+housenumber: "155"
+phone: +33 6 44 97 74 08
+opening_hours: We,Fr,Sa 14:00-17:30, Sa 10:00-12:30
+website: https://www.ressourcerie-lacharpentiere.fr

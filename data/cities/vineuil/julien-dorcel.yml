@@ -1,11 +1,11 @@
 id: 821155701
-type: way
+type: node
 latitude: 47.57273
 longitude: 1.37461
 postcode: "41350"
 city: Vineuil
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.juliendorcel.com/fr-fr/bijouterie/vineuil"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.juliendorcel.com/fr-fr/bijouterie/vineuil

@@ -1,11 +1,11 @@
 id: 69145377
-type: way
+type: node
 latitude: 47.34454
 longitude: 2.48664
 postcode: "18380"
 city: Ivoy-le-Pré
-street: "Grande Rue"
-housenumber: 11
+street: Grande Rue
+housenumber: "11"
 phone: ""
-opening_hours: "We-Sa 08:30-19:00"
+opening_hours: We-Sa 08:30-19:00
 website: ""

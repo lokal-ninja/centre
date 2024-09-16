@@ -1,11 +1,11 @@
 id: 1002408543
-type: way
+type: node
 latitude: 47.4312
 longitude: 0.69091
 postcode: "37100"
 city: Tours
-street: "Rue Thalès de Milet"
-housenumber: 15
-phone: "+33 2 42 06 02 05"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Rue Thalès de Milet
+housenumber: "15"
+phone: +33 2 42 06 02 05
+opening_hours: Mo-Su 06:00-20:00
 website: ""

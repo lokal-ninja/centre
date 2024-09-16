@@ -4,8 +4,8 @@ latitude: 47.89873
 longitude: 1.90426
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 12
-phone: "+33.2 38 42 76 28"
+street: Rue Royale
+housenumber: "12"
+phone: +33.2 38 42 76 28
 opening_hours: ""
-website: "https://orleans.cyclable.com/"
+website: https://orleans.cyclable.com/

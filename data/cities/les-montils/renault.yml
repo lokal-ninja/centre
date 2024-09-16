@@ -1,11 +1,11 @@
 id: 440919685
-type: way
+type: node
 latitude: 47.50481
 longitude: 1.29883
 postcode: "41120"
 city: Les Montils
 street: ""
-housenumber: 50
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

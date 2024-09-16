@@ -1,11 +1,11 @@
 id: 724243517
-type: way
+type: node
 latitude: 47.1201
 longitude: 2.36543
 postcode: "18230"
 city: saint doulchard
-street: "Route de Vierzon"
-housenumber: 
+street: Route de Vierzon
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

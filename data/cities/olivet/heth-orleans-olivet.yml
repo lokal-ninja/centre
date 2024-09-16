@@ -1,11 +1,11 @@
 id: 199404434
-type: way
+type: node
 latitude: 47.83963
 longitude: 1.91208
 postcode: "45160"
 city: Olivet
-street: "Rue Flandres Dunkerque"
-housenumber: 290
+street: Rue Flandres Dunkerque
+housenumber: "290"
 phone: ""
-opening_hours: "Mo 14:00-19:15; Tu-Sa 09:30-12:15,14:00-19:15"
+opening_hours: Mo 14:00-19:15; Tu-Sa 09:30-12:15,14:00-19:15
 website: ""

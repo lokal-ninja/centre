@@ -1,11 +1,11 @@
 id: 375263159
-type: way
+type: node
 latitude: 47.02323
 longitude: 1.75261
 postcode: "36150"
 city: Liniez
-street: "Route de Ménétréols"
-housenumber: 4
+street: Route de Ménétréols
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

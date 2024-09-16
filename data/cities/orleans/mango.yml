@@ -4,8 +4,8 @@ latitude: 47.90717
 longitude: 1.90487
 postcode: "45000"
 city: Orléans
-street: "Rue Nicolas Copernic"
-housenumber: 2
+street: Rue Nicolas Copernic
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://shop.mango.com/fr"
+website: https://shop.mango.com/fr

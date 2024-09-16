@@ -4,8 +4,8 @@ latitude: 48.44455
 longitude: 1.48628
 postcode: "28000"
 city: Chartres
-street: "Rue du Bois merrain"
-housenumber: 3
+street: Rue du Bois merrain
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00, 14:00-19:00"
-website: "https://www.montresandco.com/magasins/chartres-1664M"
+opening_hours: Tu-Sa 10:00-13:00, 14:00-19:00
+website: https://www.montresandco.com/magasins/chartres-1664M

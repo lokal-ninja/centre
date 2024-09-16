@@ -1,11 +1,11 @@
 id: 91171777
-type: way
+type: node
 latitude: 47.8629
 longitude: 2.22288
 postcode: "45110"
 city: Châteauneuf-sur-Loire
-street: "Grande Rue"
-housenumber: 98
+street: Grande Rue
+housenumber: "98"
 phone: ""
-opening_hours: "Tu-Fr 06:30-19:30; Sa 07:00-19:30"
+opening_hours: Tu-Fr 06:30-19:30; Sa 07:00-19:30
 website: ""

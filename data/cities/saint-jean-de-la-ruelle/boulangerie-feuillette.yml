@@ -1,11 +1,11 @@
 id: 1245864638
-type: way
+type: node
 latitude: 47.91475
 longitude: 1.86946
 postcode: "45140"
 city: Saint-Jean de la Ruelle
-street: "Rue Charles Beauhaire"
-housenumber: 140
-phone: "+33 2 38 54 70 88"
-opening_hours: "Mo-Su,PH 06:00-20:00"
+street: Rue Charles Beauhaire
+housenumber: "140"
+phone: +33 2 38 54 70 88
+opening_hours: Mo-Su,PH 06:00-20:00
 website: ""

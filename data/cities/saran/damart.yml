@@ -5,7 +5,7 @@ longitude: 1.88418
 postcode: "45770"
 city: Saran
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.damart.fr"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.damart.fr

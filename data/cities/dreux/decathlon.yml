@@ -1,11 +1,11 @@
 id: 182563827
-type: way
+type: node
 latitude: 48.74935
 longitude: 1.34927
 postcode: "28100"
 city: Dreux
-street: "Rue Henry Potez"
-housenumber: 
+street: Rue Henry Potez
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.decathlon.fr/

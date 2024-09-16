@@ -1,11 +1,11 @@
 id: 662297445
-type: way
+type: node
 latitude: 46.57987
 longitude: 2.00067
 postcode: "36400"
 city: La Châtre
-street: "Rue des Crosses"
-housenumber: 28
+street: Rue des Crosses
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

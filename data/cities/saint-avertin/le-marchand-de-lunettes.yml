@@ -4,8 +4,8 @@ latitude: 47.34005
 longitude: 0.73816
 postcode: "37550"
 city: Saint-Avertin
-street: "Rue du Général Mocquery"
-housenumber: 8
-phone: "+33 2 42 06 07 30"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00"
-website: "https://www.lmlunettes.fr/"
+street: Rue du Général Mocquery
+housenumber: "8"
+phone: +33 2 42 06 07 30
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-18:00
+website: https://www.lmlunettes.fr/

@@ -1,11 +1,11 @@
 id: 662316831
-type: way
+type: node
 latitude: 48.74302
 longitude: 1.39029
 postcode: "28100"
 city: Dreux
-street: "Avenue du Général Leclerc"
-housenumber: 126
-phone: "+33 2 37 64 23 95"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00"
-website: "https://store.totalenergies.fr/en_EN/NF042107"
+street: Avenue du Général Leclerc
+housenumber: "126"
+phone: +33 2 37 64 23 95
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00
+website: https://store.totalenergies.fr/en_EN/NF042107

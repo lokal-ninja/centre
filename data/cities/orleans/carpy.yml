@@ -4,8 +4,8 @@ latitude: 47.90071
 longitude: 1.90531
 postcode: "45000"
 city: Orléans
-street: "Rue Sainte-Catherine"
-housenumber: 21
+street: Rue Sainte-Catherine
+housenumber: "21"
 phone: ""
-opening_hours: "Tu,We,Sa 09:00-18:00; Th 10:00-19:00; Fr 09:00-19:00"
-website: "https://www.carpy-orleans.fr/"
+opening_hours: Tu,We,Sa 09:00-18:00; Th 10:00-19:00; Fr 09:00-19:00
+website: https://www.carpy-orleans.fr/

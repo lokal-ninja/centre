@@ -4,8 +4,8 @@ latitude: 46.5954
 longitude: 1.80789
 postcode: "36230"
 city: Neuvy-Saint-Sépulchre
-street: "Place du Cardinal Eudes"
-housenumber: 11
-phone: "+33 2 54 30 21 87"
-opening_hours: "Mo,Tu,Th-Sa 06:30-13:00,15:30-19:00; Su 06:30-12:30"
-website: "https://pains-de-la-basilique.edan.io/"
+street: Place du Cardinal Eudes
+housenumber: "11"
+phone: +33 2 54 30 21 87
+opening_hours: Mo,Tu,Th-Sa 06:30-13:00,15:30-19:00; Su 06:30-12:30
+website: https://pains-de-la-basilique.edan.io/

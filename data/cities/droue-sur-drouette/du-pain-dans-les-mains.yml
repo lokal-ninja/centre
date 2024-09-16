@@ -4,8 +4,8 @@ latitude: 48.6015
 longitude: 1.70334
 postcode: "28230"
 city: Droue-sur-Drouette
-street: "Rue du Moulin"
-housenumber: 7
+street: Rue du Moulin
+housenumber: "7"
 phone: ""
-opening_hours: "We-Fr 07:00-13:00,16:00-19:00, Sa 07:00-17:00"
-website: "https://www.dupaindanslesmains.fr/"
+opening_hours: We-Fr 07:00-13:00,16:00-19:00, Sa 07:00-17:00
+website: https://www.dupaindanslesmains.fr/

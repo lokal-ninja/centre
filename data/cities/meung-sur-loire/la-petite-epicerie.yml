@@ -1,11 +1,11 @@
 id: 295670146
-type: way
+type: node
 latitude: 47.82458
 longitude: 1.69576
 postcode: "45130"
 city: Meung-sur-Loire
-street: "Rue Emmanuel Troulet"
-housenumber: 12
-phone: "+33 2 38 45 14 66"
-opening_hours: "Mo 16:00-19:00; Tu-Sa 09:30-12:30,15:30-19:00; We off; Su 09:30-12:30"
-website: "https://www.facebook.com/La-Petite-Epicerie-1940248496213320/"
+street: Rue Emmanuel Troulet
+housenumber: "12"
+phone: +33 2 38 45 14 66
+opening_hours: Mo 16:00-19:00; Tu-Sa 09:30-12:30,15:30-19:00; We off; Su 09:30-12:30
+website: https://www.facebook.com/La-Petite-Epicerie-1940248496213320/

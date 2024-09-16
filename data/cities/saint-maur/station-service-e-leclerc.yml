@@ -1,11 +1,11 @@
 id: 233565031
-type: way
+type: node
 latitude: 46.82069
 longitude: 1.6692
 postcode: "36250"
 city: Saint-Maur
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

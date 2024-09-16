@@ -1,11 +1,11 @@
 id: 181539472
-type: way
+type: node
 latitude: 47.5824
 longitude: 1.36816
 postcode: "41350"
 city: Vineuil
 street: ""
-housenumber: 42
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30,15:00-19:30"
+opening_hours: Mo-Sa 08:00-12:30,15:00-19:30
 website: ""

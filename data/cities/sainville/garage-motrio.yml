@@ -1,11 +1,11 @@
 id: 175501639
-type: way
+type: node
 latitude: 48.41545
 longitude: 1.87871
 postcode: "28700"
 city: Sainville
-street: "rue Jean Guillien"
-housenumber: 2
+street: rue Jean Guillien
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 1.93466
 postcode: "45650"
 city: Saint-Jean-le-Blanc
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33238649504"
-opening_hours: "Mo-Fr 09:00-12:30, 13:15-18:00"
-website: "http://www.brodelec.fr/"
+opening_hours: Mo-Fr 09:00-12:30, 13:15-18:00
+website: http://www.brodelec.fr/

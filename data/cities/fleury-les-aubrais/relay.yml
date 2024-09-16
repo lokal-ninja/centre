@@ -4,8 +4,8 @@ latitude: 47.9269
 longitude: 1.90659
 postcode: "45400"
 city: Fleury-les-Aubrais
-street: "Rue Lamartine"
-housenumber: 15
-phone: "+33 2 38 84 67 33"
-opening_hours: "Mo-Th 05:30-20:00; Fr 05:30-21:30; Sa 07:00-20:00; Su 09:00-22:00"
-website: "https://www.relay.com/stores/hubiz-gare-les-aubrais/"
+street: Rue Lamartine
+housenumber: "15"
+phone: +33 2 38 84 67 33
+opening_hours: Mo-Th 05:30-20:00; Fr 05:30-21:30; Sa 07:00-20:00; Su 09:00-22:00
+website: https://www.relay.com/stores/hubiz-gare-les-aubrais/

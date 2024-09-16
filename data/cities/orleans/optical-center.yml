@@ -4,8 +4,8 @@ latitude: 47.90682
 longitude: 1.90637
 postcode: "45000"
 city: Orléans
-street: "Rue Albert 1er"
-housenumber: 6
-phone: "+33 2 38 62 00 00"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://opticien.optical-center.fr/203-opticien-orleans-optical-center"
+street: Rue Albert 1er
+housenumber: "6"
+phone: +33 2 38 62 00 00
+opening_hours: Mo-Sa 10:00-19:00
+website: https://opticien.optical-center.fr/203-opticien-orleans-optical-center

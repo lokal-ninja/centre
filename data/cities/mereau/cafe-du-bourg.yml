@@ -1,11 +1,11 @@
 id: 92911156
-type: way
+type: node
 latitude: 47.16299
 longitude: 2.04979
 postcode: "18120"
 city: Méreau
-street: "Avenue d'Issoudun"
-housenumber: 12
+street: Avenue d'Issoudun
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

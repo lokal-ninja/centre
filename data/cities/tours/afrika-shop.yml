@@ -4,8 +4,8 @@ latitude: 47.37291
 longitude: 0.69323
 postcode: "37000"
 city: Tours
-street: "Rue Toulouse-Lautrec"
-housenumber: 10
-phone: "+33 7 82 66 51 35"
-opening_hours: "10:00-20:00"
+street: Rue Toulouse-Lautrec
+housenumber: "10"
+phone: +33 7 82 66 51 35
+opening_hours: 10:00-20:00
 website: ""

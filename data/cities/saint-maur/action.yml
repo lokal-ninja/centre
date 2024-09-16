@@ -1,11 +1,11 @@
 id: 342963537
-type: way
+type: node
 latitude: 46.77648
 longitude: 1.64774
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 114
+street: Avenue d'Occitanie
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 10:00-18:00"
-website: "https://www.action.com/fr-fr/points-de-vente/saint-maur-avenue-doccitanie/"
+opening_hours: Mo-Sa 08:30-20:00; Su 10:00-18:00
+website: https://www.action.com/fr-fr/points-de-vente/saint-maur-avenue-doccitanie/

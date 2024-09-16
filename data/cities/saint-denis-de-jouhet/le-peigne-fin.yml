@@ -1,11 +1,11 @@
 id: 208291421
-type: way
+type: node
 latitude: 46.53118
 longitude: 1.87023
 postcode: "36230"
 city: Saint-Denis-de-Jouhet
-street: "Place de l'Église"
-housenumber: 15
-phone: "+33 2 54 30 70 64"
+street: Place de l'Église
+housenumber: "15"
+phone: +33 2 54 30 70 64
 opening_hours: ""
 website: ""

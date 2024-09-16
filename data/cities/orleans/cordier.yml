@@ -4,8 +4,8 @@ latitude: 47.90384
 longitude: 1.90321
 postcode: "45000"
 city: Orléans
-street: "Rue Bannier"
-housenumber: 20
+street: Rue Bannier
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 07:30-20:00; Su 07:30-19:00"
+opening_hours: Mo,Tu,Th-Sa 07:30-20:00; Su 07:30-19:00
 website: ""

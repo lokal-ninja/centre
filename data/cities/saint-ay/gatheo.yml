@@ -1,11 +1,11 @@
 id: 316541295
-type: way
+type: node
 latitude: 47.85969
 longitude: 1.75504
 postcode: "45130"
 city: Saint-Ay
-street: "Route Nationale"
-housenumber: 70
+street: Route Nationale
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

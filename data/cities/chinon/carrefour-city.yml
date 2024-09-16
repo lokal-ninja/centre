@@ -1,11 +1,11 @@
 id: 62475923
-type: way
+type: node
 latitude: 47.16653
 longitude: 0.23969
 postcode: "37500"
 city: Chinon
-street: "Place du Général de Gaulle"
-housenumber: 20
-phone: "+33 2 47 93 00 63"
-opening_hours: "Mo-Sa 07:00-22:00, Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-chinon"
+street: Place du Général de Gaulle
+housenumber: "20"
+phone: +33 2 47 93 00 63
+opening_hours: Mo-Sa 07:00-22:00, Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-chinon

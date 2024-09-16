@@ -1,11 +1,11 @@
 id: 233574908
-type: way
+type: node
 latitude: 46.78388
 longitude: 1.65045
 postcode: "36250"
 city: Saint-Maur
-street: "Rue du Franc"
-housenumber: 
+street: Rue du Franc
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

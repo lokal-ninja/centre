@@ -4,8 +4,8 @@ latitude: 47.43674
 longitude: 0.70384
 postcode: "37100"
 city: Tours
-street: "Rue Christian Huygens"
-housenumber: 31
-phone: "+33 2 47 40 37 37"
-opening_hours: "Mo-Th 09:00-12:00,13:00-17:00"
+street: Rue Christian Huygens
+housenumber: "31"
+phone: +33 2 47 40 37 37
+opening_hours: Mo-Th 09:00-12:00,13:00-17:00
 website: ""

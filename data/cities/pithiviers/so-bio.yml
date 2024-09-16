@@ -1,11 +1,11 @@
 id: 564391843
-type: way
+type: node
 latitude: 48.1891
 longitude: 2.24528
 postcode: "45300"
 city: Pithiviers
-street: "Rue René Cassin"
-housenumber: 
-phone: "+33 6 76 25 18 00"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-19:30"
+street: Rue René Cassin
+housenumber: ""
+phone: +33 6 76 25 18 00
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:00-19:30
 website: ""

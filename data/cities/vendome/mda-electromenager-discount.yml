@@ -1,11 +1,11 @@
 id: 908209832
-type: way
+type: node
 latitude: 47.78084
 longitude: 1.0808
 postcode: "41100"
 city: Vendôme
-street: "Allée Louis Armand"
-housenumber: 
+street: Allée Louis Armand
+housenumber: ""
 phone: "+33254674030"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-17:30"
-website: "https://magasins.mda-electromenager.com/155-mda-vendome"
+opening_hours: Mo-Sa 09:30-12:30,14:00-17:30
+website: https://magasins.mda-electromenager.com/155-mda-vendome

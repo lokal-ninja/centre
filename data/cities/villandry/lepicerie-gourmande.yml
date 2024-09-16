@@ -4,8 +4,8 @@ latitude: 47.34031
 longitude: 0.51148
 postcode: "37510"
 city: Villandry
-street: "Rue de la Mairie"
-housenumber: 6
-phone: "+33 2 47 43 57 49"
-opening_hours: "Fr-We 11:00-14:00,16:30-18:00"
-website: "https://www.epicerie-gourmande-villandry.fr/"
+street: Rue de la Mairie
+housenumber: "6"
+phone: +33 2 47 43 57 49
+opening_hours: Fr-We 11:00-14:00,16:30-18:00
+website: https://www.epicerie-gourmande-villandry.fr/

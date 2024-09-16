@@ -1,11 +1,11 @@
 id: 289537837
-type: way
+type: node
 latitude: 47.92327
 longitude: 2.00753
 postcode: "45760"
 city: Boigny-sur-Bionne
-street: "Rue de Verdun"
-housenumber: 
-phone: "+33 2 38 81 16 06"
-opening_hours: "Mo-Sa 08:00-18:30; Su 8:30-12:00"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-boigny-sur-bionne"
+street: Rue de Verdun
+housenumber: ""
+phone: +33 2 38 81 16 06
+opening_hours: Mo-Sa 08:00-18:30; Su 8:30-12:00
+website: https://magasins.spar.fr/fr/s/spar-supermarche-boigny-sur-bionne

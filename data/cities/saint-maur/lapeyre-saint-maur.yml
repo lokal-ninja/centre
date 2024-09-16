@@ -1,11 +1,11 @@
 id: 653963357
-type: way
+type: node
 latitude: 46.78992
 longitude: 1.65945
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 42
-phone: "+33 2 54 34 33 11"
+street: Avenue d'Occitanie
+housenumber: "42"
+phone: +33 2 54 34 33 11
 opening_hours: ""
-website: "https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-centre-chateauroux"
+website: https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-centre-chateauroux

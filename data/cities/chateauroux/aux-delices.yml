@@ -1,11 +1,11 @@
 id: 187958144
-type: way
+type: node
 latitude: 46.81233
 longitude: 1.69202
 postcode: "36000"
 city: Châteauroux
 street: ""
-housenumber: 109
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

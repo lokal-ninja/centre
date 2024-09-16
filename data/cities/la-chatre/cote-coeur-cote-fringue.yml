@@ -1,11 +1,11 @@
 id: 256867195
-type: way
+type: node
 latitude: 46.57945
 longitude: 1.9883
 postcode: "36400"
 city: La Châtre
-street: "Place Notre Dame"
-housenumber: 
+street: Place Notre Dame
+housenumber: ""
 phone: ""
-opening_hours: "We 10:00-12:00,14:00-17:30; Sa 10:00-12:30"
+opening_hours: We 10:00-12:00,14:00-17:30; Sa 10:00-12:30
 website: ""

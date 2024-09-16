@@ -1,11 +1,11 @@
 id: 217410511
-type: way
+type: node
 latitude: 48.41668
 longitude: 1.45717
 postcode: "28600"
 city: Luisant
-street: "Rue Jean Perrin"
-housenumber: 
+street: Rue Jean Perrin
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.maxitoys.fr/"
+website: https://www.maxitoys.fr/

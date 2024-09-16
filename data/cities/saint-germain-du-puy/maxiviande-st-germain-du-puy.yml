@@ -1,11 +1,11 @@
 id: 966714324
-type: way
+type: node
 latitude: 47.09682
 longitude: 2.45373
 postcode: "18390"
 city: Saint-Germain-du-Puy
-street: "Route de La Charité"
-housenumber: 7
-phone: "+33 2 48 24 98 94"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.maxiviande.com/"
+street: Route de La Charité
+housenumber: "7"
+phone: +33 2 48 24 98 94
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.maxiviande.com/

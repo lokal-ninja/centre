@@ -1,11 +1,11 @@
 id: 95650585
-type: way
+type: node
 latitude: 47.97896
 longitude: 2.73443
 postcode: "45200"
 city: Amilly
-street: "Rue des Aubépines"
-housenumber: 
+street: Rue des Aubépines
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.aldi.fr/filialen/45200-Amilly"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.aldi.fr/filialen/45200-Amilly

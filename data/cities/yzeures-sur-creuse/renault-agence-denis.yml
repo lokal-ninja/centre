@@ -1,11 +1,11 @@
 id: 59422222
-type: way
+type: node
 latitude: 46.80333
 longitude: 0.83397
 postcode: "37290"
 city: Yzeures-sur-Creuse
 street: ""
-housenumber: 25
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

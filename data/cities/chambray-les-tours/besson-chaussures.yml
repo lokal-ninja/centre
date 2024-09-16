@@ -1,11 +1,11 @@
 id: 415640268
-type: way
+type: node
 latitude: 47.32585
 longitude: 0.71119
 postcode: "37170"
 city: CHAMBRAY LES TOURS
 street: ""
-housenumber: 213
-phone: "+33 8 06 80 00 04"
-opening_hours: "Mo-Sa 90:30-19:30"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-tours-chambray_chambray-les-tours_37170/214.html"
+housenumber: "213"
+phone: +33 8 06 80 00 04
+opening_hours: Mo-Sa 90:30-19:30
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-tours-chambray_chambray-les-tours_37170/214.html

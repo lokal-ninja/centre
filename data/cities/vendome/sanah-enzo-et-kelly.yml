@@ -1,5 +1,5 @@
 id: 76341157
-type: way
+type: node
 latitude: 47.79197
 longitude: 1.06791
 postcode: "41100"
@@ -7,5 +7,5 @@ city: Vendôme
 street: ""
 housenumber: 1bis
 phone: ""
-opening_hours: "Tu 10:00-12:00,15:00-18:00; We-Sa 09:30-12:15,14:30-18:30"
+opening_hours: Tu 10:00-12:00,15:00-18:00; We-Sa 09:30-12:15,14:30-18:30
 website: ""

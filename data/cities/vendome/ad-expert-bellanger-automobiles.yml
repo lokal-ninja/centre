@@ -1,11 +1,11 @@
 id: 76333471
-type: way
+type: node
 latitude: 47.78194
 longitude: 1.0773
 postcode: "41100"
 city: Vendôme
-street: "Allée Ernest Nouel"
-housenumber: 
-phone: "+33 2 54 77 11 98"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-17:30"
-website: "https://www.bellangerautomobiles41.fr/"
+street: Allée Ernest Nouel
+housenumber: ""
+phone: +33 2 54 77 11 98
+opening_hours: Mo 14:00-19:00; Tu-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-17:30
+website: https://www.bellangerautomobiles41.fr/

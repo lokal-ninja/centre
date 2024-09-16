@@ -1,11 +1,11 @@
 id: 182108364
-type: way
+type: node
 latitude: 47.55064
 longitude: 1.53864
 postcode: "41250"
 city: Bracieux
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: "+33254460796"
 opening_hours: ""
-website: "https://www.maxvauche-chocolatier.com/"
+website: https://www.maxvauche-chocolatier.com/

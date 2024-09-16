@@ -1,11 +1,11 @@
 id: 238731534
-type: way
+type: node
 latitude: 46.95637
 longitude: 2.00383
 postcode: "36100"
 city: Issoudun
-street: "Rue de la Limoise"
-housenumber: 12
-phone: "+33 2 54 03 28 62"
+street: Rue de la Limoise
+housenumber: "12"
+phone: +33 2 54 03 28 62
 opening_hours: ""
-website: "https://www.gemo.fr/magasin/GEMO_ISSOUDUN_Chaussures_&_V%C3%AAtements/GEMO_9282"
+website: https://www.gemo.fr/magasin/GEMO_ISSOUDUN_Chaussures_&_V%C3%AAtements/GEMO_9282

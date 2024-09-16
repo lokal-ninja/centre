@@ -1,11 +1,11 @@
 id: 330069430
-type: way
+type: node
 latitude: 47.39514
 longitude: 0.71638
 postcode: "37700"
 city: Saint-Pierre-des-Corps
-street: "Rue Hoche"
-housenumber: 26
+street: Rue Hoche
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 257501135
-type: way
+type: node
 latitude: 46.89457
 longitude: 2.56983
 postcode: "18130"
 city: Dun-sur-Auron
-street: "Route de Bourges"
-housenumber: 
+street: Route de Bourges
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

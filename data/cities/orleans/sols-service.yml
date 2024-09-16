@@ -4,8 +4,8 @@ latitude: 47.8998
 longitude: 1.90345
 postcode: "45000"
 city: Orléans
-street: "Rue d'Avignon"
-housenumber: 3
+street: Rue d'Avignon
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.parquet-orleans.com/"
+website: http://www.parquet-orleans.com/

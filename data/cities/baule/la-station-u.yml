@@ -1,11 +1,11 @@
 id: 504318542
-type: way
+type: node
 latitude: 47.82016
 longitude: 1.68188
 postcode: "45130"
 city: Baule
-street: "Les Coutures"
-housenumber: 
+street: Les Coutures
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

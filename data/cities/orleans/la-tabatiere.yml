@@ -4,8 +4,8 @@ latitude: 47.90551
 longitude: 1.90463
 postcode: "45000"
 city: Orléans
-street: "Rue de la République"
-housenumber: 27
-phone: "+33 2 38 53 12 07"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:30-19:00"
-website: "https://www.stylos-cigares-orleans.fr/"
+street: Rue de la République
+housenumber: "27"
+phone: +33 2 38 53 12 07
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:30-19:00
+website: https://www.stylos-cigares-orleans.fr/

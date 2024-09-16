@@ -1,11 +1,11 @@
 id: 95650248
-type: way
+type: node
 latitude: 47.97829
 longitude: 2.73032
 postcode: "45200"
 city: Amilly
-street: "Rue Jean Monnet"
-housenumber: 250
+street: Rue Jean Monnet
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.action.fr/locations/montargis-amilly/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.action.fr/locations/montargis-amilly/

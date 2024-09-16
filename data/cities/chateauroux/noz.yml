@@ -1,11 +1,11 @@
 id: 186767579
-type: way
+type: node
 latitude: 46.81914
 longitude: 1.71137
 postcode: "36000"
 city: Châteauroux
-street: "Boulevard Saint-Denis"
-housenumber: 152
+street: Boulevard Saint-Denis
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.nozarrivages.com/magasin/chateauroux/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.nozarrivages.com/magasin/chateauroux/

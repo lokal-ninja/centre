@@ -4,8 +4,8 @@ latitude: 47.90453
 longitude: 1.90911
 postcode: "45000"
 city: Orléans
-street: "Rue Alsace Lorraine"
-housenumber: 9
+street: Rue Alsace Lorraine
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Sa 09:00-19:00"
+opening_hours: Mo 13:00-19:00; Tu-Sa 09:00-19:00
 website: ""

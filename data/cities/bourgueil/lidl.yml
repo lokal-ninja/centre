@@ -1,11 +1,11 @@
 id: 68619847
-type: way
+type: node
 latitude: 47.27924
 longitude: 0.16716
 postcode: "37140"
 city: Bourgueil
-street: "Rue Jean Causeret"
-housenumber: 
+street: Rue Jean Causeret
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

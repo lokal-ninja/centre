@@ -4,8 +4,8 @@ latitude: 47.90152
 longitude: 1.90431
 postcode: "45000"
 city: Orléans
-street: "Rue Jeanne d'Arc"
-housenumber: 32
-phone: "+33 2 38 53 02 77"
-opening_hours: "Tu-Sa 10:00-13:30,14:00-19:00"
-website: "https://www.sebastien-papion.fr/"
+street: Rue Jeanne d'Arc
+housenumber: "32"
+phone: +33 2 38 53 02 77
+opening_hours: Tu-Sa 10:00-13:30,14:00-19:00
+website: https://www.sebastien-papion.fr/

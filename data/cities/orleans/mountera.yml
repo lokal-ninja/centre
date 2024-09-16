@@ -1,11 +1,11 @@
 id: 154422336
-type: way
+type: node
 latitude: 47.88433
 longitude: 1.89894
 postcode: "45100"
 city: Orleans
-street: "Rue Claude Lewy"
-housenumber: 11
+street: Rue Claude Lewy
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.mounteramag.com/"
+opening_hours: Tu-Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00
+website: https://www.mounteramag.com/

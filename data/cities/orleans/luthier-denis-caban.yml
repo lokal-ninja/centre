@@ -4,8 +4,8 @@ latitude: 47.90048
 longitude: 1.90923
 postcode: "45000"
 city: Orléans
-street: "Rue Parisie"
-housenumber: 8
-phone: "+33 2 38 54 26 67"
-opening_hours: "Tu,We,Fr,Sa 10:00-12:15,14:15-18:30"
-website: "https://caban-luthier.fr/"
+street: Rue Parisie
+housenumber: "8"
+phone: +33 2 38 54 26 67
+opening_hours: Tu,We,Fr,Sa 10:00-12:15,14:15-18:30
+website: https://caban-luthier.fr/

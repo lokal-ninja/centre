@@ -1,11 +1,11 @@
 id: 782086879
-type: way
+type: node
 latitude: 48.72962
 longitude: 1.38356
 postcode: "28100"
 city: Dreux
-street: "Avenue du Président John Fitzgerald Kennedy"
-housenumber: 31
+street: Avenue du Président John Fitzgerald Kennedy
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:30"
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:30
 website: ""

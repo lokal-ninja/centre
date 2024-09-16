@@ -4,8 +4,8 @@ latitude: 47.09712
 longitude: 2.44927
 postcode: "18390"
 city: Saint-Germain-du-Puy
-street: "Route de la charite"
-housenumber: 
+street: Route de la charite
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00"
-website: "http://www.inter-services-loisirs.fr"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00
+website: http://www.inter-services-loisirs.fr

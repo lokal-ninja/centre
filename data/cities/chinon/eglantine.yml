@@ -1,11 +1,11 @@
 id: 62475367
-type: way
+type: node
 latitude: 47.16604
 longitude: 0.23924
 postcode: "37500"
 city: Chinon
-street: "Quai Jeanne d'Arc"
-housenumber: 32
+street: Quai Jeanne d'Arc
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

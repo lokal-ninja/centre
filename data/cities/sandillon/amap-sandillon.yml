@@ -1,11 +1,11 @@
 id: 66035504
-type: way
+type: node
 latitude: 47.85011
 longitude: 2.04932
 postcode: "45640"
 city: Sandillon
-street: "Route de Jargeau"
-housenumber: 1244
+street: Route de Jargeau
+housenumber: "1244"
 phone: ""
 opening_hours: ""
-website: "https://amapsandillon.wixsite.com/amap-sandillon"
+website: https://amapsandillon.wixsite.com/amap-sandillon

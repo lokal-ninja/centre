@@ -5,7 +5,7 @@ longitude: 0.71421
 postcode: "37700"
 city: Saint-Pierre-des-Corps
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:30-20:00; Fr-Sa 09:00-20:00"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1072"
+opening_hours: Mo-Th 09:30-20:00; Fr-Sa 09:00-20:00
+website: https://www.go-sport.com/stores?lang=default#/stores/1072

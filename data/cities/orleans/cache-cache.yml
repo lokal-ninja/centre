@@ -4,8 +4,8 @@ latitude: 47.90826
 longitude: 1.90557
 postcode: "45000"
 city: Orléans
-street: "Rue Nicolas Copernic"
-housenumber: 2
-phone: "+33 2 38 15 39 00"
+street: Rue Nicolas Copernic
+housenumber: "2"
+phone: +33 2 38 15 39 00
 opening_hours: ""
-website: "https://www.cache-cache.fr/"
+website: https://www.cache-cache.fr/

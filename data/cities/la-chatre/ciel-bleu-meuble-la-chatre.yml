@@ -1,11 +1,11 @@
 id: 662297429
-type: way
+type: node
 latitude: 46.58019
 longitude: 2.00238
 postcode: "36400"
 city: La Châtre
-street: "Avenue d'Auvergne"
-housenumber: 
-phone: "+33 2 54 06 05 41"
-opening_hours: "Mo-Sa 09:30-12:00,14:30-19:00"
+street: Avenue d'Auvergne
+housenumber: ""
+phone: +33 2 54 06 05 41
+opening_hours: Mo-Sa 09:30-12:00,14:30-19:00
 website: ""

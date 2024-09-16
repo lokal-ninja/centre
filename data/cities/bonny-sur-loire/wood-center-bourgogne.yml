@@ -1,11 +1,11 @@
 id: 352575991
-type: way
+type: node
 latitude: 47.56947
 longitude: 2.86023
 postcode: "45420"
 city: Bonny-sur-Loire
-street: "Route d'Auxerre"
-housenumber: 123
+street: Route d'Auxerre
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

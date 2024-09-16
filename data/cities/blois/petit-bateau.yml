@@ -1,11 +1,11 @@
 id: 118644844
-type: way
+type: node
 latitude: 47.58723
 longitude: 1.33306
 postcode: "41000"
 city: Blois
 street: ""
-housenumber: 54
-phone: "+33 2 54 58 90 35"
-opening_hours: "Mo closed; Tu-Sa 10:00-19:00; Su closed"
-website: "https://stores.petit-bateau.com/france/blois/54-rue-denis-papin"
+housenumber: "54"
+phone: +33 2 54 58 90 35
+opening_hours: Mo closed; Tu-Sa 10:00-19:00; Su closed
+website: https://stores.petit-bateau.com/france/blois/54-rue-denis-papin

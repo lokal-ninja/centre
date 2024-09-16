@@ -4,8 +4,8 @@ latitude: 47.90178
 longitude: 1.90452
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 27
-phone: "+33 238750177"
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00; Su,PH off"
+street: Rue Charles Sanglier
+housenumber: "27"
+phone: +33 238750177
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00; Su,PH off
 website: ""

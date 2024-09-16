@@ -1,11 +1,11 @@
 id: 175691331
-type: way
+type: node
 latitude: 47.54091
 longitude: 1.86222
 postcode: "41210"
 city: La Ferté-Beauharnais
-street: "Rue des Épinettes"
-housenumber: 
-phone: "+33 2 54 83 66 65"
-opening_hours: "Mo-Su 09:00-12:00,14:00-18:00"
-website: "https://www.les-jardins-de-sologne.com/"
+street: Rue des Épinettes
+housenumber: ""
+phone: +33 2 54 83 66 65
+opening_hours: Mo-Su 09:00-12:00,14:00-18:00
+website: https://www.les-jardins-de-sologne.com/

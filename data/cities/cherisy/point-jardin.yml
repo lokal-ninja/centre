@@ -1,11 +1,11 @@
 id: 782695810
-type: way
+type: node
 latitude: 48.75112
 longitude: 1.43842
 postcode: "28500"
 city: Cherisy
-street: "Impasse de la Vallée Douard"
-housenumber: 4
-phone: "+33 2 37 63 50 22"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00,13:30-17:00"
-website: "https://www.point-jardin.fr/"
+street: Impasse de la Vallée Douard
+housenumber: "4"
+phone: +33 2 37 63 50 22
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00,13:30-17:00
+website: https://www.point-jardin.fr/

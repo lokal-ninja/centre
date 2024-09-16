@@ -1,11 +1,11 @@
 id: 101740632
-type: way
+type: node
 latitude: 47.174
 longitude: 2.16138
 postcode: "18500"
 city: Foëcy
-street: "Rue Jean Lothe"
-housenumber: 
-phone: "+33 2 48 51 01 80"
+street: Rue Jean Lothe
+housenumber: ""
+phone: +33 2 48 51 01 80
 opening_hours: ""
-website: "https://www.labarrecuisinesetbains.fr"
+website: https://www.labarrecuisinesetbains.fr

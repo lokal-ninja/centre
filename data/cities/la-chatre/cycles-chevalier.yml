@@ -4,8 +4,9 @@ latitude: 46.58188
 longitude: 1.98747
 postcode: "36400"
 city: La Châtre
-street: "Place Laisnel de la Salle"
-housenumber: 4
-phone: "+33  6 20 03 32 85"
-opening_hours: "We 14:00-19:00; Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-19:00"
+street: Place Laisnel de la Salle
+housenumber: "4"
+phone: +33  6 20 03 32 85
+opening_hours: We 14:00-19:00; Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-18:30;
+    Sa 09:00-12:00,14:00-19:00
 website: ""

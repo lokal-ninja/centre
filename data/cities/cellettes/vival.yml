@@ -1,11 +1,11 @@
 id: 80418186
-type: way
+type: node
 latitude: 47.52695
 longitude: 1.38086
 postcode: "41120"
 city: Cellettes
 street: ""
-housenumber: 37
-phone: "+33 2 54 70 36 50"
-opening_hours: "Tu-Sa 08:00-12:30, 15:00-19:30; Su 08:00-12:30"
-website: "https://magasins.vival.fr/fr/s/vival-cellettes"
+housenumber: "37"
+phone: +33 2 54 70 36 50
+opening_hours: Tu-Sa 08:00-12:30, 15:00-19:30; Su 08:00-12:30
+website: https://magasins.vival.fr/fr/s/vival-cellettes

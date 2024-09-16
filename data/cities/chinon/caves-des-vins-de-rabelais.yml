@@ -1,11 +1,11 @@
 id: 62483576
-type: way
+type: node
 latitude: 47.17126
 longitude: 0.20885
 postcode: "37500"
 city: Chinon
-street: "Quai Pasteur"
-housenumber: 44
+street: Quai Pasteur
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

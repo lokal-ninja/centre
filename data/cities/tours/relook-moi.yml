@@ -4,8 +4,8 @@ latitude: 47.41654
 longitude: 0.69423
 postcode: "37100"
 city: Tours
-street: "Rue Joseph du Tremblay"
-housenumber: 21
-phone: "+33 2 47 54 21 13"
-opening_hours: "Tu,Th,Fr 08:30-18:00; We 08:30-12:00; Sa 08:30-16:00"
+street: Rue Joseph du Tremblay
+housenumber: "21"
+phone: +33 2 47 54 21 13
+opening_hours: Tu,Th,Fr 08:30-18:00; We 08:30-12:00; Sa 08:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.37749
 longitude: 0.67943
 postcode: "37000"
 city: Tours
-street: "Rue Auguste Chevallier"
-housenumber: 189
-phone: "+33 2 47 39 63 10"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-17:30"
+street: Rue Auguste Chevallier
+housenumber: "189"
+phone: +33 2 47 39 63 10
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-17:30
 website: ""

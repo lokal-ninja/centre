@@ -1,11 +1,11 @@
 id: 68770960
-type: way
+type: node
 latitude: 47.33185
 longitude: 0.70287
 postcode: "37170"
 city: Chambray-lès-Tours
 street: ""
-housenumber: 85
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00,13:30-19:30"
-website: "https://reseau.citroen.fr/chambray-les-tours"
+opening_hours: Mo-Sa 08:30-12:00,13:30-19:30
+website: https://reseau.citroen.fr/chambray-les-tours

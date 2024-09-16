@@ -1,11 +1,11 @@
 id: 62478649
-type: way
+type: node
 latitude: 47.17213
 longitude: 0.2271
 postcode: "37500"
 city: Chinon
-street: "Rue du Parc"
-housenumber: 12
+street: Rue du Parc
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

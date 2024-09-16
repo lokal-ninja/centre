@@ -1,11 +1,11 @@
 id: 69570095
-type: way
+type: node
 latitude: 47.38121
 longitude: 0.68555
 postcode: "37000"
 city: Tours
-street: "Rue James Cane"
-housenumber: 92
-phone: "+33 2 47 36 95 52"
-opening_hours: "Tu 09:30-16:30; We 09:30-17:00; Th-Fr 09:30-22:00; Sa 10:00-19:00"
-website: "https://olieuditvin.com/"
+street: Rue James Cane
+housenumber: "92"
+phone: +33 2 47 36 95 52
+opening_hours: Tu 09:30-16:30; We 09:30-17:00; Th-Fr 09:30-22:00; Sa 10:00-19:00
+website: https://olieuditvin.com/

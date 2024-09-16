@@ -1,11 +1,11 @@
 id: 256861889
-type: way
+type: node
 latitude: 46.5648
 longitude: 1.98111
 postcode: "36400"
 city: La Châtre
-street: "Rue Nationale"
-housenumber: 314
-phone: "+33 2 54 48 38 38"
+street: Rue Nationale
+housenumber: "314"
+phone: +33 2 54 48 38 38
 opening_hours: ""
-website: "https://conf.renault.fr"
+website: https://conf.renault.fr

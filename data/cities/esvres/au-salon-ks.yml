@@ -4,8 +4,9 @@ latitude: 47.29733
 longitude: 0.80579
 postcode: "37320"
 city: Esvres
-street: "Rue Amédée et Léon Bollée"
-housenumber: 17
-phone: "+33 2 19 03 72 77"
-opening_hours: "Mo off; Tu 09:00-18:00; We 09:00-16:00,Th-Fr 09:00-19:00; Sa 09:00-17:00; Su Off"
-website: "https://www.planity.com/au-salon-ks-37320-esvres-sur-indre"
+street: Rue Amédée et Léon Bollée
+housenumber: "17"
+phone: +33 2 19 03 72 77
+opening_hours: Mo off; Tu 09:00-18:00; We 09:00-16:00,Th-Fr 09:00-19:00; Sa 09:00-17:00;
+    Su Off
+website: https://www.planity.com/au-salon-ks-37320-esvres-sur-indre

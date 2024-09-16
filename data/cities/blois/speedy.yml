@@ -1,11 +1,11 @@
 id: 118704029
-type: way
+type: node
 latitude: 47.59298
 longitude: 1.33816
 postcode: "41000"
 city: Blois
-street: "Avenue du Maréchal Maunoury"
-housenumber: 21
+street: Avenue du Maréchal Maunoury
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

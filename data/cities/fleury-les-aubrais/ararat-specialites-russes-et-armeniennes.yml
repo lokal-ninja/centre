@@ -1,11 +1,11 @@
 id: 246985026
-type: way
+type: node
 latitude: 47.92425
 longitude: 1.89722
 postcode: "45400"
 city: Fleury-les-Aubrais
-street: "Rue du Faubourg Bannier"
-housenumber: 266
+street: Rue du Faubourg Bannier
+housenumber: "266"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 67674192
-type: way
+type: node
 latitude: 47.38861
 longitude: 0.76313
 postcode: "37700"
 city: La Ville-aux-Dames
-street: "Avenue Marie Curie"
-housenumber: 5
-phone: "+33 2 47 44 36 52"
+street: Avenue Marie Curie
+housenumber: "5"
+phone: +33 2 47 44 36 52
 opening_hours: ""
 website: ""

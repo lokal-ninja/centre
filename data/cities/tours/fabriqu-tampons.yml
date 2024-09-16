@@ -4,8 +4,8 @@ latitude: 47.38189
 longitude: 0.68128
 postcode: "37000"
 city: Tours
-street: "Boulevard Jean Royer"
-housenumber: 175
-phone: "+33 2 47 38 25 95"
-opening_hours: "Mo 10:30-12:00, 13:00-17:30; Tu-Fr 08:30-12:00, 13:00-18:30"
+street: Boulevard Jean Royer
+housenumber: "175"
+phone: +33 2 47 38 25 95
+opening_hours: Mo 10:30-12:00, 13:00-17:30; Tu-Fr 08:30-12:00, 13:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.9019
 longitude: 1.90264
 postcode: "45000"
 city: Orléans
-street: "Rue des Minimes"
-housenumber: 1
+street: Rue des Minimes
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.citron-vert.fr"
+website: http://www.citron-vert.fr

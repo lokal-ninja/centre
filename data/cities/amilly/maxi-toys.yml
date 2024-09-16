@@ -4,8 +4,8 @@ latitude: 47.97871
 longitude: 2.7283
 postcode: "45200"
 city: Amilly
-street: "Rue de l'Europe"
-housenumber: 777
+street: Rue de l'Europe
+housenumber: "777"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.maxitoys.fr/storepickup/amilly---montargis.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.maxitoys.fr/storepickup/amilly---montargis.html

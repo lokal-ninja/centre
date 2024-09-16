@@ -1,11 +1,11 @@
 id: 64598821
-type: way
+type: node
 latitude: 47.07953
 longitude: 2.40225
 postcode: "18000"
 city: Bourges
-street: "Rue Maurice Rollinat"
-housenumber: 6
+street: Rue Maurice Rollinat
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

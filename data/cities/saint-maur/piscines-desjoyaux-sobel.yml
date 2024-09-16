@@ -1,11 +1,11 @@
 id: 653918114
-type: way
+type: node
 latitude: 46.78923
 longitude: 1.66322
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 37
-phone: "+33 2 54 34 09 41"
+street: Avenue d'Occitanie
+housenumber: "37"
+phone: +33 2 54 34 09 41
 opening_hours: ""
-website: "http://piscinedesjoyaux.fr"
+website: http://piscinedesjoyaux.fr

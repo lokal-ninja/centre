@@ -1,11 +1,11 @@
 id: 401227294
-type: way
+type: node
 latitude: 48.75226
 longitude: 1.35579
 postcode: "28100"
 city: Dreux
-street: "Rue Facel Véga"
-housenumber: 18
-phone: "+33 2 37 38 48 83"
+street: Rue Facel Véga
+housenumber: "18"
+phone: +33 2 37 38 48 83
 opening_hours: ""
-website: "https://www.flexibles-drouais.fr/"
+website: https://www.flexibles-drouais.fr/

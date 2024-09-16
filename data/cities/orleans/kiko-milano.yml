@@ -4,8 +4,8 @@ latitude: 47.90709
 longitude: 1.90503
 postcode: "45000"
 city: Orléans
-street: "Rue Nicolas Copernic"
-housenumber: 2
-phone: "+33 2 38 62 48 55"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://kiko-stores.kikocosmetics.com/fr/france/orleans"
+street: Rue Nicolas Copernic
+housenumber: "2"
+phone: +33 2 38 62 48 55
+opening_hours: Mo-Su 10:00-20:00
+website: https://kiko-stores.kikocosmetics.com/fr/france/orleans

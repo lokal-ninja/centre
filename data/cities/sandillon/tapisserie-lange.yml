@@ -1,11 +1,11 @@
 id: 66034615
-type: way
+type: node
 latitude: 47.84542
 longitude: 2.0312
 postcode: "45640"
 city: Sandillon
 street: ""
-housenumber: 133
-phone: "+33 2 38 41 02 43"
+housenumber: "133"
+phone: +33 2 38 41 02 43
 opening_hours: ""
 website: ""

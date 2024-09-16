@@ -1,11 +1,11 @@
 id: 182565887
-type: way
+type: node
 latitude: 48.74987
 longitude: 1.34641
 postcode: "28100"
 city: Dreux
-street: "Rue des Bas Buissons"
-housenumber: 26
+street: Rue des Bas Buissons
+housenumber: "26"
 phone: ""
-opening_hours: "10:00-19:00; Su,PH off"
+opening_hours: 10:00-19:00; Su,PH off
 website: ""

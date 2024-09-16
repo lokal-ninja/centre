@@ -4,8 +4,8 @@ latitude: 47.9007
 longitude: 1.90386
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 51
-phone: "+332 38 53 93 43"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
-website: "http://www.lachocolaterieroyale.com/"
+street: Rue Royale
+housenumber: "51"
+phone: +332 38 53 93 43
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
+website: http://www.lachocolaterieroyale.com/

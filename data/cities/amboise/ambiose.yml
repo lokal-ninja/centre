@@ -1,11 +1,11 @@
 id: 62779486
-type: way
+type: node
 latitude: 47.41229
 longitude: 0.98771
 postcode: "37400"
 city: Amboise
-street: "Rue Victor Hugo"
-housenumber: 46
+street: Rue Victor Hugo
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "www.ambiose.net"
+website: www.ambiose.net

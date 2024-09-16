@@ -4,8 +4,8 @@ latitude: 48.41501
 longitude: 1.46848
 postcode: "28630"
 city: Barjouville
-street: "Rue des Pierres Missigault"
-housenumber: 29
-phone: "+33 2 37 31 80 60"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.homesalons-chartres.fr/"
+street: Rue des Pierres Missigault
+housenumber: "29"
+phone: +33 2 37 31 80 60
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.homesalons-chartres.fr/

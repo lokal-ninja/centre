@@ -1,11 +1,11 @@
 id: 68959365
-type: way
+type: node
 latitude: 47.33245
 longitude: 0.42556
 postcode: "37130"
 city: Langeais
-street: "Rue Carnot"
-housenumber: 
+street: Rue Carnot
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

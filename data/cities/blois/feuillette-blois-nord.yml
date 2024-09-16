@@ -1,11 +1,11 @@
 id: 990455440
-type: way
+type: node
 latitude: 47.5981
 longitude: 1.32455
 postcode: "41000"
 city: Blois
-street: "avenue de Vendôme"
-housenumber: 37
-phone: "+33 2 42 44 00 95"
+street: avenue de Vendôme
+housenumber: "37"
+phone: +33 2 42 44 00 95
 opening_hours: ""
-website: "https://www.feuillette.fr/"
+website: https://www.feuillette.fr/

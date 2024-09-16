@@ -1,11 +1,11 @@
 id: 322845336
-type: way
+type: node
 latitude: 46.57369
 longitude: 1.97596
 postcode: "36400"
 city: La Châtre
-street: "Rue des Ajoncs"
-housenumber: 
+street: Rue des Ajoncs
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://aldi.fr/"
+website: https://aldi.fr/

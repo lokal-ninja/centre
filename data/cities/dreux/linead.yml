@@ -1,11 +1,11 @@
 id: 1161446996
-type: way
+type: node
 latitude: 48.73159
 longitude: 1.3708
 postcode: "28100"
 city: Dreux
-street: "Place de la Gare"
-housenumber: 
+street: Place de la Gare
+housenumber: ""
 phone: "+33237421010"
-opening_hours: "Mo-Fr 09:00-12:30 13:30-18:00"
-website: "https://linead.fr"
+opening_hours: Mo-Fr 09:00-12:30 13:30-18:00
+website: https://linead.fr

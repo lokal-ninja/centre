@@ -1,11 +1,11 @@
 id: 295670300
-type: way
+type: node
 latitude: 47.82555
 longitude: 1.67965
 postcode: "45130"
 city: Meung-sur-Loire
-street: "2ème Avenue"
-housenumber: 38
+street: 2ème Avenue
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

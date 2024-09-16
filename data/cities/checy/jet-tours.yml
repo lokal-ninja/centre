@@ -5,7 +5,8 @@ longitude: 2.03849
 postcode: "45430"
 city: Chécy
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu 09:30-19:00; We 09:30-13:00,14:00-19:00; Th 09:30-19:00; Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00"
+opening_hours: Mo 14:00-19:00; Tu 09:30-19:00; We 09:30-13:00,14:00-19:00; Th 09:30-19:00;
+    Fr 09:30-13:00,14:00-19:00; Sa 09:30-19:00
 website: ""

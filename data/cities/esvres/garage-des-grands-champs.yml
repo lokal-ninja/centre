@@ -1,11 +1,11 @@
 id: 68626235
-type: way
+type: node
 latitude: 47.28428
 longitude: 0.81789
 postcode: "37320"
 city: Esvres
-street: "Les Grands Champs"
-housenumber: 5
-phone: "+33 2 47 34 80 88"
+street: Les Grands Champs
+housenumber: "5"
+phone: +33 2 47 34 80 88
 opening_hours: ""
 website: ""

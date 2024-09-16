@@ -4,8 +4,8 @@ latitude: 47.917
 longitude: 1.90119
 postcode: "45000"
 city: ORLEANS
-street: "Rue Molière"
-housenumber: 7
+street: Rue Molière
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.cdc-habitat.fr/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.cdc-habitat.fr/

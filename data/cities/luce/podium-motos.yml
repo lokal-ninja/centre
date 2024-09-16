@@ -1,11 +1,11 @@
 id: 217405278
-type: way
+type: node
 latitude: 48.43808
 longitude: 1.45449
 postcode: "28110"
 city: Lucé
-street: "Rue de la République"
-housenumber: 133
+street: Rue de la République
+housenumber: "133"
 phone: ""
 opening_hours: ""
-website: "https://podium-motos.fr/"
+website: https://podium-motos.fr/

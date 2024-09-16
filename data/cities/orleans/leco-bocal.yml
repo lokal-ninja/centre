@@ -4,8 +4,8 @@ latitude: 47.90818
 longitude: 1.90122
 postcode: "45000"
 city: Orléans
-street: "Rue du Faubourg Bannier"
-housenumber: 8
-phone: "+33 9 87 34 98 49"
-opening_hours: "Tu-Fr 09:00-14:00,15:00-19:30; Sa 09:00-19:00"
-website: "https://www.eco-bocal.fr/"
+street: Rue du Faubourg Bannier
+housenumber: "8"
+phone: +33 9 87 34 98 49
+opening_hours: Tu-Fr 09:00-14:00,15:00-19:30; Sa 09:00-19:00
+website: https://www.eco-bocal.fr/

@@ -1,11 +1,11 @@
 id: 89041768
-type: way
+type: node
 latitude: 46.77551
 longitude: 1.64475
 postcode: "36250"
 city: Saint-Maur
-street: "ZAC Cap Sud"
-housenumber: 
+street: ZAC Cap Sud
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id

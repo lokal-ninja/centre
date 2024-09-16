@@ -4,8 +4,8 @@ latitude: 47.90047
 longitude: 1.90466
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 3
-phone: "+33 246915010"
+street: Rue Charles Sanglier
+housenumber: "3"
+phone: +33 246915010
 opening_hours: ""
-website: "https://www.ideal-audition.fr/"
+website: https://www.ideal-audition.fr/

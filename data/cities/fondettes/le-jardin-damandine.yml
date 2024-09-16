@@ -1,11 +1,11 @@
 id: 64005461
-type: way
+type: node
 latitude: 47.40369
 longitude: 0.59714
 postcode: "37230"
 city: Fondettes
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30,14:30-18:00; Su 09:00-13:00"
+opening_hours: Tu-Sa 09:30-12:30,14:30-18:00; Su 09:00-13:00
 website: ""

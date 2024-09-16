@@ -4,8 +4,8 @@ latitude: 47.90188
 longitude: 1.90402
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 88
+street: Rue Royale
+housenumber: "88"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://stores.maison123.com/fr/maison-123-orleans.html"
+opening_hours: Mo 13:00-19:00; Tu-Sa 10:00-19:00
+website: https://stores.maison123.com/fr/maison-123-orleans.html

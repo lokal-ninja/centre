@@ -1,11 +1,11 @@
 id: 172353096
-type: way
+type: node
 latitude: 47.56562
 longitude: 1.37209
 postcode: "41350"
 city: Saint-Gervais-la-Forêt
-street: "Rue Georges Méliès"
-housenumber: 325
+street: Rue Georges Méliès
+housenumber: "325"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/saint-gervais-la-foret/"
+website: https://www.nozarrivages.com/magasin/saint-gervais-la-foret/

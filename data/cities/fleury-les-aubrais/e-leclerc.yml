@@ -1,11 +1,11 @@
 id: 246975666
-type: way
+type: node
 latitude: 47.94384
 longitude: 1.92256
 postcode: "45400"
 city: Fleury-les-Aubrais
 street: ""
-housenumber: 
-phone: "+33 2 38 61 43 69"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.e-leclerc.com/fleury-les-aubrais"
+housenumber: ""
+phone: +33 2 38 61 43 69
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.e-leclerc.com/fleury-les-aubrais

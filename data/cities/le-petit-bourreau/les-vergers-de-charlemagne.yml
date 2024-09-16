@@ -1,11 +1,11 @@
 id: 71113612
-type: way
+type: node
 latitude: 47.31195
 longitude: 0.61627
 postcode: ""
 city: Le petit bourreau
-street: "Route des landes de Charlemagne"
-housenumber: 
+street: Route des landes de Charlemagne
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo 09:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-18:00
 website: ""

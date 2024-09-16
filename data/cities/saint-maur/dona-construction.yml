@@ -1,11 +1,11 @@
 id: 653918113
-type: way
+type: node
 latitude: 46.78956
 longitude: 1.66269
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 35
-phone: "+33 2 54 22 85 75"
+street: Avenue d'Occitanie
+housenumber: "35"
+phone: +33 2 54 22 85 75
 opening_hours: ""
-website: "https://maisonsdona.fr"
+website: https://maisonsdona.fr

@@ -1,11 +1,11 @@
 id: 842685840
-type: way
+type: node
 latitude: 48.43486
 longitude: 1.46892
 postcode: "28110"
 city: Lucé
-street: "rue du Maréchal Leclerc"
-housenumber: 34
-phone: "+33 2 34 40 11 70"
+street: rue du Maréchal Leclerc
+housenumber: "34"
+phone: +33 2 34 40 11 70
 opening_hours: ""
 website: ""

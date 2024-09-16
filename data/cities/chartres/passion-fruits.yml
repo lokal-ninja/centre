@@ -1,11 +1,11 @@
 id: 536634162
-type: way
+type: node
 latitude: 48.43009
 longitude: 1.50904
 postcode: "28000"
 city: Chartres
-street: "Rue Henri Macé"
-housenumber: 
+street: Rue Henri Macé
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

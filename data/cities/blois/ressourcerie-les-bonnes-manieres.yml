@@ -5,7 +5,7 @@ longitude: 1.34269
 postcode: "41000"
 city: Blois
 street: ""
-housenumber: 59
+housenumber: "59"
 phone: "+33699936497"
-opening_hours: "We,Sa 10:00-13:00,15:00-19:00; Sa 15:00-19:00"
+opening_hours: We,Sa 10:00-13:00,15:00-19:00; Sa 15:00-19:00
 website: ""

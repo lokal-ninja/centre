@@ -4,8 +4,8 @@ latitude: 48.44229
 longitude: 1.4783
 postcode: "28000"
 city: Chartres
-street: "Rue du Grand Faubourg"
-housenumber: 87
-phone: "+33 2 37 24 53 27"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.bluespa-chartres.com/"
+street: Rue du Grand Faubourg
+housenumber: "87"
+phone: +33 2 37 24 53 27
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.bluespa-chartres.com/

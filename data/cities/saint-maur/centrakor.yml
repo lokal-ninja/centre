@@ -1,11 +1,11 @@
 id: 89041808
-type: way
+type: node
 latitude: 46.77922
 longitude: 1.64474
 postcode: "36250"
 city: Saint-Maur
-street: "Allée du Commerce"
-housenumber: 
-phone: "+33 2 54 47 19 28"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:00,15:00-18:00"
-website: "https://centrakor.fr/"
+street: Allée du Commerce
+housenumber: ""
+phone: +33 2 54 47 19 28
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:00,15:00-18:00
+website: https://centrakor.fr/

@@ -4,8 +4,8 @@ latitude: 47.89845
 longitude: 1.90679
 postcode: "45000"
 city: Orléans
-street: "Rue des Halles"
-housenumber: 7
+street: Rue des Halles
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-13:00"
-website: "https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-orléans-105445"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-13:00
+website: https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-orléans-105445

@@ -1,11 +1,11 @@
 id: 62472983
-type: way
+type: node
 latitude: 47.16612
 longitude: 0.23895
 postcode: "37500"
 city: Chinon
-street: "Quai Jeanne d'Arc"
-housenumber: 24
-phone: "+33 2 47 93 13 71"
-opening_hours: "Mo-Sa 07:00-12:30,14:30-19:00"
-website: "https://www.maisondelapresse.com/magasin/MaisondelaPresse-37500-chinon.html"
+street: Quai Jeanne d'Arc
+housenumber: "24"
+phone: +33 2 47 93 13 71
+opening_hours: Mo-Sa 07:00-12:30,14:30-19:00
+website: https://www.maisondelapresse.com/magasin/MaisondelaPresse-37500-chinon.html

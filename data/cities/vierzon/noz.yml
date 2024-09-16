@@ -1,11 +1,11 @@
 id: 82659628
-type: way
+type: node
 latitude: 47.23784
 longitude: 2.09127
 postcode: "18100"
 city: Vierzon
-street: "Chemin de l'Ardillat"
-housenumber: 
+street: Chemin de l'Ardillat
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/vierzon/"
+website: https://www.nozarrivages.com/magasin/vierzon/

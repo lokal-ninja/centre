@@ -4,8 +4,8 @@ latitude: 47.89839
 longitude: 1.9075
 postcode: "45000"
 city: Orléans
-street: "Rue des Halles"
-housenumber: 5
+street: Rue des Halles
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu,Th,Fr 10:00-19:00; We 11:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo 14:00-19:00; Tu,Th,Fr 10:00-19:00; We 11:00-19:00; Sa 09:00-18:00
 website: ""

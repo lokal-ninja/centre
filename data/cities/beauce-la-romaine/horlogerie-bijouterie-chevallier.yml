@@ -4,8 +4,8 @@ latitude: 47.91115
 longitude: 1.52804
 postcode: "41240"
 city: Beauce la Romaine
-street: "Place de l'Église"
-housenumber: 10
-phone: "+33 2 54 82 41 03"
-opening_hours: "Tu-Fr 09:00-12:00,14:30-19:00; Sa 09:00-12:00,14:30-18:00"
-website: "https://bijouteriechevallier.fr/"
+street: Place de l'Église
+housenumber: "10"
+phone: +33 2 54 82 41 03
+opening_hours: Tu-Fr 09:00-12:00,14:30-19:00; Sa 09:00-12:00,14:30-18:00
+website: https://bijouteriechevallier.fr/

@@ -1,11 +1,11 @@
 id: 161434574
-type: way
+type: node
 latitude: 48.58705
 longitude: 1.57751
 postcode: "28130"
 city: Maintenon
-street: "place Aristide Briand"
-housenumber: 15
+street: place Aristide Briand
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

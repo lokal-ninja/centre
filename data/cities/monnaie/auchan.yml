@@ -1,11 +1,11 @@
 id: 68974021
-type: way
+type: node
 latitude: 47.49783
 longitude: 0.78282
 postcode: "37380"
 city: Monnaie
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.auchan.fr/magasins/supermarche-monnaie/sl-4498"
+opening_hours: Tu-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.auchan.fr/magasins/supermarche-monnaie/sl-4498

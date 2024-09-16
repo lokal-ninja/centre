@@ -1,11 +1,11 @@
 id: 64602924
-type: way
+type: node
 latitude: 47.08009
 longitude: 2.40227
 postcode: "18000"
 city: Bourges
-street: "Rue de Sarrebourg"
-housenumber: 17
+street: Rue de Sarrebourg
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

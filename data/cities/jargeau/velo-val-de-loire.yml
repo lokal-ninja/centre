@@ -4,8 +4,8 @@ latitude: 47.86716
 longitude: 2.12185
 postcode: "45150"
 city: Jargeau
-street: "Grande Rue"
-housenumber: 6
-phone: "+33 2 38 56 80 62"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "http://velovaldeloire.com/"
+street: Grande Rue
+housenumber: "6"
+phone: +33 2 38 56 80 62
+opening_hours: Tu-Sa 09:00-19:00
+website: http://velovaldeloire.com/

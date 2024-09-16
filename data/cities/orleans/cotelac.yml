@@ -4,8 +4,8 @@ latitude: 47.9006
 longitude: 1.90463
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 5
+street: Rue Charles Sanglier
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.cotelac.fr/nos-boutiques/cotelac_orleans_45000/54.html"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.cotelac.fr/nos-boutiques/cotelac_orleans_45000/54.html

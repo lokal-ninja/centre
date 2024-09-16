@@ -1,11 +1,11 @@
 id: 238731759
-type: way
+type: node
 latitude: 46.95551
 longitude: 2.00486
 postcode: "36100"
 city: Issoudun
-street: "Rue de Lattre de Tassigny"
-housenumber: 
+street: Rue de Lattre de Tassigny
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/issoudun/"
+website: https://www.nozarrivages.com/magasin/issoudun/

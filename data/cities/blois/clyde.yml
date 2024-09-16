@@ -1,11 +1,11 @@
 id: 118644808
-type: way
+type: node
 latitude: 47.58688
 longitude: 1.33394
 postcode: "41000"
 city: Blois
-street: "Rue des Trois Clefs"
-housenumber: 2
+street: Rue des Trois Clefs
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

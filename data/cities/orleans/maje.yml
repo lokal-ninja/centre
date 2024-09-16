@@ -4,8 +4,8 @@ latitude: 47.90093
 longitude: 1.9045
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 11
-phone: "+33 961660295"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://fr.maje.com/"
+street: Rue Charles Sanglier
+housenumber: "11"
+phone: +33 961660295
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://fr.maje.com/

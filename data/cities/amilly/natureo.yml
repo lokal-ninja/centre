@@ -4,8 +4,8 @@ latitude: 47.97953
 longitude: 2.7296
 postcode: "45200"
 city: Amilly
-street: "Rue de l'Europe"
-housenumber: 850
+street: Rue de l'Europe
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.natureo-bio.fr/magasin-amilly"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.natureo-bio.fr/magasin-amilly

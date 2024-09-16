@@ -1,11 +1,11 @@
 id: 130810786
-type: way
+type: node
 latitude: 47.06581
 longitude: 2.36961
 postcode: "18000"
 city: Bourges
-street: "Avenue d'Issoudun"
+street: Avenue d'Issoudun
 housenumber: 154;144
-phone: "+33 2 48 64 13 74"
-opening_hours: "Mo-Su 06:30-20:00"
+phone: +33 2 48 64 13 74
+opening_hours: Mo-Su 06:30-20:00
 website: ""

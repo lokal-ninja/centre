@@ -5,7 +5,7 @@ longitude: 0.6654
 postcode: "37300"
 city: Joué-lès-Tours
 street: ""
-housenumber: 1
-phone: "+336 98 65 55 00"
+housenumber: "1"
+phone: +336 98 65 55 00
 opening_hours: ""
-website: "https://www.sono-concept-plus.fr/"
+website: https://www.sono-concept-plus.fr/

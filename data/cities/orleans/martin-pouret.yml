@@ -4,8 +4,8 @@ latitude: 47.90154
 longitude: 1.90728
 postcode: "45000"
 city: Orléans
-street: "Rue Jeanne d'Arc"
-housenumber: 11
-phone: "+33 2 38 62 19 64"
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00"
-website: "https://martin-pouret.com/"
+street: Rue Jeanne d'Arc
+housenumber: "11"
+phone: +33 2 38 62 19 64
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00
+website: https://martin-pouret.com/

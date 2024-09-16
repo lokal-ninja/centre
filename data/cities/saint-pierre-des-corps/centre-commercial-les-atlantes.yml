@@ -1,11 +1,11 @@
 id: 74959379
-type: way
+type: node
 latitude: 47.38098
 longitude: 0.71482
 postcode: "37700"
 city: Saint-Pierre-des-Corps
-street: "Avenue Jacques Duclos"
-housenumber: 
+street: Avenue Jacques Duclos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

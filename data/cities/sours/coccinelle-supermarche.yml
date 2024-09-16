@@ -1,11 +1,11 @@
 id: 295115175
-type: way
+type: node
 latitude: 48.41399
 longitude: 1.60054
 postcode: "28630"
 city: Sours
-street: "2 Rue Jacques Gautron - ZAC des Ouches"
-housenumber: 2
+street: 2 Rue Jacques Gautron - ZAC des Ouches
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

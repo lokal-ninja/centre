@@ -1,11 +1,11 @@
 id: 320316243
-type: way
+type: node
 latitude: 47.11944
 longitude: 2.37508
 postcode: "18230"
 city: Saint-Doulchard
-street: "Route nationale 76"
-housenumber: 
+street: Route nationale 76
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id

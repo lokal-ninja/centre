@@ -1,11 +1,11 @@
 id: 256861990
-type: way
+type: node
 latitude: 46.56953
 longitude: 1.98045
 postcode: "36400"
 city: La Châtre
-street: "Rue Nationale"
-housenumber: 282
-phone: "+33 2 54 31 39 10"
+street: Rue Nationale
+housenumber: "282"
+phone: +33 2 54 31 39 10
 opening_hours: ""
-website: "https://voyagesmicheline.com/"
+website: https://voyagesmicheline.com/

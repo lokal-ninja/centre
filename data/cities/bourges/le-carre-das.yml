@@ -1,11 +1,11 @@
 id: 65088271
-type: way
+type: node
 latitude: 47.09966
 longitude: 2.39493
 postcode: "18000"
 city: Bourges
-street: "Rue Félix Chédin"
-housenumber: 25
-phone: "+33 2 48 24 91 60"
+street: Rue Félix Chédin
+housenumber: "25"
+phone: +33 2 48 24 91 60
 opening_hours: ""
 website: ""

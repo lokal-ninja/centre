@@ -1,11 +1,11 @@
 id: 283056681
-type: way
+type: node
 latitude: 47.9028
 longitude: 1.85794
 postcode: "45140"
 city: Ingré
-street: "Rue Pierre et Marie Curie"
-housenumber: 25
+street: Rue Pierre et Marie Curie
+housenumber: "25"
 phone: "+33238421810"
-opening_hours: "Mo-Fr 7:30-12:00, 13:30-17:30"
+opening_hours: Mo-Fr 7:30-12:00, 13:30-17:30
 website: ""

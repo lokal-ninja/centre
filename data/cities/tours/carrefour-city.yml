@@ -4,8 +4,8 @@ latitude: 47.41905
 longitude: 0.6982
 postcode: "37100"
 city: TOURS
-street: "Rue Daniel Mayer"
-housenumber: 38
+street: Rue Daniel Mayer
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00,15:00-20:00"
-website: "https://www.carrefour.fr/magasin/tours-pas-notre-dame"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00,15:00-20:00
+website: https://www.carrefour.fr/magasin/tours-pas-notre-dame

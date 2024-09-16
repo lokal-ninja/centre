@@ -1,11 +1,11 @@
 id: 75474877
-type: way
+type: node
 latitude: 47.35247
 longitude: 0.57055
 postcode: "37510"
 city: Savonnières
-street: "Route de Tours"
-housenumber: 15
+street: Route de Tours
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

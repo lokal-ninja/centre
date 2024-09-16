@@ -1,11 +1,11 @@
 id: 64596311
-type: way
+type: node
 latitude: 47.08236
 longitude: 2.40074
 postcode: "18000"
 city: Bourges
-street: "Rue Bourbonnoux"
-housenumber: 91
+street: Rue Bourbonnoux
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

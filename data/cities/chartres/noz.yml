@@ -1,11 +1,11 @@
 id: 102947451
-type: way
+type: node
 latitude: 48.43363
 longitude: 1.50766
 postcode: "28000"
 city: Chartres
-street: "Avenue d'Orléans"
-housenumber: 36
+street: Avenue d'Orléans
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/chartres/"
+website: https://nozarrivages.com/magasin/chartres/

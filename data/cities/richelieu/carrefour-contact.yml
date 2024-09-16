@@ -1,11 +1,11 @@
 id: 525377941
-type: way
+type: node
 latitude: 47.01212
 longitude: 0.32241
 postcode: "37120"
 city: Richelieu
-street: "Rue de Loudun"
-housenumber: 26
-phone: "+33 2 47 58 12 59"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-richelieu-loudun"
+street: Rue de Loudun
+housenumber: "26"
+phone: +33 2 47 58 12 59
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-richelieu-loudun

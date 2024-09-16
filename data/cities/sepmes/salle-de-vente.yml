@@ -1,11 +1,11 @@
 id: 788846493
-type: way
+type: node
 latitude: 47.09816
 longitude: 0.67621
 postcode: "37800"
 city: Sepmes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:00"
-website: "http://cabriaulait.free.fr/ferme/index.php?option=com_content&task=view&id=169&Itemid=130"
+opening_hours: Mo-Sa 09:30-12:00
+website: http://cabriaulait.free.fr/ferme/index.php?option=com_content&task=view&id=169&Itemid=130

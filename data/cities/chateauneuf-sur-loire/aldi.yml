@@ -1,11 +1,11 @@
 id: 91171106
-type: way
+type: node
 latitude: 47.86048
 longitude: 2.19618
 postcode: "45110"
 city: Chateauneuf-sur-Loire
-street: "Route d'Orléans"
-housenumber: 117
+street: Route d'Orléans
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

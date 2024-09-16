@@ -1,11 +1,11 @@
 id: 345690623
-type: way
+type: node
 latitude: 46.79159
 longitude: 1.66059
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 30
-phone: "+33 2 54 60 22 20"
+street: Avenue d'Occitanie
+housenumber: "30"
+phone: +33 2 54 60 22 20
 opening_hours: ""
-website: "http://distributeur.groupauto.fr/603900-theret-st-maur"
+website: http://distributeur.groupauto.fr/603900-theret-st-maur

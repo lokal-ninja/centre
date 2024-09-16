@@ -4,8 +4,8 @@ latitude: 47.99922
 longitude: 2.73109
 postcode: "45200"
 city: Montargis
-street: "Rue Cour Jean Dupont"
-housenumber: 12
-phone: "+33 6 46 58 35 46"
+street: Rue Cour Jean Dupont
+housenumber: "12"
+phone: +33 6 46 58 35 46
 opening_hours: ""
-website: "https://velo-mielo.com/"
+website: https://velo-mielo.com/

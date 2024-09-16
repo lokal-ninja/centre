@@ -1,11 +1,11 @@
 id: 63360808
-type: way
+type: node
 latitude: 47.42523
 longitude: 0.65805
 postcode: "37540"
 city: Saint-Cyr-sur-Loire
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

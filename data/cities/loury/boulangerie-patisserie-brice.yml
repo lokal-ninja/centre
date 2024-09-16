@@ -4,8 +4,8 @@ latitude: 48.00257
 longitude: 2.08467
 postcode: "45470"
 city: Loury
-street: "Rue du Bourg Neuf"
-housenumber: 1
-phone: "+33 2 38 65 60 33"
-opening_hours: "Tu-Sa 06:45-12:45,15:30-19:30; Su 07:00-13:00"
+street: Rue du Bourg Neuf
+housenumber: "1"
+phone: +33 2 38 65 60 33
+opening_hours: Tu-Sa 06:45-12:45,15:30-19:30; Su 07:00-13:00
 website: ""

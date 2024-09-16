@@ -4,8 +4,8 @@ latitude: 47.89983
 longitude: 1.90313
 postcode: "45000"
 city: Orléans
-street: "Rue d'Avignon"
-housenumber: 
-phone: "+33 9 83 44 89 45"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://babyshow.fr/"
+street: Rue d'Avignon
+housenumber: ""
+phone: +33 9 83 44 89 45
+opening_hours: Tu-Sa 10:00-19:00
+website: https://babyshow.fr/

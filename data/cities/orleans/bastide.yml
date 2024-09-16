@@ -4,8 +4,8 @@ latitude: 47.87878
 longitude: 1.90909
 postcode: "45100"
 city: Orléans
-street: "Rue Basse Mouillère"
-housenumber: 21
+street: Rue Basse Mouillère
+housenumber: "21"
 phone: "+33238555777"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.bastideleconfortmedical.com/magasins/45-bastide-le-confort-medical-orleans"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://www.bastideleconfortmedical.com/magasins/45-bastide-le-confort-medical-orleans

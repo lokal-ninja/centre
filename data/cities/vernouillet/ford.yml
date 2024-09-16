@@ -4,8 +4,8 @@ latitude: 48.72091
 longitude: 1.37308
 postcode: "28500"
 city: Vernouillet
-street: "Boulevard de l'Europe"
-housenumber: 9
-phone: "+33 2 37 38 09 80"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.ford-progedaautomobiles.fr/"
+street: Boulevard de l'Europe
+housenumber: "9"
+phone: +33 2 37 38 09 80
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.ford-progedaautomobiles.fr/

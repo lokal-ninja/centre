@@ -4,8 +4,8 @@ latitude: 47.85102
 longitude: 0.99734
 postcode: "41100"
 city: Azé
-street: "Route de Galette"
-housenumber: 1
-phone: "+33 254721616"
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00,Sa 08:00-12:00"
+street: Route de Galette
+housenumber: "1"
+phone: +33 254721616
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00,Sa 08:00-12:00
 website: ""

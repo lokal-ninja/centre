@@ -4,8 +4,8 @@ latitude: 47.38996
 longitude: 0.72433
 postcode: "37700"
 city: Saint-Pierre-des-Corps
-street: "Avenue de la République"
-housenumber: 88
-phone: "+33 2 47 44 20 85"
-opening_hours: "Mo 06:15-20:00; We-Su 06:15-20:00"
+street: Avenue de la République
+housenumber: "88"
+phone: +33 2 47 44 20 85
+opening_hours: Mo 06:15-20:00; We-Su 06:15-20:00
 website: ""

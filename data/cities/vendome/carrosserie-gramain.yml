@@ -1,11 +1,11 @@
 id: 136504539
-type: way
+type: node
 latitude: 47.78047
 longitude: 1.08148
 postcode: "41100"
 city: Vendôme
-street: "Rue Nicéphore Niepce"
-housenumber: 
-phone: "+33 2 54 89 65 56"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+street: Rue Nicéphore Niepce
+housenumber: ""
+phone: +33 2 54 89 65 56
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1150530638
-type: way
+type: node
 latitude: 47.42608
 longitude: 0.65711
 postcode: "37540"
 city: Saint-Cyr-sur-Loire
-street: "Centre Commercial AUCHAN"
-housenumber: 
+street: Centre Commercial AUCHAN
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.juliendorcel.com/bijouterie/saint-cyr-sur-loire-1219M"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.juliendorcel.com/bijouterie/saint-cyr-sur-loire-1219M

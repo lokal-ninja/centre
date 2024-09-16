@@ -1,11 +1,11 @@
 id: 999283896
-type: way
+type: node
 latitude: 48.18957
 longitude: 1.57947
 postcode: "28800"
 city: Sancheville
-street: "Rue d'Orléans"
-housenumber: 23
+street: Rue d'Orléans
+housenumber: "23"
 phone: "+33237440009"
 opening_hours: ""
 website: ""

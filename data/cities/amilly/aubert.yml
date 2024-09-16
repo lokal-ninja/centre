@@ -4,8 +4,8 @@ latitude: 47.97847
 longitude: 2.7283
 postcode: "45200"
 city: Amilly
-street: "Rue de l'Europe"
-housenumber: 771
-phone: "+33 2 38 85 57 20"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.aubert.com/AUBERT-MONTARGIS.html"
+street: Rue de l'Europe
+housenumber: "771"
+phone: +33 2 38 85 57 20
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.aubert.com/AUBERT-MONTARGIS.html

@@ -4,8 +4,8 @@ latitude: 47.90365
 longitude: 2.03207
 postcode: "45430"
 city: Chécy
-street: "Rue Jean Bertin"
-housenumber: 10
-phone: "+33 238750784"
-opening_hours: "Tu-Th 09:00-12:30,14:30-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.leader-boeuf.com/"
+street: Rue Jean Bertin
+housenumber: "10"
+phone: +33 238750784
+opening_hours: Tu-Th 09:00-12:30,14:30-19:00; Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.leader-boeuf.com/

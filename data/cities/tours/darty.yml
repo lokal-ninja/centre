@@ -1,11 +1,11 @@
 id: 69381129
-type: way
+type: node
 latitude: 47.4282
 longitude: 0.70185
 postcode: ""
 city: Tours
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:30"
-website: "https://magasin.darty.com/179-darty-tours-nord"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:30
+website: https://magasin.darty.com/179-darty-tours-nord

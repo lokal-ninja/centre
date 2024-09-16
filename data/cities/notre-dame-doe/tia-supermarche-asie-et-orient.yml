@@ -1,11 +1,11 @@
 id: 254263255
-type: way
+type: node
 latitude: 47.44056
 longitude: 0.69926
 postcode: "37390"
 city: Notre-Dame-d'Oé
-street: "Rue Jean Monnet"
-housenumber: 9
+street: Rue Jean Monnet
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://tiasupermarche.fr/"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-13:00
+website: https://tiasupermarche.fr/

@@ -4,8 +4,8 @@ latitude: 47.90318
 longitude: 1.90392
 postcode: "45000"
 city: Orléans
-street: "Rue de la République"
-housenumber: 3
+street: Rue de la République
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
 website: ""

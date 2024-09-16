@@ -1,11 +1,11 @@
 id: 174119021
-type: way
+type: node
 latitude: 46.54457
 longitude: 1.7489
 postcode: "36340"
 city: Cluis
-street: "Rue Grande"
-housenumber: 11
+street: Rue Grande
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

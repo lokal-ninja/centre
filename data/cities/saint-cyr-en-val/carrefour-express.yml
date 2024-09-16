@@ -4,8 +4,8 @@ latitude: 47.83206
 longitude: 1.96793
 postcode: "45590"
 city: Saint-Cyr-en-Val
-street: ""
-housenumber: 
-phone: "+33 2 34 50 54 74"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/express-st-cyr-en-val-bliesen"
+street: Place de Bliesen
+housenumber: "1"
+phone: +33 2 34 50 54 74
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/express-st-cyr-en-val-bliesen

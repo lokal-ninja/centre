@@ -1,11 +1,11 @@
 id: 62478642
-type: way
+type: node
 latitude: 47.16516
 longitude: 0.25448
 postcode: "37500"
 city: Chinon
-street: "Avenue Gambetta"
-housenumber: 
-phone: "+332 47 93 91 83"
-opening_hours: "Mo-Sa 9:00-12:00, 14:00-19:00"
-website: "https://magasin.gammvert.fr"
+street: Avenue Gambetta
+housenumber: ""
+phone: +332 47 93 91 83
+opening_hours: Mo-Sa 9:00-12:00, 14:00-19:00
+website: https://magasin.gammvert.fr

@@ -1,11 +1,11 @@
 id: 172355740
-type: way
+type: node
 latitude: 47.56466
 longitude: 1.37307
 postcode: "41350"
 city: Saint-Gervais-la-Forêt
 street: ""
-housenumber: 395
+housenumber: "395"
 phone: ""
 opening_hours: ""
-website: "https://www.bouviergoury.com/"
+website: https://www.bouviergoury.com/

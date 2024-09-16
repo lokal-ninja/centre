@@ -4,8 +4,8 @@ latitude: 47.3808
 longitude: 0.66828
 postcode: "37000"
 city: Tours
-street: "Boulevard Tonnellé"
-housenumber: 130
-phone: "+33 2 47 43 20 75"
-opening_hours: "Mo-Fr 06:30-19:30; Su 06:30-13:00"
+street: Boulevard Tonnellé
+housenumber: "130"
+phone: +33 2 47 43 20 75
+opening_hours: Mo-Fr 06:30-19:30; Su 06:30-13:00
 website: ""

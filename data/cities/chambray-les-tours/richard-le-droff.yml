@@ -1,11 +1,11 @@
 id: 860839892
-type: way
+type: node
 latitude: 47.34235
 longitude: 0.72557
 postcode: "37170"
 city: Chambray-lès-Tours
-street: "Rue Augustin Fresnel"
-housenumber: 31
+street: Rue Augustin Fresnel
+housenumber: "31"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:00,14:00-19:00
 website: ""

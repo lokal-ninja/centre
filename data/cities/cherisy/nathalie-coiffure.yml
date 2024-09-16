@@ -1,11 +1,11 @@
 id: 808097201
-type: way
+type: node
 latitude: 48.74711
 longitude: 1.42114
 postcode: "28500"
 city: Cherisy
-street: "Rue Charles de Gaulle"
-housenumber: 20
-phone: "+33 2 37437306"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00"
+street: Rue Charles de Gaulle
+housenumber: "20"
+phone: +33 2 37437306
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00
 website: ""

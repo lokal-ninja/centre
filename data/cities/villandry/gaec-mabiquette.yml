@@ -1,11 +1,11 @@
 id: 184639833
-type: way
+type: node
 latitude: 47.32841
 longitude: 0.50099
 postcode: "37510"
 city: Villandry
-street: "La Maison Lureau"
-housenumber: 37
+street: La Maison Lureau
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

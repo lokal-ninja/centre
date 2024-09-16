@@ -1,11 +1,11 @@
 id: 345707199
-type: way
+type: node
 latitude: 48.17901
 longitude: 2.25186
 postcode: "45300"
 city: Pithiviers
-street: "Avenue du 11 Novembre 1918"
+street: Avenue du 11 Novembre 1918
 housenumber: 4;6
-phone: "+33 2 42 07 05 65"
-opening_hours: "Mo-Su 07:00-20:00"
+phone: +33 2 42 07 05 65
+opening_hours: Mo-Su 07:00-20:00
 website: ""

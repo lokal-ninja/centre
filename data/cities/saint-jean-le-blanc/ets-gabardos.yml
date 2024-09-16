@@ -1,11 +1,11 @@
 id: 893389064
-type: way
+type: node
 latitude: 47.88463
 longitude: 1.92331
 postcode: "45650"
 city: Saint-Jean-le-Blanc
-street: "Rue de la Cossonière"
-housenumber: 87
+street: Rue de la Cossonière
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

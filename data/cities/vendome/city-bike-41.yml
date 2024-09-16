@@ -1,11 +1,11 @@
 id: 76229026
-type: way
+type: node
 latitude: 47.77611
 longitude: 1.06888
 postcode: "41100"
 city: Vendôme
-street: "Allée Camille Vallaux"
-housenumber: 
-phone: "+33 9 67261698"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://citybike41.wixsite.com/citybike41"
+street: Allée Camille Vallaux
+housenumber: ""
+phone: +33 9 67261698
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://citybike41.wixsite.com/citybike41

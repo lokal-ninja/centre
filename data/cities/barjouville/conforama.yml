@@ -1,11 +1,11 @@
 id: 245529073
-type: way
+type: node
 latitude: 48.41339
 longitude: 1.46512
 postcode: "28630"
 city: Barjouville
-street: "Rue des Pierres Missigault"
-housenumber: 34
+street: Rue des Pierres Missigault
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.conforama.fr/magasins-conforama/chartres?lat=48.41393&long=1.465599&name=CHARTRES"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.conforama.fr/magasins-conforama/chartres?lat=48.41393&long=1.465599&name=CHARTRES

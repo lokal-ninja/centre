@@ -1,11 +1,11 @@
 id: 287913771
-type: way
+type: node
 latitude: 48.07242
 longitude: 1.3435
 postcode: "28200"
 city: Châteaudun
-street: "Boulevard Kellermann"
-housenumber: 52
+street: Boulevard Kellermann
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/chateaudun/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.nozarrivages.com/magasin/chateaudun/

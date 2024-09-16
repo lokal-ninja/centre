@@ -4,8 +4,8 @@ latitude: 47.90122
 longitude: 1.90322
 postcode: "45000"
 city: Orléans
-street: "Rue du Cheval Rouge"
-housenumber: 7
+street: Rue du Cheval Rouge
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-18:00"
+opening_hours: Mo-Sa 10:00-12:30, 14:00-18:00
 website: ""

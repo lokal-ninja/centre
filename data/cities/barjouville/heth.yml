@@ -4,8 +4,8 @@ latitude: 48.41526
 longitude: 1.469
 postcode: "28630"
 city: Barjouville
-street: "Rue de la Torche"
-housenumber: 3
-phone: "+33 2 37 35 39 36"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.heth.fr/"
+street: Rue de la Torche
+housenumber: "3"
+phone: +33 2 37 35 39 36
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.heth.fr/

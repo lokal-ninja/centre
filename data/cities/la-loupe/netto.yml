@@ -1,11 +1,11 @@
 id: 323527189
-type: way
+type: node
 latitude: 48.46835
 longitude: 1.00962
 postcode: "28240"
 city: La Loupe
-street: "Rue de l'Église"
-housenumber: 64
-phone: "+332 37 81 16 25"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.carrefour.fr/magasin/market-la-loupe"
+street: Rue de l'Église
+housenumber: "64"
+phone: +332 37 81 16 25
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.carrefour.fr/magasin/market-la-loupe

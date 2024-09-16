@@ -1,11 +1,11 @@
 id: 217439092
-type: way
+type: node
 latitude: 48.48671
 longitude: 1.47196
 postcode: "28300"
 city: Lèves
-street: "Rue de L'Ormeteau"
-housenumber: 4
-phone: "+332 37 36 43 31"
-opening_hours: "Mo-Fr 09:30-12:15,14:15-19:00; Sa 09:30-19:00; Su 09:30-12:30,14:00-18:30"
+street: Rue de L'Ormeteau
+housenumber: "4"
+phone: +332 37 36 43 31
+opening_hours: Mo-Fr 09:30-12:15,14:15-19:00; Sa 09:30-19:00; Su 09:30-12:30,14:00-18:30
 website: ""

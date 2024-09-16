@@ -4,8 +4,8 @@ latitude: 47.8631
 longitude: 2.22317
 postcode: "45110"
 city: Châteauneuf-sur-Loire
-street: "Grande Rue"
-housenumber: 100
+street: Grande Rue
+housenumber: "100"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:00"
+opening_hours: Tu-Fr 09:30-12:00,14:30-19:00; Sa 09:30-12:00,14:30-18:00
 website: ""

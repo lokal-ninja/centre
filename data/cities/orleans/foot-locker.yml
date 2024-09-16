@@ -4,8 +4,8 @@ latitude: 47.90311
 longitude: 1.90389
 postcode: "45000"
 city: Orléans
-street: "Rue de la République"
-housenumber: 3
-phone: "+33 2 45 30 01 41"
-opening_hours: "Mo-Sa 10:00-19:00; Su closed"
-website: "https://stores.footlocker.fr/en/fr-f/orleans/1-3-rue-de-la-republique-245_31_05154.html"
+street: Rue de la République
+housenumber: "3"
+phone: +33 2 45 30 01 41
+opening_hours: Mo-Sa 10:00-19:00; Su closed
+website: https://stores.footlocker.fr/en/fr-f/orleans/1-3-rue-de-la-republique-245_31_05154.html

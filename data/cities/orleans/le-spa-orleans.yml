@@ -4,8 +4,8 @@ latitude: 47.89896
 longitude: 1.90372
 postcode: "45000"
 city: Orléans
-street: "Rue du Vieux Marché"
-housenumber: 3
-phone: "+33 2 38 24 55 22"
+street: Rue du Vieux Marché
+housenumber: "3"
+phone: +33 2 38 24 55 22
 opening_hours: ""
-website: "https://lespaorleans.com/"
+website: https://lespaorleans.com/

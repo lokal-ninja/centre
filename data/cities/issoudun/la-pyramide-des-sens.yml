@@ -1,11 +1,11 @@
 id: 238715152
-type: way
+type: node
 latitude: 46.95017
 longitude: 1.99094
 postcode: "36100"
 city: Issoudun
-street: "Place de la Poterie"
-housenumber: 5
+street: Place de la Poterie
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

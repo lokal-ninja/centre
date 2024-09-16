@@ -4,8 +4,8 @@ latitude: 48.44462
 longitude: 1.48852
 postcode: "28000"
 city: Chartres
-street: "Rue de la Volaille"
-housenumber: 6
+street: Rue de la Volaille
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 829463978
-type: way
+type: node
 latitude: 48.74816
 longitude: 1.42372
 postcode: "28500"
 city: Cherisy
-street: "Rue des Camélias"
-housenumber: 2
-phone: "+33 7 69270628"
-opening_hours: "Tu-Sa 10:00-12:00,15:30-19:00"
+street: Rue des Camélias
+housenumber: "2"
+phone: +33 7 69270628
+opening_hours: Tu-Sa 10:00-12:00,15:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 617972568
-type: way
+type: node
 latitude: 47.14396
 longitude: 1.84804
 postcode: "18310"
 city: Graçay
-street: "Rue Jean Jaurès"
-housenumber: 238
-phone: "+33 2 48 75 92 16"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
+street: Rue Jean Jaurès
+housenumber: "238"
+phone: +33 2 48 75 92 16
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
 website: ""

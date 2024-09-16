@@ -1,11 +1,11 @@
 id: 238715463
-type: way
+type: node
 latitude: 46.95154
 longitude: 1.99369
 postcode: "36100"
 city: Issoudun
-street: "Place du Sacré-Cœur"
-housenumber: 19
+street: Place du Sacré-Cœur
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

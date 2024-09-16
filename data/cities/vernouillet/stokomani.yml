@@ -4,8 +4,8 @@ latitude: 48.71906
 longitude: 1.37395
 postcode: "28500"
 city: Vernouillet
-street: "Rue de Rome"
-housenumber: 15
+street: Rue de Rome
+housenumber: "15"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://www.stokomani.fr/magasins/vernouillet"
+opening_hours: 10:00-19:00
+website: https://www.stokomani.fr/magasins/vernouillet

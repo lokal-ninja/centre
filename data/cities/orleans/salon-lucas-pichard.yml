@@ -4,8 +4,8 @@ latitude: 47.90029
 longitude: 1.90628
 postcode: "45000"
 city: Orléans
-street: "Rue Louis Roguet"
-housenumber: 7
-phone: "+332 38 42 72 03"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://lucaspichard.com/"
+street: Rue Louis Roguet
+housenumber: "7"
+phone: +332 38 42 72 03
+opening_hours: Tu-Sa 09:00-19:00
+website: https://lucaspichard.com/

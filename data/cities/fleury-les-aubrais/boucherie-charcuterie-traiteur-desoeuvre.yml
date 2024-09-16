@@ -4,8 +4,9 @@ latitude: 47.92757
 longitude: 1.91861
 postcode: "45400"
 city: Fleury-les-Aubrais
-street: "Centre Commercial Lamballe"
-housenumber: 
-phone: "+33 2 38 86 14 92"
-opening_hours: "Tu-We 08:00-12:30,15:00-19:00; Fr 08:00-12:30,15:00-19:00; Sa 08:00-18:00; Su 09:00-12:30"
-website: "https://www.boucheriedesoeuvre.com/"
+street: Centre Commercial Lamballe
+housenumber: ""
+phone: +33 2 38 86 14 92
+opening_hours: Tu-We 08:00-12:30,15:00-19:00; Fr 08:00-12:30,15:00-19:00; Sa 08:00-18:00;
+    Su 09:00-12:30
+website: https://www.boucheriedesoeuvre.com/

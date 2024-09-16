@@ -1,11 +1,11 @@
 id: 658212938
-type: way
+type: node
 latitude: 46.78269
 longitude: 0.88258
 postcode: "37290"
 city: Yzeures-sur-Creuse
-street: "Rue Marc Dallay"
-housenumber: 8
+street: Rue Marc Dallay
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

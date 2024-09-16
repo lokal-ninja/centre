@@ -1,11 +1,11 @@
 id: 118721892
-type: way
+type: node
 latitude: 47.58748
 longitude: 1.33619
 postcode: "41000"
 city: Blois
-street: "Rue Fontaine des Élus"
-housenumber: 11
+street: Rue Fontaine des Élus
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

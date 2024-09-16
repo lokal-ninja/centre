@@ -1,11 +1,11 @@
 id: 256862601
-type: way
+type: node
 latitude: 46.56667
 longitude: 1.98125
 postcode: "36400"
 city: La Châtre
-street: "Rue Nationale"
-housenumber: 306
-phone: "+33 2 54 30 16 89"
+street: Rue Nationale
+housenumber: "306"
+phone: +33 2 54 30 16 89
 opening_hours: ""
 website: ""

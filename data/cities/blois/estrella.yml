@@ -1,11 +1,11 @@
 id: 118644543
-type: way
+type: node
 latitude: 47.58606
 longitude: 1.33449
 postcode: "41000"
 city: Blois
-street: "Rue des Orfèvres"
-housenumber: 8
+street: Rue des Orfèvres
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

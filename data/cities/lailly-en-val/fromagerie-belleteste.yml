@@ -1,11 +1,12 @@
 id: 1183726747
-type: way
+type: node
 latitude: 47.77964
 longitude: 1.67875
 postcode: "45740"
 city: Lailly-en-Val
-street: "Clossy"
-housenumber: 
-phone: "+33 6 10 81 73 33"
-opening_hours: "Mo,Th-Fr 09:00-12:30,16:00-19:30; Tu-We 09:00-12:00,16:00-19:30; Sa 09:00-12:30,16:00-19:00; Su 16:00-19:30; PH off"
-website: "https://www.facebook.com/lafermedeclossy/"
+street: Clossy
+housenumber: ""
+phone: +33 6 10 81 73 33
+opening_hours: Mo,Th-Fr 09:00-12:30,16:00-19:30; Tu-We 09:00-12:00,16:00-19:30; Sa
+    09:00-12:30,16:00-19:00; Su 16:00-19:30; PH off
+website: https://www.facebook.com/lafermedeclossy/

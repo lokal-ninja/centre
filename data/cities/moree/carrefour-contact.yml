@@ -1,11 +1,11 @@
 id: 338184687
-type: way
+type: node
 latitude: 47.90985
 longitude: 1.23061
 postcode: "41160"
 city: Morée
-street: "Route de Saint-Hilaire"
-housenumber: 
+street: Route de Saint-Hilaire
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

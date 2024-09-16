@@ -4,8 +4,8 @@ latitude: 47.90089
 longitude: 1.90317
 postcode: "45000"
 city: Orléans
-street: "Place du Général de Gaulle"
-housenumber: 4
-phone: "+33 238851515"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-18:00; Sa 09:30-13:00; Mo 14:30-18:00"
-website: "https://www.altitude-selectour.fr"
+street: Place du Général de Gaulle
+housenumber: "4"
+phone: +33 238851515
+opening_hours: Tu-Fr 09:30-12:00,14:00-18:00; Sa 09:30-13:00; Mo 14:30-18:00
+website: https://www.altitude-selectour.fr

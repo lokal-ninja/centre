@@ -1,11 +1,11 @@
 id: 765210682
-type: way
+type: node
 latitude: 48.7429
 longitude: 1.42435
 postcode: "28500"
 city: Cherisy
-street: "Rue de Marsauceux"
-housenumber: 
+street: Rue de Marsauceux
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 180888825
-type: way
+type: node
 latitude: 47.38482
 longitude: 0.84205
 postcode: "37270"
 city: Montlouis-sur-Loire
-street: "Avenue Victor Laloux"
-housenumber: 9003
+street: Avenue Victor Laloux
+housenumber: "9003"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30, 15:00-19:00; Sa 10:00-19:00"
-website: "http://montlouis.intercaves.fr/"
+opening_hours: Tu-Fr 10:00-12:30, 15:00-19:00; Sa 10:00-19:00
+website: http://montlouis.intercaves.fr/

@@ -4,8 +4,8 @@ latitude: 47.08513
 longitude: 2.04509
 postcode: "36260"
 city: Reuilly
-street: "Rue de la République"
-housenumber: 22
-phone: "+33 2 54 49 22 11"
-opening_hours: "Tu-Th 09:00-12:00, 14:00-19:00; Fr 09:00-19:00; Sa 07:30-13:00"
+street: Rue de la République
+housenumber: "22"
+phone: +33 2 54 49 22 11
+opening_hours: Tu-Th 09:00-12:00, 14:00-19:00; Fr 09:00-19:00; Sa 07:30-13:00
 website: ""

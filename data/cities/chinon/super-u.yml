@@ -1,11 +1,11 @@
 id: 62471388
-type: way
+type: node
 latitude: 47.15532
 longitude: 0.23619
 postcode: "37500"
 city: Chinon
-street: "Avenue Saint-Lazare"
-housenumber: 11
+street: Avenue Saint-Lazare
+housenumber: "11"
 phone: ""
-opening_hours: "09:00-19:30; Su 09:00-12:30"
+opening_hours: 09:00-19:30; Su 09:00-12:30
 website: ""

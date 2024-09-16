@@ -1,11 +1,11 @@
 id: 617844782
-type: way
+type: node
 latitude: 47.24372
 longitude: 0.69538
 postcode: "37250"
 city: Sorigny
-street: "Rue Nationale"
-housenumber: 6
+street: Rue Nationale
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256863447
-type: way
+type: node
 latitude: 46.57998
 longitude: 1.98072
 postcode: "36400"
 city: La Châtre
-street: "Avenue Gambetta"
-housenumber: 
+street: Avenue Gambetta
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-18:00
 website: ""

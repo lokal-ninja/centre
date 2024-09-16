@@ -1,11 +1,11 @@
 id: 182675805
-type: way
+type: node
 latitude: 48.73273
 longitude: 1.3669
 postcode: "28100"
 city: Dreux
-street: "Rue Saint-Martin"
-housenumber: 70
+street: Rue Saint-Martin
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

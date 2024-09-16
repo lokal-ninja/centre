@@ -1,11 +1,12 @@
 id: 153707684
-type: way
+type: node
 latitude: 47.83082
 longitude: 1.92272
 postcode: "45100"
 city: Orléans
-street: "Rue Henri IV"
-housenumber: 1
-phone: "+33 2 38 23 29 14"
-opening_hours: "Mo 09:00-16:00, Tu 09:00-19:00, We 09:00-12:00,13:30-18:30, Th 09:00-20:00, Fr 09:00-18:30, Sa 08:30-13:00"
+street: Rue Henri IV
+housenumber: "1"
+phone: +33 2 38 23 29 14
+opening_hours: Mo 09:00-16:00, Tu 09:00-19:00, We 09:00-12:00,13:30-18:30, Th 09:00-20:00,
+    Fr 09:00-18:30, Sa 08:30-13:00
 website: ""

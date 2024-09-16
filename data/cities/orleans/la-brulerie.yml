@@ -4,8 +4,8 @@ latitude: 47.89895
 longitude: 1.90564
 postcode: "45000"
 city: Orléans
-street: "Place du Châtelet"
-housenumber: 41
-phone: "+33 238625980"
+street: Place du Châtelet
+housenumber: "41"
+phone: +33 238625980
 opening_hours: ""
-website: "https://www.brulerie-chatelet.fr/"
+website: https://www.brulerie-chatelet.fr/

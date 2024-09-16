@@ -1,11 +1,11 @@
 id: 68957584
-type: way
+type: node
 latitude: 47.33178
 longitude: 0.42512
 postcode: "37130"
 city: Langeais
-street: "Rue Carnot"
-housenumber: 
-phone: "+33 2 47 96 74 63"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-langeais"
+street: Rue Carnot
+housenumber: ""
+phone: +33 2 47 96 74 63
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-langeais

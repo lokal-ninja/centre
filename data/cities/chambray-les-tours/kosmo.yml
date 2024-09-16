@@ -1,11 +1,11 @@
 id: 68770959
-type: way
+type: node
 latitude: 47.34044
 longitude: 0.70054
 postcode: "37170"
 city: Chambray-lès-Tours
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Su 09:00-20:00"
+opening_hours: Tu-Su 09:00-20:00
 website: ""

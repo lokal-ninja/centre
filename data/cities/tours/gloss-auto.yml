@@ -4,8 +4,8 @@ latitude: 47.38273
 longitude: 0.67895
 postcode: "37000"
 city: Tours
-street: "Rue Marguéron"
-housenumber: 43
-phone: "+33 6 70 43 57 50"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00"
+street: Rue Marguéron
+housenumber: "43"
+phone: +33 6 70 43 57 50
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00
 website: ""

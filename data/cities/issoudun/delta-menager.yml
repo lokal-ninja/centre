@@ -1,11 +1,11 @@
 id: 238704093
-type: way
+type: node
 latitude: 46.9602
 longitude: 1.98868
 postcode: "36100"
 city: Issoudun
-street: "Route de Reuilly"
-housenumber: 3
+street: Route de Reuilly
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

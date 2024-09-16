@@ -4,8 +4,8 @@ latitude: 47.87546
 longitude: 1.9107
 postcode: "45100"
 city: Orléans
-street: "Rue Anthelme Brillat-Savarin"
-housenumber: 12
+street: Rue Anthelme Brillat-Savarin
+housenumber: "12"
 phone: "+33238668677"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.gemo.fr/magasin/GEMO_927"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.gemo.fr/magasin/GEMO_927

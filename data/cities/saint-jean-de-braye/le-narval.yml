@@ -4,8 +4,8 @@ latitude: 47.9088
 longitude: 1.97667
 postcode: "45800"
 city: Saint-Jean-de-Braye
-street: "Rue de la Gare"
-housenumber: 2
-phone: "+33 2 38 14 50 29"
-opening_hours: "Mo-Fr 06:30-20:30; Su 08:30-19:30"
+street: Rue de la Gare
+housenumber: "2"
+phone: +33 2 38 14 50 29
+opening_hours: Mo-Fr 06:30-20:30; Su 08:30-19:30
 website: ""

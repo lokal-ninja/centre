@@ -1,11 +1,12 @@
 id: 697162966
-type: way
+type: node
 latitude: 48.74256
 longitude: 1.38598
 postcode: "28100"
 city: Dreux
-street: "Avenue du Général Leclerc"
-housenumber: 103
+street: Avenue du Général Leclerc
+housenumber: "103"
 phone: "+33237467898"
-opening_hours: "Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25 off"
-website: "https://www.leclercdrive.fr/region-centre-val-de-loire/dreux/drive-dreux---le-pre.aspx"
+opening_hours: Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25
+    off
+website: https://www.leclercdrive.fr/region-centre-val-de-loire/dreux/drive-dreux---le-pre.aspx

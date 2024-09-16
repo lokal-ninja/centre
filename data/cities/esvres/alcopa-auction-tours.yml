@@ -1,11 +1,11 @@
 id: 68624438
-type: way
+type: node
 latitude: 47.30281
 longitude: 0.7959
 postcode: "37320"
 city: Esvres
-street: "Allée Panhard et Levassor"
-housenumber: 8
+street: Allée Panhard et Levassor
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

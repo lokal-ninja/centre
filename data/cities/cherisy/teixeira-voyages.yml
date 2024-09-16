@@ -1,11 +1,11 @@
 id: 782670753
-type: way
+type: node
 latitude: 48.74542
 longitude: 1.42837
 postcode: "28500"
 city: Cherisy
-street: "Route de Paris"
-housenumber: 40
-phone: "+33 2 37 82 46 30"
+street: Route de Paris
+housenumber: "40"
+phone: +33 2 37 82 46 30
 opening_hours: ""
-website: "http://www.teixeiravoyages.fr/"
+website: http://www.teixeiravoyages.fr/

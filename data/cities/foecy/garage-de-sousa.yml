@@ -4,8 +4,8 @@ latitude: 47.17666
 longitude: 2.16322
 postcode: "18500"
 city: Foëcy
-street: "Rue Joliot Curie"
-housenumber: 2
-phone: "+33 2 48 51 02 65"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://garage-de-sousa.business.site"
+street: Rue Joliot Curie
+housenumber: "2"
+phone: +33 2 48 51 02 65
+opening_hours: Mo 14:00-18:00; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://garage-de-sousa.business.site

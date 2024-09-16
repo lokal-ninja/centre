@@ -1,11 +1,11 @@
 id: 182561948
-type: way
+type: node
 latitude: 48.75045
 longitude: 1.35724
 postcode: "28100"
 city: Dreux
-street: "Rue André Ravalée"
+street: Rue André Ravalée
 housenumber: 1 bis
-phone: "+33 2 37 46 45 53"
+phone: +33 2 37 46 45 53
 opening_hours: ""
-website: "https://www.opaline-location.fr/"
+website: https://www.opaline-location.fr/

@@ -5,7 +5,7 @@ longitude: 1.90289
 postcode: "45000"
 city: Orléans
 street: ""
-housenumber: 1
-phone: "+33 238417979"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.leclercdrive.fr/passerelle/passerelle.aspx"
+housenumber: "1"
+phone: +33 238417979
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.leclercdrive.fr/passerelle/passerelle.aspx

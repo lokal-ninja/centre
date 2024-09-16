@@ -1,11 +1,11 @@
 id: 182563464
-type: way
+type: node
 latitude: 48.74628
 longitude: 1.34799
 postcode: "28100"
 city: Dreux
-street: "Rue Georges Besse"
-housenumber: 1
-phone: "+33 2 37466459"
-opening_hours: "Mo-Su 10:00-13:00, 14:00-18:00"
-website: "https://cotenature.com/"
+street: Rue Georges Besse
+housenumber: "1"
+phone: +33 2 37466459
+opening_hours: Mo-Su 10:00-13:00, 14:00-18:00
+website: https://cotenature.com/

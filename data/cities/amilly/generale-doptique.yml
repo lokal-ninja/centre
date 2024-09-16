@@ -1,11 +1,11 @@
 id: 95646356
-type: way
+type: node
 latitude: 47.97493
 longitude: 2.73436
 postcode: "45200"
 city: Amilly
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticiens.generale-optique.com/348-opticien-generale-d-optique-montargis"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticiens.generale-optique.com/348-opticien-generale-d-optique-montargis

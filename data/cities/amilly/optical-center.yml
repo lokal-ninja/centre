@@ -1,11 +1,11 @@
 id: 95651170
-type: way
+type: node
 latitude: 47.97666
 longitude: 2.73644
 postcode: "45200"
 city: Amilly
-street: "Rue de Saint-Firmin des Vignes"
-housenumber: 529
-phone: "+33 2 38 90 00 77"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://opticien.optical-center.fr/3455-optical-center-montargis-amilly"
+street: Rue de Saint-Firmin des Vignes
+housenumber: "529"
+phone: +33 2 38 90 00 77
+opening_hours: Mo-Sa 09:30-19:00
+website: https://opticien.optical-center.fr/3455-optical-center-montargis-amilly

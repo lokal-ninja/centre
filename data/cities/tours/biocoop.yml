@@ -4,8 +4,8 @@ latitude: 47.39331
 longitude: 0.68866
 postcode: "37000"
 city: Tours
-street: "Rue Émile Zola"
-housenumber: 6
+street: Rue Émile Zola
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Fr 10:00-20:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Fr 10:00-20:00
 website: ""

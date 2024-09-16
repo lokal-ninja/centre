@@ -4,8 +4,8 @@ latitude: 47.89875
 longitude: 1.9048
 postcode: "45000"
 city: Orléans
-street: "Place du Châtelet"
-housenumber: 19
-phone: "+332 38 54 08 93"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.salon-coiffure-orleans.com/"
+street: Place du Châtelet
+housenumber: "19"
+phone: +332 38 54 08 93
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.salon-coiffure-orleans.com/

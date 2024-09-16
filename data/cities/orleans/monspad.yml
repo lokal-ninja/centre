@@ -4,8 +4,8 @@ latitude: 47.90184
 longitude: 1.89671
 postcode: "45000"
 city: Orléans
-street: "Rue Porte Madeleine"
-housenumber: 8
-phone: "+33 9 86 69 28 79"
+street: Rue Porte Madeleine
+housenumber: "8"
+phone: +33 9 86 69 28 79
 opening_hours: ""
-website: "https://monspad.fr/"
+website: https://monspad.fr/

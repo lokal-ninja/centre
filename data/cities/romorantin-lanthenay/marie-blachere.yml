@@ -1,11 +1,11 @@
 id: 767860155
-type: way
+type: node
 latitude: 47.37193
 longitude: 1.73813
 postcode: "41200"
 city: Romorantin-Lanthenay
-street: "Avenue de Paris"
-housenumber: 31
+street: Avenue de Paris
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30"
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1237285536
-type: way
+type: node
 latitude: 48.75162
 longitude: 1.46098
 postcode: "28500"
 city: Germainville
-street: "Zone d'Activité Les Remises de Saint-Pierre"
-housenumber: 
-phone: "+33 2 34 40 12 20"
+street: Zone d'Activité Les Remises de Saint-Pierre
+housenumber: ""
+phone: +33 2 34 40 12 20
 opening_hours: ""
-website: "https://www.amexpiscines.fr/"
+website: https://www.amexpiscines.fr/

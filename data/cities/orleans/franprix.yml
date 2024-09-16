@@ -4,8 +4,8 @@ latitude: 47.90287
 longitude: 1.90514
 postcode: "45000"
 city: Orléans
-street: "Place du Martroi"
-housenumber: 8
-phone: "+33 2 38 52 02 65"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-18:00"
-website: "https://www.franprix.fr/magasins/6872"
+street: Place du Martroi
+housenumber: "8"
+phone: +33 2 38 52 02 65
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-18:00
+website: https://www.franprix.fr/magasins/6872

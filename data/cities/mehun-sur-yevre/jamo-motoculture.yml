@@ -1,11 +1,11 @@
 id: 283090791
-type: way
+type: node
 latitude: 47.14254
 longitude: 2.2402
 postcode: "18500"
 city: Mehun-sur-Yèvre
-street: "Avenue Raoul Aladenize"
-housenumber: 205
+street: Avenue Raoul Aladenize
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

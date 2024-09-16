@@ -1,11 +1,11 @@
 id: 68624609
-type: way
+type: node
 latitude: 47.28375
 longitude: 0.78651
 postcode: "37320"
 city: Esvres
-street: "place Joseph Bourreau"
-housenumber: 7
+street: place Joseph Bourreau
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

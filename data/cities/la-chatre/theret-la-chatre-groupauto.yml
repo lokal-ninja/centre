@@ -1,11 +1,11 @@
 id: 256862945
-type: way
+type: node
 latitude: 46.568
 longitude: 1.98101
 postcode: "36400"
 city: La Châtre
-street: "Rue Nationale"
-housenumber: 300
+street: Rue Nationale
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

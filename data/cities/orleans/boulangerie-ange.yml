@@ -4,8 +4,8 @@ latitude: 47.92348
 longitude: 1.94084
 postcode: "45000"
 city: Orléans
-street: "Rue Gustave Eiffel"
-housenumber: 2
+street: Rue Gustave Eiffel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30"
-website: "https://www.boulangerie-ange.fr/stores/boulangerie-ange-orleans/"
+opening_hours: Mo-Sa 06:30-19:30
+website: https://www.boulangerie-ange.fr/stores/boulangerie-ange-orleans/

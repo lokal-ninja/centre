@@ -1,11 +1,11 @@
 id: 661390531
-type: way
+type: node
 latitude: 46.59556
 longitude: 1.80871
 postcode: "36230"
 city: Neuvy-Saint-Sépulchre
-street: "Avenue Thabaud Boislareine"
-housenumber: 6
+street: Avenue Thabaud Boislareine
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

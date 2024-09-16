@@ -1,11 +1,11 @@
 id: 75647008
-type: way
+type: node
 latitude: 47.27774
 longitude: 0.62534
 postcode: "37260"
 city: MONTS
-street: "Rue Bernard Tortevoie"
-housenumber: 
+street: Rue Bernard Tortevoie
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.38966
 longitude: 0.69058
 postcode: "37000"
 city: Tours
-street: "Rue de Bordeaux"
-housenumber: 14
+street: Rue de Bordeaux
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
 website: ""

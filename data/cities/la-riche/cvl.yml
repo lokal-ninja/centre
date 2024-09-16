@@ -1,11 +1,11 @@
 id: 521659155
-type: way
+type: node
 latitude: 47.3786
 longitude: 0.66476
 postcode: "37520"
 city: La Riche
-street: "Rue de la Chapelle"
-housenumber: 13
-phone: "+33 2 47 05 02 90"
+street: Rue de la Chapelle
+housenumber: "13"
+phone: +33 2 47 05 02 90
 opening_hours: ""
-website: "https://www.stand-signaletique-exposition.fr/"
+website: https://www.stand-signaletique-exposition.fr/

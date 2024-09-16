@@ -4,8 +4,8 @@ latitude: 48.74799
 longitude: 1.34895
 postcode: "28100"
 city: Dreux
-street: "Rue Georges Besse"
-housenumber: 2
-phone: "+33-2-37-38-49-54"
-opening_hours: "07:30-19:30; Su off"
+street: Rue Georges Besse
+housenumber: "2"
+phone: +33-2-37-38-49-54
+opening_hours: 07:30-19:30; Su off
 website: ""

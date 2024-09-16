@@ -4,8 +4,8 @@ latitude: 47.38164
 longitude: 0.67731
 postcode: "37000"
 city: Tours
-street: "Rue Giraudeau"
-housenumber: 156
-phone: "+33 2 47 55 77 51"
-opening_hours: "Tu-We 09:30-18:00; Th-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://www.ateliercoiffuretours.fr/"
+street: Rue Giraudeau
+housenumber: "156"
+phone: +33 2 47 55 77 51
+opening_hours: Tu-We 09:30-18:00; Th-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://www.ateliercoiffuretours.fr/

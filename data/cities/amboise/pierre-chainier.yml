@@ -1,11 +1,11 @@
 id: 62784672
-type: way
+type: node
 latitude: 47.41573
 longitude: 1.01669
 postcode: "37400"
 city: Amboise
-street: "Chemin du Roi"
-housenumber: 
+street: Chemin du Roi
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.pierrechainier.com/"
+website: http://www.pierrechainier.com/

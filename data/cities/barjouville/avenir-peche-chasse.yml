@@ -4,8 +4,8 @@ latitude: 48.41454
 longitude: 1.47079
 postcode: "28630"
 city: Barjouville
-street: "Rue des Orvilles"
-housenumber: 9
-phone: "+33 2 37 30 05 65"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.avenir-peche.fr/"
+street: Rue des Orvilles
+housenumber: "9"
+phone: +33 2 37 30 05 65
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.avenir-peche.fr/

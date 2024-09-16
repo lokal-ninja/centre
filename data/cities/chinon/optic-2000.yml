@@ -1,11 +1,11 @@
 id: 62473866
-type: way
+type: node
 latitude: 47.16611
 longitude: 0.23954
 postcode: "37500"
 city: Chinon
-street: "Rue du Commerce"
-housenumber: 2
-phone: "+33 2 47 93 98 08"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://opticiens.optic2000.com/opticien-chinon-37500-2482"
+street: Rue du Commerce
+housenumber: "2"
+phone: +33 2 47 93 98 08
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://opticiens.optic2000.com/opticien-chinon-37500-2482

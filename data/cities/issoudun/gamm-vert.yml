@@ -1,11 +1,11 @@
 id: 238808294
-type: way
+type: node
 latitude: 46.95358
 longitude: 2.01265
 postcode: "36100"
 city: Issoudun
-street: "ZAC des coinchettes"
-housenumber: 
-phone: "+33 2 54 49 11 65"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://magasin.gammvert.fr/611009-gamm-vert-de-issoudun"
+street: ZAC des coinchettes
+housenumber: ""
+phone: +33 2 54 49 11 65
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://magasin.gammvert.fr/611009-gamm-vert-de-issoudun

@@ -1,11 +1,11 @@
 id: 636946699
-type: way
+type: node
 latitude: 46.56747
 longitude: 1.98181
 postcode: "36400"
 city: La Châtre
-street: "Rue Nationale"
-housenumber: 301
-phone: "+33 2 54 06 06 30"
+street: Rue Nationale
+housenumber: "301"
+phone: +33 2 54 06 06 30
 opening_hours: ""
-website: "https://www.satene.fr/"
+website: https://www.satene.fr/

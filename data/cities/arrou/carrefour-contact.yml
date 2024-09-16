@@ -1,11 +1,11 @@
 id: 471686936
-type: way
+type: node
 latitude: 48.1047
 longitude: 1.1195
 postcode: "28290"
 city: Arrou
-street: "Route de Brou"
-housenumber: 
-phone: "+33 2 37 97 11 32"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-arrou"
+street: Route de Brou
+housenumber: ""
+phone: +33 2 37 97 11 32
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-arrou

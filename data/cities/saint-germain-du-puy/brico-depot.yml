@@ -1,11 +1,11 @@
 id: 178729509
-type: way
+type: node
 latitude: 47.09775
 longitude: 2.45225
 postcode: "18390"
 city: Saint-Germain-du-Puy
-street: "Route de la Charité"
-housenumber: 
+street: Route de la Charité
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

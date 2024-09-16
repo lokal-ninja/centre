@@ -1,11 +1,11 @@
 id: 159262459
-type: way
+type: node
 latitude: 47.96219
 longitude: 2.62485
 postcode: "45700"
 city: Chevillon-sur-Huillard
-street: "Grande Rue"
-housenumber: 46
+street: Grande Rue
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

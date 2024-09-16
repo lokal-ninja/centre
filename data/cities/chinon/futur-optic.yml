@@ -1,11 +1,11 @@
 id: 62468870
-type: way
+type: node
 latitude: 47.16627
 longitude: 0.23962
 postcode: "37500"
 city: Chinon
-street: "Place du Général de Gaulle"
-housenumber: 10
+street: Place du Général de Gaulle
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

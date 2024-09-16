@@ -1,11 +1,11 @@
 id: 59213300
-type: way
+type: node
 latitude: 46.78469
 longitude: 0.86988
 postcode: "37290"
 city: Yzeures-sur-Creuse
-street: "Place Mado Robin"
-housenumber: 11
+street: Place Mado Robin
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

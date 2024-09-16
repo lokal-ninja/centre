@@ -1,11 +1,11 @@
 id: 287920280
-type: way
+type: node
 latitude: 48.07174
 longitude: 1.34845
 postcode: "28200"
 city: Châteaudun
-street: "Boulevard Kellermann"
-housenumber: 91
+street: Boulevard Kellermann
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

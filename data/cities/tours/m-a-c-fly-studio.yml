@@ -4,8 +4,8 @@ latitude: 47.38801
 longitude: 0.68866
 postcode: "37000"
 city: Tours
-street: "Rue d'Entraigues"
-housenumber: 14
-phone: "+33 2 47 05 65 37"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-16:00"
+street: Rue d'Entraigues
+housenumber: "14"
+phone: +33 2 47 05 65 37
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:00-16:00
 website: ""

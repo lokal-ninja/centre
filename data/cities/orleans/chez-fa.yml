@@ -4,8 +4,8 @@ latitude: 47.90045
 longitude: 1.91266
 postcode: "45000"
 city: Orléans
-street: "Rue de Bourgogne"
-housenumber: 144
-phone: "+33 6 28 53 70 28"
-opening_hours: "Tu 12:00-14:00,We 19:30-22:00,Th-Sa 12:00-14:00; Su 18:15-22:00"
-website: "https://www.chez-fa.fr/"
+street: Rue de Bourgogne
+housenumber: "144"
+phone: +33 6 28 53 70 28
+opening_hours: Tu 12:00-14:00,We 19:30-22:00,Th-Sa 12:00-14:00; Su 18:15-22:00
+website: https://www.chez-fa.fr/

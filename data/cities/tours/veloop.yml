@@ -4,8 +4,8 @@ latitude: 47.3743
 longitude: 0.67592
 postcode: "37000"
 city: Tours
-street: "Avenue Thérèse Voisin"
-housenumber: 1
+street: Avenue Thérèse Voisin
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://veloop.fr/"
+website: https://veloop.fr/

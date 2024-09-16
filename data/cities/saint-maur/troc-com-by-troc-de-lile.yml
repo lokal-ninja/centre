@@ -1,11 +1,11 @@
 id: 345690878
-type: way
+type: node
 latitude: 46.79216
 longitude: 1.66427
 postcode: "36250"
 city: Saint-Maur
-street: "Avenue d'Occitanie"
-housenumber: 9
-phone: "+33 2 54 07 35 77"
+street: Avenue d'Occitanie
+housenumber: "9"
+phone: +33 2 54 07 35 77
 opening_hours: ""
-website: "https://www.troc.com/"
+website: https://www.troc.com/

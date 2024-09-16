@@ -4,8 +4,8 @@ latitude: 47.3451
 longitude: 0.73495
 postcode: "37550"
 city: Saint-Avertin
-street: "Rue Louis Pasteur"
-housenumber: 2
-phone: "+33 2 47 28 14 78"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.archerieducentre.fr/"
+street: Rue Louis Pasteur
+housenumber: "2"
+phone: +33 2 47 28 14 78
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
+website: https://www.archerieducentre.fr/

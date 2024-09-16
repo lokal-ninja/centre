@@ -4,8 +4,8 @@ latitude: 47.89955
 longitude: 1.90479
 postcode: "45000"
 city: Orléans
-street: "Rue Thiers"
-housenumber: 1
+street: Rue Thiers
+housenumber: "1"
 phone: "+33238549799"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-19:30"
-website: "https://www.etam.com/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-19:30
+website: https://www.etam.com/

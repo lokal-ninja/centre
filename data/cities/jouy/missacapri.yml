@@ -4,8 +4,9 @@ latitude: 48.1636
 longitude: 2.93738
 postcode: "89150"
 city: Jouy
-street: "La Marquette"
-housenumber: 
+street: La Marquette
+housenumber: ""
 phone: "+33386642730"
-opening_hours: "Mo 10:30-12:00,16:00-18:00; Th-Fr 16:00-18:00; Sa-Su 10:30-12:00, 16:30-19:00; Dec-Feb off"
+opening_hours: Mo 10:30-12:00,16:00-18:00; Th-Fr 16:00-18:00; Sa-Su 10:30-12:00, 16:30-19:00;
+    Dec-Feb off
 website: ""

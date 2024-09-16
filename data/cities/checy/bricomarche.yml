@@ -4,8 +4,8 @@ latitude: 47.90647
 longitude: 2.03415
 postcode: "45430"
 city: Checy
-street: "Rue François Arago"
-housenumber: 17
-phone: "+33 238223500"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00"
-website: "https://www.bricomarche.com/magasin/checy/01881"
+street: Rue François Arago
+housenumber: "17"
+phone: +33 238223500
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00
+website: https://www.bricomarche.com/magasin/checy/01881

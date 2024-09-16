@@ -1,11 +1,11 @@
 id: 1116346632
-type: way
+type: node
 latitude: 48.75168
 longitude: 1.35537
 postcode: "28100"
 city: Dreux
-street: "Rue Facel Véga"
-housenumber: 6
+street: Rue Facel Véga
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

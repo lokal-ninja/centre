@@ -4,8 +4,8 @@ latitude: 47.90573
 longitude: 2.03304
 postcode: "45430"
 city: Checy
-street: "Rue Gustave Eiffel"
-housenumber: 20
-phone: "+33 2 21 00 03 00"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://opticien.optical-center.fr/209-opticien-checy-optical-center"
+street: Rue Gustave Eiffel
+housenumber: "20"
+phone: +33 2 21 00 03 00
+opening_hours: Mo-Sa 10:00-19:00
+website: https://opticien.optical-center.fr/209-opticien-checy-optical-center

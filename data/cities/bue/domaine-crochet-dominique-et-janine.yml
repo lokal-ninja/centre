@@ -1,11 +1,11 @@
 id: 480063908
-type: way
+type: node
 latitude: 47.31402
 longitude: 2.78826
 postcode: "18300"
 city: Bue
-street: "rue de Venoize"
-housenumber: 64
-phone: "02 48 54 19 56"
+street: rue de Venoize
+housenumber: "64"
+phone: 02 48 54 19 56
 opening_hours: ""
-website: "https://www.domaine-crochet-dominique-et-janine.fr/contact/"
+website: https://www.domaine-crochet-dominique-et-janine.fr/contact/

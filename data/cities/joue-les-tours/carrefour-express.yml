@@ -4,8 +4,8 @@ latitude: 47.3566
 longitude: 0.66387
 postcode: "37300"
 city: Joué-lès-Tours
-street: "Place de la Grange"
-housenumber: 7
-phone: "+33 2 47 53 62 79"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/joue-les-tours-troenes"
+street: Place de la Grange
+housenumber: "7"
+phone: +33 2 47 53 62 79
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/joue-les-tours-troenes

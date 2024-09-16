@@ -1,11 +1,11 @@
 id: 118645360
-type: way
+type: node
 latitude: 47.58634
 longitude: 1.33343
 postcode: "41000"
 city: Blois
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

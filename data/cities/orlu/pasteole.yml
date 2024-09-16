@@ -4,8 +4,8 @@ latitude: 48.36999
 longitude: 1.91832
 postcode: "28700"
 city: Orlu
-street: "Le Bourg Orlu"
-housenumber: 10
-phone: "+33 7 86 73 00 33"
-opening_hours: "Fr 17:00-19:30"
-website: "https://pasteole.fr/"
+street: Le Bourg Orlu
+housenumber: "10"
+phone: +33 7 86 73 00 33
+opening_hours: Fr 17:00-19:30
+website: https://pasteole.fr/

@@ -1,11 +1,11 @@
 id: 62467270
-type: way
+type: node
 latitude: 47.16913
 longitude: 0.23998
 postcode: "37500"
 city: Chinon
-street: "Avenue François Mitterrand"
-housenumber: 45
+street: Avenue François Mitterrand
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

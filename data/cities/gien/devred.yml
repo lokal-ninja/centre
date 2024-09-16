@@ -1,11 +1,11 @@
 id: 211495803
-type: way
+type: node
 latitude: 47.68393
 longitude: 2.63328
 postcode: "45500"
 city: Gien
-street: "Place Saint-Louis"
-housenumber: 9
+street: Place Saint-Louis
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

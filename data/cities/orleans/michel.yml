@@ -4,8 +4,8 @@ latitude: 47.90064
 longitude: 1.90409
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 52
+street: Rue Royale
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.bijouterie-michel.fr/"
+website: https://www.bijouterie-michel.fr/

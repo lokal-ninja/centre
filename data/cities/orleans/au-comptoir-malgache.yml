@@ -4,8 +4,8 @@ latitude: 47.89843
 longitude: 1.90429
 postcode: "45000"
 city: Orléans
-street: "Rue Royale"
-housenumber: 4
+street: Rue Royale
+housenumber: "4"
 phone: "+33238546678"
-opening_hours: "Tu-Sa 10:30-12:30,14:30-19:00"
-website: "http://www.aucomptoirmalgache.fr/"
+opening_hours: Tu-Sa 10:30-12:30,14:30-19:00
+website: http://www.aucomptoirmalgache.fr/

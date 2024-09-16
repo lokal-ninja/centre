@@ -4,8 +4,8 @@ latitude: 47.91398
 longitude: 1.89993
 postcode: "45000"
 city: Orléans
-street: "Rue du Faubourg Bannier"
-housenumber: 104
+street: Rue du Faubourg Bannier
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "http://depotventebannier.fr/"
+website: http://depotventebannier.fr/

@@ -1,11 +1,11 @@
 id: 275222528
-type: way
+type: node
 latitude: 46.59289
 longitude: 1.51685
 postcode: "36200"
 city: Argenton-sur-Creuse
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 14
+street: Rue Jean-Jacques Rousseau
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

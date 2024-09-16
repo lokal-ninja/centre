@@ -1,11 +1,11 @@
 id: 181537839
-type: way
+type: node
 latitude: 47.57216
 longitude: 1.37207
 postcode: "41350"
 city: Vineuil
-street: "Le haut des Sablons"
-housenumber: 
+street: Le haut des Sablons
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://stores.go-sport.com/fr-fr/magasin-sport/vineuil/go-sport-blois/1111"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://stores.go-sport.com/fr-fr/magasin-sport/vineuil/go-sport-blois/1111

@@ -1,11 +1,11 @@
 id: 293646103
-type: way
+type: node
 latitude: 48.41532
 longitude: 1.47175
 postcode: "28630"
 city: Barjouville
-street: "Rue des Pierres Missigault"
-housenumber: 19
-phone: "+33 2 37 28 00 40"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.joueclub.fr/magasin/joueclub-barjouville.html"
+street: Rue des Pierres Missigault
+housenumber: "19"
+phone: +33 2 37 28 00 40
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.joueclub.fr/magasin/joueclub-barjouville.html

@@ -1,11 +1,11 @@
 id: 859071824
-type: way
+type: node
 latitude: 47.34139
 longitude: 0.70295
 postcode: "37170"
 city: Chambray-lès-Tours
 street: ""
-housenumber: 90
-phone: "+33 2 47 28 60 60"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticien.optical-center.fr/158-opticien-chambray-les-tours-optical-center"
+housenumber: "90"
+phone: +33 2 47 28 60 60
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticien.optical-center.fr/158-opticien-chambray-les-tours-optical-center

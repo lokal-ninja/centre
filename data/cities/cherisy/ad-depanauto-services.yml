@@ -1,11 +1,11 @@
 id: 188415568
-type: way
+type: node
 latitude: 48.7436
 longitude: 1.42758
 postcode: "28500"
 city: Cherisy
-street: "Rue des Forts"
-housenumber: 9
-phone: "+33 2 37 50 14 70"
-opening_hours: "Mo-Th 08:00-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:30"
-website: "https://www.ad.fr/garage/ad-carrosserie-depan-auto-services"
+street: Rue des Forts
+housenumber: "9"
+phone: +33 2 37 50 14 70
+opening_hours: Mo-Th 08:00-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:30
+website: https://www.ad.fr/garage/ad-carrosserie-depan-auto-services

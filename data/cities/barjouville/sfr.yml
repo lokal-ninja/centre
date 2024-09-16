@@ -4,8 +4,8 @@ latitude: 48.41567
 longitude: 1.46983
 postcode: "28630"
 city: Barjouville
-street: "Rue de la Torche"
-housenumber: 2
-phone: "+33 2 36 15 79 55"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://boutique.sfr.fr/centre-val-de-loire/eure-et-loir/barjouville/2-rue-de-la-torche"
+street: Rue de la Torche
+housenumber: "2"
+phone: +33 2 36 15 79 55
+opening_hours: Mo-Sa 10:00-19:00
+website: https://boutique.sfr.fr/centre-val-de-loire/eure-et-loir/barjouville/2-rue-de-la-torche

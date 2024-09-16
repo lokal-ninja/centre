@@ -4,8 +4,9 @@ latitude: 47.38197
 longitude: 0.68336
 postcode: "37000"
 city: Tours
-street: "Boulevard Marchant-Duplessis"
-housenumber: 44
+street: Boulevard Marchant-Duplessis
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:30, 13:30-17:30; We 09:00-12:00; Th 09:00-12:30, 13:30-17:30; Fr 09:00-12:30, 13:30-17:00; PH 12:00-17:00"
+opening_hours: Mo-Tu 09:00-12:30, 13:30-17:30; We 09:00-12:00; Th 09:00-12:30, 13:30-17:30;
+    Fr 09:00-12:30, 13:30-17:00; PH 12:00-17:00
 website: ""

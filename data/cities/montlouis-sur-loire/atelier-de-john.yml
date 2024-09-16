@@ -1,11 +1,11 @@
 id: 642886800
-type: way
+type: node
 latitude: 47.38769
 longitude: 0.81412
 postcode: "37270"
 city: Montlouis-sur-Loire
-street: "Rue Descartes"
-housenumber: 28
+street: Rue Descartes
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/atelierdejohn/"
+website: https://www.facebook.com/atelierdejohn/

@@ -4,8 +4,8 @@ latitude: 47.88217
 longitude: 1.89981
 postcode: "45100"
 city: Orléans
-street: "Rue des Chabassières"
-housenumber: 53
+street: Rue des Chabassières
+housenumber: "53"
 phone: "+33238558939"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:30, 14:00-19:00"
-website: "https://www.mondovelo.fr/magasins/35-mondovelo-orleans"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:30, 14:00-19:00
+website: https://www.mondovelo.fr/magasins/35-mondovelo-orleans

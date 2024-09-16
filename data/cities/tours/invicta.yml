@@ -4,8 +4,8 @@ latitude: 47.42556
 longitude: 0.70493
 postcode: "37100"
 city: Tours
-street: "Rue Védrines"
-housenumber: 40
-phone: "+33 2 47 35 50 00"
-opening_hours: "Tu-Sa 10:00-12:00, 14:00-19:00"
+street: Rue Védrines
+housenumber: "40"
+phone: +33 2 47 35 50 00
+opening_hours: Tu-Sa 10:00-12:00, 14:00-19:00
 website: ""

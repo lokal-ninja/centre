@@ -1,11 +1,11 @@
 id: 598622668
-type: way
+type: node
 latitude: 48.82326
 longitude: 1.39
 postcode: "28260"
 city: Sorel-Moussel
-street: "Route de Bu"
-housenumber: 18
-phone: "+33 6 26 32 73 51"
-opening_hours: "opening_hours=We 14:30-19:00; Fr 14:30-19:00; Sa 1:030-13:00; "
-website: "https://armelle-aubarbier-chocolatiere.fr"
+street: Route de Bu
+housenumber: "18"
+phone: +33 6 26 32 73 51
+opening_hours: 'opening_hours=We 14:30-19:00; Fr 14:30-19:00; Sa 1:030-13:00; '
+website: https://armelle-aubarbier-chocolatiere.fr

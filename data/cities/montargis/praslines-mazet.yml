@@ -4,8 +4,8 @@ latitude: 47.99813
 longitude: 2.73288
 postcode: "45200"
 city: Montargis
-street: "Rue du Général Leclerc"
-housenumber: 43
-phone: "+33 2 38 98 00 29"
-opening_hours: "Sa"
-website: "https://www.mazetconfiseur.com/"
+street: Rue du Général Leclerc
+housenumber: "43"
+phone: +33 2 38 98 00 29
+opening_hours: Sa
+website: https://www.mazetconfiseur.com/

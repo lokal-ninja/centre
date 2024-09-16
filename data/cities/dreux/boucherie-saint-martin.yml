@@ -1,11 +1,11 @@
 id: 1190867576
-type: way
+type: node
 latitude: 48.73462
 longitude: 1.36648
 postcode: "28100"
 city: Dreux
-street: "Rue Saint-Martin"
-housenumber: 16
-phone: "+33 2 37 50 01 60"
+street: Rue Saint-Martin
+housenumber: "16"
+phone: +33 2 37 50 01 60
 opening_hours: ""
 website: ""

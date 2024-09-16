@@ -1,11 +1,11 @@
 id: 186770162
-type: way
+type: node
 latitude: 46.81736
 longitude: 1.70333
 postcode: "36000"
 city: Châteauroux
-street: "Rue des États-Unis"
-housenumber: 92
+street: Rue des États-Unis
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

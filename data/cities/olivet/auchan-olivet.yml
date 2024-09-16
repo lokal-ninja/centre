@@ -4,8 +4,8 @@ latitude: 47.86727
 longitude: 1.91145
 postcode: "45160"
 city: Olivet
-street: "Avenue de Verdun"
-housenumber: 600
-phone: "+33 2 38 69 51 00"
-opening_hours: "Mo-Sa 08:30-21:30; Su 08:30-12:30"
-website: "https://www.auchan.fr/magasins/hypermarche/olivet/s-19"
+street: Avenue de Verdun
+housenumber: "600"
+phone: +33 2 38 69 51 00
+opening_hours: Mo-Sa 08:30-21:30; Su 08:30-12:30
+website: https://www.auchan.fr/magasins/hypermarche/olivet/s-19

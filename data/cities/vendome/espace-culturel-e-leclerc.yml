@@ -1,11 +1,11 @@
 id: 233952120
-type: way
+type: node
 latitude: 47.80029
 longitude: 1.04358
 postcode: "41100"
 city: Vendôme
 street: ""
 housenumber: 74 bis
-phone: "+33 2 54 77 28 82"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.e-leclerc.com"
+phone: +33 2 54 77 28 82
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.e-leclerc.com

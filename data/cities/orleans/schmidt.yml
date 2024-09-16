@@ -4,8 +4,8 @@ latitude: 47.89869
 longitude: 1.9048
 postcode: "45000"
 city: Orléans
-street: "Place du Châtelet"
-housenumber: 19
-phone: "+332 38 72 42 61"
-opening_hours: "Tu 10:30-19:00; We-Sa 10:00-19:00"
-website: "https://www.home-design.schmidt/fr-fr/magasins/loiret/orleans"
+street: Place du Châtelet
+housenumber: "19"
+phone: +332 38 72 42 61
+opening_hours: Tu 10:30-19:00; We-Sa 10:00-19:00
+website: https://www.home-design.schmidt/fr-fr/magasins/loiret/orleans

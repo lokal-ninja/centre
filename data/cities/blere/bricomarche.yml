@@ -1,11 +1,11 @@
 id: 65390614
-type: way
+type: node
 latitude: 47.32505
 longitude: 1.00873
 postcode: "37150"
 city: Bléré
-street: "Avenue du 11 Novembre 1918"
-housenumber: 42
+street: Avenue du 11 Novembre 1918
+housenumber: "42"
 phone: "+33247235424"
 opening_hours: ""
 website: ""

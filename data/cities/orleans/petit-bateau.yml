@@ -4,8 +4,8 @@ latitude: 47.90357
 longitude: 1.90433
 postcode: "45000"
 city: Orléans
-street: "Rue de la République"
-housenumber: 12
-phone: "+33 2 38 53 50 55"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://stores.petit-bateau.com/fr/france/orleans/12-rue-de-la-republique"
+street: Rue de la République
+housenumber: "12"
+phone: +33 2 38 53 50 55
+opening_hours: Mo-Sa 10:00-19:00
+website: https://stores.petit-bateau.com/fr/france/orleans/12-rue-de-la-republique

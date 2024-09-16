@@ -1,11 +1,11 @@
 id: 59920151
-type: way
+type: node
 latitude: 46.84275
 longitude: 0.81294
 postcode: "37290"
 city: Chambon
-street: "Rue du Terrier Blanc"
-housenumber: 16
+street: Rue du Terrier Blanc
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293646115
-type: way
+type: node
 latitude: 48.41508
 longitude: 1.474
 postcode: "28630"
 city: Barjouville
-street: "Rue des Pierres Missigault"
-housenumber: 8
-phone: "+33 2 37 91 10 20"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.gemo.fr/magasin/GEMO_BARJOUVILLE_chaussures_et_vetements/GEMO_1271"
+street: Rue des Pierres Missigault
+housenumber: "8"
+phone: +33 2 37 91 10 20
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.gemo.fr/magasin/GEMO_BARJOUVILLE_chaussures_et_vetements/GEMO_1271

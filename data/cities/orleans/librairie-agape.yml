@@ -4,8 +4,8 @@ latitude: 47.90599
 longitude: 1.90608
 postcode: "45000"
 city: Orléans
-street: "Boulevard Alexandre Martin"
-housenumber: 79
-phone: "+33 238734958"
+street: Boulevard Alexandre Martin
+housenumber: "79"
+phone: +33 238734958
 opening_hours: ""
-website: "https://librairieagape.fr/"
+website: https://librairieagape.fr/

@@ -1,11 +1,11 @@
 id: 64597926
-type: way
+type: node
 latitude: 47.07665
 longitude: 2.38394
 postcode: "18000"
 city: Bourges
-street: "Boulevard de l'Avenir"
-housenumber: 121
-phone: "+33 2 48 21 19 01"
-opening_hours: "Mo-Sa 09:30-19:30; PH closed"
-website: "https://www.biocoopaubourgeonvert.fr/"
+street: Boulevard de l'Avenir
+housenumber: "121"
+phone: +33 2 48 21 19 01
+opening_hours: Mo-Sa 09:30-19:30; PH closed
+website: https://www.biocoopaubourgeonvert.fr/

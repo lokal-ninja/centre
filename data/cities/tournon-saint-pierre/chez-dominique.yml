@@ -1,11 +1,11 @@
 id: 60077297
-type: way
+type: node
 latitude: 46.73676
 longitude: 0.95347
 postcode: "37290"
 city: Tournon-Saint-Pierre
-street: "Rue Raymond Thomas"
-housenumber: 1
+street: Rue Raymond Thomas
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 162309300
-type: way
+type: node
 latitude: 47.08364
 longitude: 2.4399
 postcode: "18000"
 city: Bourges
-street: "Avenue François Mitterrand"
-housenumber: 136
+street: Avenue François Mitterrand
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

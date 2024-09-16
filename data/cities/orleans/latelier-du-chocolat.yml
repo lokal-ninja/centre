@@ -4,8 +4,8 @@ latitude: 47.90351
 longitude: 1.90429
 postcode: "45000"
 city: Orléans
-street: "Rue de la République"
-housenumber: 12
-phone: "+33 2 38 22 40 40"
-opening_hours: "Mo,Tu 10:00-13:00,14:00-19:00; We-Sa 10:00-19:00"
-website: "https://www.atelierduchocolat.fr/fr/"
+street: Rue de la République
+housenumber: "12"
+phone: +33 2 38 22 40 40
+opening_hours: Mo,Tu 10:00-13:00,14:00-19:00; We-Sa 10:00-19:00
+website: https://www.atelierduchocolat.fr/fr/

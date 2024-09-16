@@ -1,11 +1,11 @@
 id: 76224652
-type: way
+type: node
 latitude: 47.78117
 longitude: 1.07761
 postcode: "41100"
 city: Vendôme
 street: ""
-housenumber: 9
-phone: "+33 6 48 00 22 17"
+housenumber: "9"
+phone: +33 6 48 00 22 17
 opening_hours: ""
 website: ""

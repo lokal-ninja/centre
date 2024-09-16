@@ -5,7 +5,7 @@ longitude: 1.95668
 postcode: "45400"
 city: Semoy
 street: ""
-housenumber: 555
+housenumber: "555"
 phone: ""
-opening_hours: "Fr 16:00-18:30"
-website: "https://www.facebook.com/LeChampRenard"
+opening_hours: Fr 16:00-18:30
+website: https://www.facebook.com/LeChampRenard

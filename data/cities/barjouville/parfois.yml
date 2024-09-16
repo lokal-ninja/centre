@@ -4,8 +4,8 @@ latitude: 48.41111
 longitude: 1.46413
 postcode: "28630"
 city: Barjouville
-street: "Rue des Orvilles"
-housenumber: 1
-phone: "+33 2 37 25 59 84"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.parfois.com/fr/fr/home/"
+street: Rue des Orvilles
+housenumber: "1"
+phone: +33 2 37 25 59 84
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.parfois.com/fr/fr/home/

@@ -1,11 +1,11 @@
 id: 256863391
-type: way
+type: node
 latitude: 46.57419
 longitude: 1.97706
 postcode: "36400"
 city: La Châtre
-street: "Rue des Métiers"
-housenumber: 
+street: Rue des Métiers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

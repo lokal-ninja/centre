@@ -1,11 +1,11 @@
 id: 545833483
-type: way
+type: node
 latitude: 46.58295
 longitude: 1.98775
 postcode: "36400"
 city: La Châtre
-street: "Rue Emile Accolas"
-housenumber: 
+street: Rue Emile Accolas
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:30-12:30"
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:30-12:30
 website: ""

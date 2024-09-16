@@ -4,8 +4,9 @@ latitude: 47.99858
 longitude: 2.73083
 postcode: "45200"
 city: Montargis
-street: "Rue du Général Leclerc"
+street: Rue du Général Leclerc
 housenumber: 89b
 phone: "+33238986220"
-opening_hours: "Tu 09:00-18:30; We 09:30-18:30; Th 10:00-19:00; Fr 09:00-19:00; Sa 08:00-18:00"
-website: "https://www.mg-coiffure.com/"
+opening_hours: Tu 09:00-18:30; We 09:30-18:30; Th 10:00-19:00; Fr 09:00-19:00; Sa
+    08:00-18:00
+website: https://www.mg-coiffure.com/

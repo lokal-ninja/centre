@@ -1,11 +1,11 @@
 id: 295670744
-type: way
+type: node
 latitude: 47.82466
 longitude: 1.69472
 postcode: "45130"
 city: Meung-sur-Loire
-street: "Place du Martroi"
-housenumber: 2
-phone: "+33 2 38 44 35 34"
-opening_hours: "We-Sa 07:00-13:00,15:00-19:30; Su 07:00-13:00"
+street: Place du Martroi
+housenumber: "2"
+phone: +33 2 38 44 35 34
+opening_hours: We-Sa 07:00-13:00,15:00-19:30; Su 07:00-13:00
 website: ""

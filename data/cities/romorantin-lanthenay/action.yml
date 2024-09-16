@@ -1,11 +1,11 @@
 id: 106821407
-type: way
+type: node
 latitude: 47.372
 longitude: 1.73847
 postcode: "41200"
 city: Romorantin-Lanthenay
-street: "Rue de la Forêt"
-housenumber: 2
+street: Rue de la Forêt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

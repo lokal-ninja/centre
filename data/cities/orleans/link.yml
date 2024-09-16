@@ -4,8 +4,8 @@ latitude: 47.9013
 longitude: 1.90447
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 23
-phone: "+33 238438194"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.boutiquelink.fr/"
+street: Rue Charles Sanglier
+housenumber: "23"
+phone: +33 238438194
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.boutiquelink.fr/

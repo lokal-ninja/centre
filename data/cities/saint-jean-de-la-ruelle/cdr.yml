@@ -4,8 +4,8 @@ latitude: 47.91405
 longitude: 1.88104
 postcode: "45140"
 city: Saint-Jean-de-la-Ruelle
-street: "Rue de Bagneaux"
-housenumber: 1
+street: Rue de Bagneaux
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.cdr45.fr/contact"
+website: http://www.cdr45.fr/contact

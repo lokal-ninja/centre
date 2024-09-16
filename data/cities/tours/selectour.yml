@@ -4,8 +4,8 @@ latitude: 47.38504
 longitude: 0.69068
 postcode: "37000"
 city: Tours
-street: "Avenue de Grammont"
-housenumber: 51
-phone: "+33 2 47 75 01 10"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-18:30; Sa 14:00-18:00"
-website: "https://www.voyages-robin.fr/"
+street: Avenue de Grammont
+housenumber: "51"
+phone: +33 2 47 75 01 10
+opening_hours: Mo-Fr 10:00-12:00, 14:00-18:30; Sa 14:00-18:00
+website: https://www.voyages-robin.fr/

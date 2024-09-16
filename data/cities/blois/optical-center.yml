@@ -1,11 +1,11 @@
 id: 118644873
-type: way
+type: node
 latitude: 47.58721
 longitude: 1.3326
 postcode: "41000"
 city: Blois
 street: ""
-housenumber: 68
-phone: "+33 2 54 56 11 21"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://opticien.optical-center.fr/177-opticien-blois-optical-center"
+housenumber: "68"
+phone: +33 2 54 56 11 21
+opening_hours: Mo-Sa 09:00-19:00
+website: https://opticien.optical-center.fr/177-opticien-blois-optical-center

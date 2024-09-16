@@ -1,11 +1,11 @@
 id: 199405372
-type: way
+type: node
 latitude: 47.84265
 longitude: 1.92236
 postcode: "45160"
 city: Olivet
-street: "Rue de Picardie"
-housenumber: 129
+street: Rue de Picardie
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:15,13:45-18:00; Sa 08:30-12:30,14:00-17:00"
+opening_hours: Mo-Fr 08:30-12:15,13:45-18:00; Sa 08:30-12:30,14:00-17:00
 website: ""

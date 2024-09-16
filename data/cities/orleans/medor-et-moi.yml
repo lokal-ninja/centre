@@ -4,8 +4,8 @@ latitude: 47.9001
 longitude: 1.90816
 postcode: "45000"
 city: Orléans
-street: "Rue de Bourgogne"
-housenumber: 240
+street: Rue de Bourgogne
+housenumber: "240"
 phone: ""
 opening_hours: ""
-website: "http://www.medor-et-moi.com"
+website: http://www.medor-et-moi.com

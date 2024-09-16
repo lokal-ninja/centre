@@ -4,8 +4,8 @@ latitude: 47.89812
 longitude: 1.90468
 postcode: "45000"
 city: Orléans
-street: "Rue Jean Hupeau"
-housenumber: 2
-phone: "+33 2 38 62 39 54"
-opening_hours: "Mo 07:00-20:00; Tu-Fr 06:30-20:00; Sa 08:00-20:00; Su 08:30-17:00"
+street: Rue Jean Hupeau
+housenumber: "2"
+phone: +33 2 38 62 39 54
+opening_hours: Mo 07:00-20:00; Tu-Fr 06:30-20:00; Sa 08:00-20:00; Su 08:30-17:00
 website: ""

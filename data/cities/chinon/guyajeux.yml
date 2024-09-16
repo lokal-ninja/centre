@@ -1,11 +1,11 @@
 id: 62466313
-type: way
+type: node
 latitude: 47.16612
 longitude: 0.2393
 postcode: "37500"
 city: Chinon
-street: "Rue du Commerce"
-housenumber: 9
+street: Rue du Commerce
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

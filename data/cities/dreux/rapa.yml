@@ -1,11 +1,11 @@
 id: 182563274
-type: way
+type: node
 latitude: 48.7481
 longitude: 1.35813
 postcode: "28100"
 city: Dreux
-street: "Rue des Livraindières"
-housenumber: 20
-phone: "+33 2 37 42 07 88"
+street: Rue des Livraindières
+housenumber: "20"
+phone: +33 2 37 42 07 88
 opening_hours: ""
-website: "http://rapa-sas.com/"
+website: http://rapa-sas.com/

@@ -5,7 +5,7 @@ longitude: 0.66209
 postcode: "37540"
 city: Saint-Cyr-sur-Loire
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://suzuki-tours.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00
+website: https://suzuki-tours.fr/

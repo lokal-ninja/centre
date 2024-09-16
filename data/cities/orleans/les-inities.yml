@@ -4,8 +4,8 @@ latitude: 47.89968
 longitude: 1.90457
 postcode: "45000"
 city: Orléans
-street: "Rue du Chariot"
-housenumber: 3
-phone: "+33 6 74 57 61 46"
-opening_hours: "Tu-Sa 10:00-19:00"
+street: Rue du Chariot
+housenumber: "3"
+phone: +33 6 74 57 61 46
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

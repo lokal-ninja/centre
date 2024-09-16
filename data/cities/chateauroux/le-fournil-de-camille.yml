@@ -1,11 +1,11 @@
 id: 188451042
-type: way
+type: node
 latitude: 46.81156
 longitude: 1.6948
 postcode: "36000"
 city: Châteauroux
-street: "Rue de la Gare"
-housenumber: 4
+street: Rue de la Gare
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

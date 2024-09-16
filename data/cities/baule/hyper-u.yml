@@ -1,11 +1,11 @@
 id: 370889731
-type: way
+type: node
 latitude: 47.8204
 longitude: 1.67956
 postcode: "45130"
 city: Baule
-street: "Les Coutures"
-housenumber: 
-phone: "+33 2 38 45 01 66"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.magasins-u.com/hyperu-baule"
+street: Les Coutures
+housenumber: ""
+phone: +33 2 38 45 01 66
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.magasins-u.com/hyperu-baule

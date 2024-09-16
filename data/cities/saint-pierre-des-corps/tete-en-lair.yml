@@ -1,11 +1,11 @@
 id: 74971827
-type: way
+type: node
 latitude: 47.38947
 longitude: 0.71658
 postcode: "37700"
 city: Saint-Pierre-des-Corps
-street: "Place de l'église"
-housenumber: 
+street: Place de l'église
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

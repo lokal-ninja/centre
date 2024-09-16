@@ -4,8 +4,8 @@ latitude: 47.38223
 longitude: 0.68211
 postcode: "37000"
 city: Tours
-street: "Rue Lakanal"
-housenumber: 107
-phone: "+33 2 47 38 58 97"
-opening_hours: "Tu 09:00-19:00; We 09:00-15:00; Th-Fr 09:00-19:00; Sa 08:00-15:00"
-website: "https://www.planity.com/de-meche-avec-vous-37000-tours"
+street: Rue Lakanal
+housenumber: "107"
+phone: +33 2 47 38 58 97
+opening_hours: Tu 09:00-19:00; We 09:00-15:00; Th-Fr 09:00-19:00; Sa 08:00-15:00
+website: https://www.planity.com/de-meche-avec-vous-37000-tours

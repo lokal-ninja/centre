@@ -1,11 +1,11 @@
 id: 52562902
-type: way
+type: node
 latitude: 47.13296
 longitude: 0.98275
 postcode: "37600"
 city: Loches
-street: "Rue de la Chauvellerie"
-housenumber: 34
+street: Rue de la Chauvellerie
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; PH,Su off"
-website: "https://nozarrivages.com/magasin/loches/"
+opening_hours: Mo-Sa 09:00-19:30; PH,Su off
+website: https://nozarrivages.com/magasin/loches/

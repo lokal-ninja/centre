@@ -1,11 +1,11 @@
 id: 233799794
-type: way
+type: node
 latitude: 47.42456
 longitude: 0.96038
 postcode: "37530"
 city: NAZELLES-NEGRON
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

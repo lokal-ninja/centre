@@ -4,8 +4,8 @@ latitude: 47.89881
 longitude: 1.9064
 postcode: "45000"
 city: Orléans
-street: "Place du Châtelet"
-housenumber: 4
-phone: "+33 234503882"
-opening_hours: "Tu-Sa 10:30-12:30,14:00-19:00"
+street: Place du Châtelet
+housenumber: "4"
+phone: +33 234503882
+opening_hours: Tu-Sa 10:30-12:30,14:00-19:00
 website: ""

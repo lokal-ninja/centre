@@ -1,11 +1,11 @@
 id: 187372859
-type: way
+type: node
 latitude: 47.54207
 longitude: 0.33707
 postcode: "37330"
 city: Château-la-Vallière
 street: ""
-housenumber: 75
+housenumber: "75"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

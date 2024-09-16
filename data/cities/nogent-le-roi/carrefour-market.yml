@@ -1,11 +1,11 @@
 id: 310333708
-type: way
+type: node
 latitude: 48.64872
 longitude: 1.53593
 postcode: "28210"
 city: Nogent-le-Roi
-street: "Rue du Pont Aux Juifs"
-housenumber: 
-phone: "+33 2 37 51 40 29"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-nogent-le-roi"
+street: Rue du Pont Aux Juifs
+housenumber: ""
+phone: +33 2 37 51 40 29
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-nogent-le-roi

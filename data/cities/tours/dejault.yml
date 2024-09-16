@@ -4,8 +4,8 @@ latitude: 47.38556
 longitude: 0.67683
 postcode: "37000"
 city: Tours
-street: "Rue Giraudeau"
-housenumber: 74
+street: Rue Giraudeau
+housenumber: "74"
 phone: ""
-opening_hours: "Mo 17:00-19:00; Tu-Sa 10:00-12:30, 15:30-19:00; Su 10:15-13:00"
-website: "https://dejault.com"
+opening_hours: Mo 17:00-19:00; Tu-Sa 10:00-12:30, 15:30-19:00; Su 10:15-13:00
+website: https://dejault.com

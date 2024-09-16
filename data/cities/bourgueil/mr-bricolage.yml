@@ -1,11 +1,11 @@
 id: 326561207
-type: way
+type: node
 latitude: 47.27342
 longitude: 0.1687
 postcode: "37140"
 city: Bourgueil
-street: "Impasse de la Grande Prairie"
-housenumber: 
+street: Impasse de la Grande Prairie
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-18:30"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-18:30
 website: ""

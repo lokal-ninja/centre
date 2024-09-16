@@ -4,8 +4,8 @@ latitude: 47.33803
 longitude: 2.85981
 postcode: "18300"
 city: Saint-Satur
-street: "Rue des Champs"
-housenumber: 1262
+street: Rue des Champs
+housenumber: "1262"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,15:00-18:30"
-website: "https://www.romaindubois-affineur.com/"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,15:00-18:30
+website: https://www.romaindubois-affineur.com/

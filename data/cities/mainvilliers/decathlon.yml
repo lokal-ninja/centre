@@ -1,11 +1,11 @@
 id: 66690191
-type: way
+type: node
 latitude: 48.44809
 longitude: 1.45044
 postcode: "28300"
 city: Mainvilliers
-street: "Rue Jean Rostand"
-housenumber: 2
-phone: "+33 2 37 84 06 84"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-chartres-mainvilliers-0070019100191"
+street: Rue Jean Rostand
+housenumber: "2"
+phone: +33 2 37 84 06 84
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-chartres-mainvilliers-0070019100191

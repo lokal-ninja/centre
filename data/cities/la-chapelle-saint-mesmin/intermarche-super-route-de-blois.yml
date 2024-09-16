@@ -1,11 +1,11 @@
 id: 202347983
-type: way
+type: node
 latitude: 47.88621
 longitude: 1.82823
 postcode: "45380"
 city: La Chapelle-Saint-Mesmin
-street: "Route de Blois"
-housenumber: 19
+street: Route de Blois
+housenumber: "19"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

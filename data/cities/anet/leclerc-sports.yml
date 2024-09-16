@@ -1,11 +1,11 @@
 id: 987654612
-type: way
+type: node
 latitude: 48.86096
 longitude: 1.45601
 postcode: "28260"
 city: Anet
-street: "Boulevard des 4 Arpents"
-housenumber: 
+street: Boulevard des 4 Arpents
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

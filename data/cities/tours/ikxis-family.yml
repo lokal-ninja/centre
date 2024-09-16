@@ -4,8 +4,8 @@ latitude: 47.38633
 longitude: 0.69016
 postcode: "37000"
 city: Tours
-street: "Avenue de Grammont"
-housenumber: 31
-phone: "+33 2 47 66 11 11"
-opening_hours: "Tu-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.ikxis.com/ikxis-family-tours/"
+street: Avenue de Grammont
+housenumber: "31"
+phone: +33 2 47 66 11 11
+opening_hours: Tu-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.ikxis.com/ikxis-family-tours/

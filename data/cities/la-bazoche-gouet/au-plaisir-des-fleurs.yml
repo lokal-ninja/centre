@@ -1,11 +1,11 @@
 id: 126473698
-type: way
+type: node
 latitude: 48.13746
 longitude: 0.97979
 postcode: "28330"
 city: La Bazoche-Gouet
-street: "Place de la Mairie"
-housenumber: 7
+street: Place de la Mairie
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

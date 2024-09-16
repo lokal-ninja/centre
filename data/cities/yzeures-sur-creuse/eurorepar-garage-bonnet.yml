@@ -1,11 +1,11 @@
 id: 59235153
-type: way
+type: node
 latitude: 46.78302
 longitude: 0.8825
 postcode: "37290"
 city: Yzeures-sur-Creuse
-street: "Rue Pasteur"
-housenumber: 76
+street: Rue Pasteur
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

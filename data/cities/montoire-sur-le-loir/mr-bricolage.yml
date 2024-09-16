@@ -1,11 +1,11 @@
 id: 483718850
-type: way
+type: node
 latitude: 47.76038
 longitude: 0.88286
 postcode: "41800"
 city: Montoire-sur-le-Loir
-street: "Avenue de la Paix"
-housenumber: 
+street: Avenue de la Paix
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:30-19:00; Su 09:30-12:00"
+opening_hours: Mo-Sa 09:00-12:00, 14:30-19:00; Su 09:30-12:00
 website: ""

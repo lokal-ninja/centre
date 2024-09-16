@@ -1,11 +1,11 @@
 id: 66923122
-type: way
+type: node
 latitude: 46.63301
 longitude: 1.0629
 postcode: "36300"
 city: Le Blanc
-street: "Rue Saint-Honoré"
-housenumber: 13
+street: Rue Saint-Honoré
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

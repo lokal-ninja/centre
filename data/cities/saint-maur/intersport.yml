@@ -1,11 +1,11 @@
 id: 89041810
-type: way
+type: node
 latitude: 46.78203
 longitude: 1.65497
 postcode: "36250"
 city: Saint-Maur
-street: "cap sud"
-housenumber: 
+street: cap sud
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

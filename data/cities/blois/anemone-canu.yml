@@ -1,11 +1,11 @@
 id: 340594840
-type: way
+type: node
 latitude: 47.59104
 longitude: 1.32378
 postcode: "41000"
 city: Blois
-street: "Rue des Basses Granges"
-housenumber: 35
+street: Rue des Basses Granges
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

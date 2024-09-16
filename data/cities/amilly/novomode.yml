@@ -1,11 +1,11 @@
 id: 95645846
-type: way
+type: node
 latitude: 47.9749
 longitude: 2.72987
 postcode: "45200"
 city: Amilly
-street: "Rue de l'Europe"
-housenumber: 310
+street: Rue de l'Europe
+housenumber: "310"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 14:00-18:00"
-website: "https://www.facebook.com/pages/Novomode-Amilly/314392118682554"
+opening_hours: Mo-Sa 10:00-19:00; Su 14:00-18:00
+website: https://www.facebook.com/pages/Novomode-Amilly/314392118682554

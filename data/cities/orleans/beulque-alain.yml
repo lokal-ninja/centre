@@ -4,8 +4,8 @@ latitude: 47.90613
 longitude: 1.91405
 postcode: "45000"
 city: Orléans
-street: "Rue du Faubourg Saint-Vincent"
-housenumber: 23
+street: Rue du Faubourg Saint-Vincent
+housenumber: "23"
 phone: "+33238533574"
-opening_hours: "Mo-Tu,Th-Sa 07:50-13:30,15:30-19:30; Su 07:30-13:30"
+opening_hours: Mo-Tu,Th-Sa 07:50-13:30,15:30-19:30; Su 07:30-13:30
 website: ""

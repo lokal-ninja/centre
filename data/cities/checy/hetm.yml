@@ -4,8 +4,8 @@ latitude: 47.906
 longitude: 2.03827
 postcode: "45430"
 city: Chécy
-street: "Rue Alfred Kastler"
-housenumber: 
+street: Rue Alfred Kastler
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-19:30"
-website: "https://www2.hm.com/fr_fr/index.html"
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:30-19:30
+website: https://www2.hm.com/fr_fr/index.html

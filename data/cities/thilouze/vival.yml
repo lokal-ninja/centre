@@ -1,11 +1,11 @@
 id: 66125364
-type: way
+type: node
 latitude: 47.22397
 longitude: 0.578
 postcode: "37260"
 city: Thilouze
-street: "Rue Honoré de Balzac"
-housenumber: 9
-phone: "+33 2 47 73 21 60"
-opening_hours: "Mo-Sa 09:00-13:00, 15:30-20:00; Su 09:00-12:30"
-website: "https://magasins.vival.fr/fr/s/vival-thilouze"
+street: Rue Honoré de Balzac
+housenumber: "9"
+phone: +33 2 47 73 21 60
+opening_hours: Mo-Sa 09:00-13:00, 15:30-20:00; Su 09:00-12:30
+website: https://magasins.vival.fr/fr/s/vival-thilouze

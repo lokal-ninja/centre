@@ -4,8 +4,8 @@ latitude: 48.41502
 longitude: 1.47506
 postcode: "28630"
 city: Barjouville
-street: "Rue des Pierres Missigault"
-housenumber: 4
-phone: "+33 2 37 90 82 51"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lahalle.com/?utm_source=gmb"
+street: Rue des Pierres Missigault
+housenumber: "4"
+phone: +33 2 37 90 82 51
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lahalle.com/?utm_source=gmb

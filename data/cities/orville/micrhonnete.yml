@@ -1,11 +1,11 @@
 id: 604009429
-type: way
+type: node
 latitude: 48.24293
 longitude: 2.44072
 postcode: "45390"
 city: Orville
-street: "Rue de l'École"
-housenumber: 12
-phone: "+33 2 38 32 11 90"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.micrhonnete.com/"
+street: Rue de l'École
+housenumber: "12"
+phone: +33 2 38 32 11 90
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
+website: https://www.micrhonnete.com/

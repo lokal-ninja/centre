@@ -4,8 +4,8 @@ latitude: 47.91121
 longitude: 1.52763
 postcode: "41240"
 city: Ouzouer-le-Marché
-street: "Place de l'Église"
-housenumber: 18
-phone: "+33 2 54 89 33 47"
-opening_hours: "Mo,Tu,Fr,Sa 06:15-13:00,15:00-19:45; Su 06:15-13:00"
+street: Place de l'Église
+housenumber: "18"
+phone: +33 2 54 89 33 47
+opening_hours: Mo,Tu,Fr,Sa 06:15-13:00,15:00-19:45; Su 06:15-13:00
 website: ""

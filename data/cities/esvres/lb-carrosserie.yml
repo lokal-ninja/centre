@@ -1,11 +1,11 @@
 id: 68631120
-type: way
+type: node
 latitude: 47.30189
 longitude: 0.80289
 postcode: "37320"
 city: Esvres
-street: "Allée Emile Delahaye"
-housenumber: 5
-phone: "+33 2 47 26 42 78"
+street: Allée Emile Delahaye
+housenumber: "5"
+phone: +33 2 47 26 42 78
 opening_hours: ""
 website: ""

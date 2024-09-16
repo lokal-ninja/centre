@@ -4,8 +4,9 @@ latitude: 48.67331
 longitude: 1.46183
 postcode: "28210"
 city: Villemeux-sur-Eure
-street: "Grande Rue"
-housenumber: 55
+street: Grande Rue
+housenumber: "55"
 phone: ""
-opening_hours: "07:00-19:00; We off; Su 07:00-12:30; PH unknown variable les jours fériés; 2024 Aug 01-25 off rouvre le  26"
+opening_hours: 07:00-19:00; We off; Su 07:00-12:30; PH unknown "variable les jours
+    fériés"; 2024 Aug 01-25 off "rouvre le  26"
 website: ""

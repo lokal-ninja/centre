@@ -1,11 +1,11 @@
 id: 163875532
-type: way
+type: node
 latitude: 47.0952
 longitude: 2.43208
 postcode: "18000"
 city: Bourges
-street: "Route de La Charité"
-housenumber: 2
+street: Route de La Charité
+housenumber: "2"
 phone: "+33248212134"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00; Th off"
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00; Th off
 website: ""

@@ -1,11 +1,11 @@
 id: 333377569
-type: way
+type: node
 latitude: 48.33148
 longitude: 0.80373
 postcode: "28400"
 city: Nogent-le-Rotrou
-street: "Rue de la Bruyère"
-housenumber: 
+street: Rue de la Bruyère
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

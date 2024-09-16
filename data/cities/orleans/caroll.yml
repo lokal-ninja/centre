@@ -4,8 +4,8 @@ latitude: 47.90031
 longitude: 1.9044
 postcode: "45000"
 city: Orléans
-street: "Rue de Bourgogne"
-housenumber: 322
-phone: "+33 2 38 43 62 87"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de Bourgogne
+housenumber: "322"
+phone: +33 2 38 43 62 87
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

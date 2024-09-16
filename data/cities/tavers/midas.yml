@@ -1,11 +1,11 @@
 id: 258176618
-type: way
+type: node
 latitude: 47.76474
 longitude: 1.61258
 postcode: "45190"
 city: Tavers
-street: "CCial Leclerc"
-housenumber: 
-phone: "+33 2 38 46 07 89"
+street: CCial Leclerc
+housenumber: ""
+phone: +33 2 38 46 07 89
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

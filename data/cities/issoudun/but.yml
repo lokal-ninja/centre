@@ -1,11 +1,11 @@
 id: 238731768
-type: way
+type: node
 latitude: 46.95515
 longitude: 2.00444
 postcode: "36100"
 city: Issoudun
-street: "Rue de Lattre de Tassigny"
-housenumber: 
-phone: "+33 2 54 03 08 55"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.but.fr/magasins/315/But-Issoudun.html"
+street: Rue de Lattre de Tassigny
+housenumber: ""
+phone: +33 2 54 03 08 55
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://www.but.fr/magasins/315/But-Issoudun.html

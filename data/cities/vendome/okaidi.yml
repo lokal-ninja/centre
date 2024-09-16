@@ -1,11 +1,11 @@
 id: 76227212
-type: way
+type: node
 latitude: 47.79348
 longitude: 1.06813
 postcode: "41100"
 city: Vendôme
 street: ""
-housenumber: 45
-phone: "+33 2 54 77 93 57"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.okaidi.fr/"
+housenumber: "45"
+phone: +33 2 54 77 93 57
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.okaidi.fr/

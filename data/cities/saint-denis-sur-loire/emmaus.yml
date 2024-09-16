@@ -1,11 +1,11 @@
 id: 118844267
-type: way
+type: node
 latitude: 47.62866
 longitude: 1.38254
 postcode: "41000"
 city: Saint Denis sur Loire
-street: "Route Nationale"
-housenumber: 124
-phone: "+33 2 54 74 46 03"
-opening_hours: "We 14:30-17:30; Sa 09:30-12:00,14:30-17:30"
-website: "http://emmaus-blois.com/"
+street: Route Nationale
+housenumber: "124"
+phone: +33 2 54 74 46 03
+opening_hours: We 14:30-17:30; Sa 09:30-12:00,14:30-17:30
+website: http://emmaus-blois.com/

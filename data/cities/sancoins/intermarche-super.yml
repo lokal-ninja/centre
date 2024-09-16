@@ -1,11 +1,11 @@
 id: 307568081
-type: way
+type: node
 latitude: 46.83211
 longitude: 2.93703
 postcode: "18600"
 city: Sancoins
-street: "Route de Saint-Pierre le Moutier"
-housenumber: 
+street: Route de Saint-Pierre le Moutier
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

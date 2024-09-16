@@ -1,11 +1,11 @@
 id: 64603778
-type: way
+type: node
 latitude: 47.0853
 longitude: 2.3984
 postcode: "18000"
 city: Bourges
-street: "Rue Coursarlon"
-housenumber: 58
+street: Rue Coursarlon
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

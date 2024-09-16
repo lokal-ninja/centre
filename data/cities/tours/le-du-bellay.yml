@@ -4,8 +4,8 @@ latitude: 47.38448
 longitude: 0.67833
 postcode: "37000"
 city: Tours
-street: "Rue de Boisdenier"
-housenumber: 202
-phone: "+33 2 47 61 26 03"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:00-20:00"
+street: Rue de Boisdenier
+housenumber: "202"
+phone: +33 2 47 61 26 03
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:00-20:00
 website: ""

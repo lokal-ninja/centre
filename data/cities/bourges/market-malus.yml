@@ -1,11 +1,11 @@
 id: 64604699
-type: way
+type: node
 latitude: 47.08124
 longitude: 2.40706
 postcode: "18000"
 city: Bourges
-street: "Avenue Ernest Renan"
-housenumber: 3
+street: Avenue Ernest Renan
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

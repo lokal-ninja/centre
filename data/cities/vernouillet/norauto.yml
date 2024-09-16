@@ -1,11 +1,11 @@
 id: 182726788
-type: way
+type: node
 latitude: 48.71747
 longitude: 1.37067
 postcode: "28500"
 city: Vernouillet
-street: "Rue de Rome"
-housenumber: 
+street: Rue de Rome
+housenumber: ""
 phone: "+33237463148"
 opening_hours: ""
-website: "https://norauto.fr/"
+website: https://norauto.fr/

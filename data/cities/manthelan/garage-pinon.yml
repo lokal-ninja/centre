@@ -1,11 +1,11 @@
 id: 65233323
-type: way
+type: node
 latitude: 47.13905
 longitude: 0.79016
 postcode: "37240"
 city: Manthelan
-street: "Rue Nationale"
-housenumber: 
+street: Rue Nationale
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

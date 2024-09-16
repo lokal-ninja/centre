@@ -1,11 +1,11 @@
 id: 283073589
-type: way
+type: node
 latitude: 47.97276
 longitude: 2.71784
 postcode: "45700"
 city: Villemandeur
-street: "Rue des Frères Lumière"
-housenumber: 12
+street: Rue des Frères Lumière
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

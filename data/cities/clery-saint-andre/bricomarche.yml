@@ -1,11 +1,11 @@
 id: 258002089
-type: way
+type: node
 latitude: 47.81289
 longitude: 1.7483
 postcode: "45370"
 city: Cléry-Saint-André
-street: "Allée de la Bergerie"
-housenumber: 3
+street: Allée de la Bergerie
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

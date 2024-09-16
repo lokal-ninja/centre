@@ -1,11 +1,11 @@
 id: 480307640
-type: way
+type: node
 latitude: 47.6158
 longitude: 1.32112
 postcode: "41000"
 city: Blois
 street: ""
-housenumber: 22
-phone: "+33 2 54 70 51 10"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00, 14:00-18:00"
-website: "https://www.leroymerlin.fr"
+housenumber: "22"
+phone: +33 2 54 70 51 10
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00, 14:00-18:00
+website: https://www.leroymerlin.fr

@@ -1,11 +1,11 @@
 id: 283078970
-type: way
+type: node
 latitude: 47.97092
 longitude: 2.72288
 postcode: "45700"
 city: Villemandeur
-street: "Rue des Frères Lumière"
-housenumber: 22
+street: Rue des Frères Lumière
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30, 14:00-19:30; Sa 07:00-19:30"
-website: "https://www.bricodepot.fr/villemandeur/depot/villemandeur/1932/"
+opening_hours: Mo-Fr 07:00-12:30, 14:00-19:30; Sa 07:00-19:30
+website: https://www.bricodepot.fr/villemandeur/depot/villemandeur/1932/

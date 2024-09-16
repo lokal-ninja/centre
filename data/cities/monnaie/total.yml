@@ -4,8 +4,8 @@ latitude: 47.47334
 longitude: 0.77579
 postcode: "37380"
 city: Monnaie
-street: "Autoroute A10"
-housenumber: 
+street: Autoroute A10
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF059694"
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF059694

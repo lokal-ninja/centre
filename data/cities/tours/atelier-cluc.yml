@@ -4,8 +4,8 @@ latitude: 47.3811
 longitude: 0.69229
 postcode: "37000"
 city: Tours
-street: "Avenue de Grammont"
-housenumber: 99
-phone: "+33 7 64 40 41 71"
-opening_hours: "Mo 14:30-18:30; Tu-Fr 10:00-13:00, 14:30-18:30"
+street: Avenue de Grammont
+housenumber: "99"
+phone: +33 7 64 40 41 71
+opening_hours: Mo 14:30-18:30; Tu-Fr 10:00-13:00, 14:30-18:30
 website: ""

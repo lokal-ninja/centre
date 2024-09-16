@@ -1,11 +1,11 @@
 id: 188416140
-type: way
+type: node
 latitude: 48.74271
 longitude: 1.42482
 postcode: "28500"
 city: Cherisy
-street: "Rue de Marsauceux"
-housenumber: 
-phone: "+33 2 37 65 51 50"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/magasins/05829/cherisy-28500/infos-pratiques"
+street: Rue de Marsauceux
+housenumber: ""
+phone: +33 2 37 65 51 50
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/magasins/05829/cherisy-28500/infos-pratiques

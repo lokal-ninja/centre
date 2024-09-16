@@ -4,8 +4,8 @@ latitude: 47.90066
 longitude: 1.90461
 postcode: "45000"
 city: Orléans
-street: "Rue Charles Sanglier"
-housenumber: 7
-phone: "+33 238623932"
-opening_hours: "Tu-Sa 10:30-13:00, 14:30-19:00"
-website: "https://arthur.fr/pages/boutique-arthur-orleans"
+street: Rue Charles Sanglier
+housenumber: "7"
+phone: +33 238623932
+opening_hours: Tu-Sa 10:30-13:00, 14:30-19:00
+website: https://arthur.fr/pages/boutique-arthur-orleans
