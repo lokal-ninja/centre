@@ -1,6 +1,6 @@
 ---
 title: Ormes
 url: /ormes/
-latitude: 47.953
-longitude: 1.835
+latitude: 47.941
+longitude: 1.82
 ---
