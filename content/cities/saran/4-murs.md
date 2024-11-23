@@ -1,5 +1,5 @@
 ---
 title: "4 Murs"
 url: /saran/4-murs/
-shop: shop
+shop: décoration intérieure
 ---
