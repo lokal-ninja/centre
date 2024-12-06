@@ -8,6 +8,6 @@ street: grande rue
 housenumber: "47"
 phone: +33-2-37-82-30-06
 opening_hours: 08:00-13:00,15:00-19:30; Su 08:00-12:30; PH 08:00-13:00 open "matin";
-    Mo off; Dec Su[-3],Su[-2],Su[-1] 08:00-16:00 open; Dec 25,Jan 01 off; 2024 Dec
-    23 08:00-16:00 open
+    Mo off; Dec Su[-3],Su[-2],Su[-1] 08:00-13:00,15:00-18:00 open; Dec 24,Dec 31 08:00-17:00
+    open; Dec 25,Jan 01 off; 2024 Dec 23, 2024 Dec 30 08:00-13:00,15:00-19:00 open
 website: ""
