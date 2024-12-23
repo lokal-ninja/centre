@@ -1,5 +1,5 @@
 ---
 title: "Lhavana"
 url: /orleans/lhavana/
-shop: tabac
+shop: marchand de journaux
 ---

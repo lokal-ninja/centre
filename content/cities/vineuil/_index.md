@@ -1,6 +1,6 @@
 ---
 title: Vineuil
 url: /vineuil/
-latitude: 47.572
-longitude: 1.374
+latitude: 47.575
+longitude: 1.37
 ---

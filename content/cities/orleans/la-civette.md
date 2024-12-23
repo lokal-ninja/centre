@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /orleans/la-civette/
-shop: tabac
+shop: marchand de journaux
 ---

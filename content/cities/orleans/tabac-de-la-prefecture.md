@@ -1,5 +1,5 @@
 ---
 title: "Tabac de la Préfecture"
 url: /orleans/tabac-de-la-prefecture/
-shop: livres
+shop: marchand de journaux
 ---
