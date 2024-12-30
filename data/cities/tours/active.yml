@@ -1,11 +1,12 @@
-id: 3796852204
+id: 3486101946
 type: node
-latitude: 47.38061
-longitude: 0.66623
+latitude: 47.37904
+longitude: 0.70976
 postcode: "37000"
 city: Tours
-street: Rue Saint-François
-housenumber: "153"
-phone: +33 2 47 37 13 33
-opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-13:30, Sa[-1] off
-website: http://activeasso.fr/
+street: Rue Édouard Vaillant
+housenumber: "155"
+phone: ""
+opening_hours: Tu 12:00-17:00 open "achats", We-Fr 10:00-17:00 open "achats", Sa 10:00-13:30
+    open "achats", We 09:00-17:00 open "dons", Sa 09:00-13:30 open "dons"
+website: ""

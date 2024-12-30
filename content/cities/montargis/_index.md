@@ -1,6 +1,6 @@
 ---
 title: Montargis
 url: /montargis/
-latitude: 47.998
-longitude: 2.733
+latitude: 47.996
+longitude: 2.734
 ---
