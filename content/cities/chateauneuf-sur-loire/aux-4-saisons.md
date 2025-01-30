@@ -1,5 +1,5 @@
 ---
-title: "aux 4 saisons"
+title: "Aux 4 saisons"
 url: /chateauneuf-sur-loire/aux-4-saisons/
-shop: légumes
+shop: commodité
 ---
