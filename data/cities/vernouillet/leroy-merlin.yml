@@ -7,6 +7,6 @@ city: Vernouillet
 street: Rue de Rome
 housenumber: ""
 phone: +33 2 37 64 83 20
-opening_hours: 09:00-20:00; PH 09:00-19:00 open; Su 09:00-18:00 open; Dec 25,Jan 01
-    off "exceptionnel"; Dec 24,Dec 31 09:00-18:00 open "réveillon"
+opening_hours: 09:00-20:00; PH 09:00-19:00 open; Su 09:00-18:00 open; Dec 25,Jan 01,May
+    01 off "exceptionnel"; Dec 24,Dec 31 09:00-18:00 open "réveillon"
 website: https://www.leroymerlin.fr/magasins/vernouillet-dreux.html
