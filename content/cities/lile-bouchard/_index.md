@@ -1,6 +1,6 @@
 ---
 title: L'Île-Bouchard
 url: /lile-bouchard/
-latitude: 47.124
-longitude: 0.425
+latitude: 47.122
+longitude: 0.429
 ---
