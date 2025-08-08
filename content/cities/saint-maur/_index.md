@@ -1,6 +1,6 @@
 ---
 title: Saint-Maur
 url: /saint-maur/
-latitude: 46.792
-longitude: 1.663
+latitude: 46.79
+longitude: 1.659
 ---

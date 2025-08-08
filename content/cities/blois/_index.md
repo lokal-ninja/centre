@@ -1,6 +1,6 @@
 ---
 title: Blois
 url: /blois/
-latitude: 47.59
-longitude: 1.307
+latitude: 47.604
+longitude: 1.315
 ---

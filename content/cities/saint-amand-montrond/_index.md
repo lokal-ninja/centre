@@ -1,6 +1,6 @@
 ---
 title: Saint-Amand-Montrond
 url: /saint-amand-montrond/
-latitude: 46.738
-longitude: 2.488
+latitude: 46.731
+longitude: 2.493
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chaumont-sur-Tharonne
 url: /chaumont-sur-tharonne/
-latitude: 47.611
-longitude: 1.905
+latitude: 47.621
+longitude: 1.936
 ---
