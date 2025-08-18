@@ -1,6 +1,6 @@
 ---
-title: Saint Doulchard
+title: Saint-Doulchard
 url: /saint-doulchard/
 latitude: 47.106
-longitude: 2.381
+longitude: 2.382
 ---
