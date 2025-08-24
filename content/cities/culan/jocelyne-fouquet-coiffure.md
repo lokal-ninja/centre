@@ -1,5 +1,5 @@
 ---
-title: "Jocelyne FOUQUET Coiffure"
+title: "Jocelyne Fouquet Coiffure"
 url: /culan/jocelyne-fouquet-coiffure/
 shop: coiffeur
 ---
