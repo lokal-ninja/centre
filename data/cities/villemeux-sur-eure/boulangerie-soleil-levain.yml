@@ -7,7 +7,5 @@ city: Villemeux-sur-Eure
 street: Grande Rue
 housenumber: "90"
 phone: +33 2 37 82 34 84
-opening_hours: 07:00-13:00,15:30-19:30; We off; Sa 07:00-13:00,15:30-19:00; Su 07:00-13:00;
-    Dec 25,Jan 01 off; 2025 Jul 29-2025 Aug 31 off "congés"; 2025 Jul 14 07:00-12:30
-    open
+opening_hours: 07:00-13:00,15:30-19:30; We off; Su,PH 07:00-13:00; Dec 25,Jan 01 off
 website: ""
