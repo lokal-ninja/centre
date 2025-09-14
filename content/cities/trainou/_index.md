@@ -1,6 +1,6 @@
 ---
-title: Trainou
+title: Traînou
 url: /trainou/
-latitude: 47.975
-longitude: 2.103
+latitude: 47.973
+longitude: 2.107
 ---
