@@ -1,5 +1,5 @@
 ---
 title: "Nath'coiffure"
-url: /le-chatelet-en-berry/nathcoiffure/
+url: /le-chatelet/nathcoiffure/
 shop: coiffeur
 ---

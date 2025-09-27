@@ -1,5 +1,5 @@
 ---
 title: "Rose Passion"
-url: /le-chatelet-en-berry/rose-passion/
+url: /le-chatelet/rose-passion/
 shop: fleuriste
 ---

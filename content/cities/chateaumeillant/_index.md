@@ -1,6 +1,6 @@
 ---
 title: Châteaumeillant
 url: /chateaumeillant/
-latitude: 46.561
-longitude: 2.195
+latitude: 46.56
+longitude: 2.227
 ---
