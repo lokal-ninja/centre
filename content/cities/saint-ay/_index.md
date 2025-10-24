@@ -1,6 +1,6 @@
 ---
 title: Saint-Ay
 url: /saint-ay/
-latitude: 47.861
-longitude: 1.75
+latitude: 47.864
+longitude: 1.758
 ---
