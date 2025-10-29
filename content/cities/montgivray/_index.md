@@ -1,6 +1,6 @@
 ---
 title: Montgivray
 url: /montgivray/
-latitude: 46.591
-longitude: 1.985
+latitude: 46.587
+longitude: 1.992
 ---
