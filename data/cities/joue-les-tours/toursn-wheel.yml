@@ -1,11 +1,11 @@
 id: 12925763140
 type: node
-latitude: 47.34875
-longitude: 0.6642
+latitude: 47.3488
+longitude: 0.66446
 postcode: ""
 city: JOUE-LES-TOURS
-street: Bd Jean Jaurès
+street: Boulevard Jean Jaurès
 housenumber: "70"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Tu,We,Fr,Sa 10:00-12:15; Mo-Th 14:00-18:30; Fr 14:00-18:00
+website: https://www.toursnwheel.fr/

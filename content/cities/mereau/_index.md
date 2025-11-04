@@ -1,6 +1,6 @@
 ---
 title: Méreau
 url: /mereau/
-latitude: 47.165
+latitude: 47.163
 longitude: 2.05
 ---
