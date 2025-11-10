@@ -1,5 +1,5 @@
 ---
 title: "DS store Orléans"
-url: /orleans/ds-store-orleans/
+url: /olivet/ds-store-orleans/
 shop: voiture
 ---
