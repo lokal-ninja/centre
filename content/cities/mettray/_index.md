@@ -1,6 +1,6 @@
 ---
 title: Mettray
 url: /mettray/
-latitude: 47.46
-longitude: 0.627
+latitude: 47.452
+longitude: 0.65
 ---
