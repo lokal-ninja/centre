@@ -1,5 +1,5 @@
 ---
-title: "La Casa de Las Carcasas"
+title: "La Casa de las Carcasas"
 url: /orleans/la-casa-de-las-carcasas/
-shop: boutique
+shop: shop
 ---
