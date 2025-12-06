@@ -7,5 +7,6 @@ city: Dreux
 street: Rue des Bas Buissons
 housenumber: ""
 phone: +33 2 37 62 72 00
-opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30; Dec Su[-3],Su[-2],Su[-1] 08:30-18:00
+    open; Dec 25, Jan 01, May 01 off; Dec 31 08:30-18:00 open "réveillon"
 website: https://www.carrefour.fr/magasin/dreux
