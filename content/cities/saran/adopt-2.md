@@ -1,5 +1,5 @@
 ---
 title: "Adopt'"
-url: /saran/adopt-rue-nationale-20/
+url: /saran/adopt-2/
 shop: parfumerie
 ---
