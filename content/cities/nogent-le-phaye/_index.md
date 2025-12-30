@@ -1,6 +1,6 @@
 ---
 title: Nogent-le-Phaye
 url: /nogent-le-phaye/
-latitude: 48.461
-longitude: 1.574
+latitude: 48.46
+longitude: 1.572
 ---
