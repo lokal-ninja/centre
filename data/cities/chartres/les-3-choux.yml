@@ -7,5 +7,6 @@ city: Chartres
 street: Rue de la Pie
 housenumber: "7"
 phone: +33 2 37 83 34 81
-opening_hours: ""
+opening_hours: Tu 15:30-19:15; We,Th 09:00-13:00,15:30-19:15; Fr 09:00-13:00,15:00-19:15;
+    Sa 08:30-13:00,15:00-19:15; Su 09:30-13:00
 website: ""
