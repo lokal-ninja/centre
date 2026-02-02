@@ -1,11 +1,12 @@
 id: 8818001648
 type: node
-latitude: 47.47166
-longitude: 0.70108
+latitude: 47.47165
+longitude: 0.70106
 postcode: "37390"
 city: Chanceaux-sur-Choisille
 street: Rue de la Grande Ferme
 housenumber: "26"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 13:30-18:30; Tu,Th 09:00-12:00,13:30-18:30; We 09:00-12:00,14:00-18:00;
+    Fr 09:00-18:30; Sa 09:00-13:00
 website: ""
