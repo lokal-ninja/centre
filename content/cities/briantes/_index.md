@@ -1,6 +1,6 @@
 ---
 title: Briantes
 url: /briantes/
-latitude: 46.558
-longitude: 2.024
+latitude: 46.554
+longitude: 1.996
 ---
