@@ -1,6 +1,6 @@
 ---
-title: Sully-sur-Loire
+title: Sully-Sur-Loire
 url: /sully-sur-loire/
 latitude: 47.765
-longitude: 2.375
+longitude: 2.374
 ---
