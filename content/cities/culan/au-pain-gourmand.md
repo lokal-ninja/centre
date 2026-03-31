@@ -1,5 +1,5 @@
 ---
-title: "Au pain gourmand"
+title: "Au Pain Gourmand"
 url: /culan/au-pain-gourmand/
 shop: boulangerie
 ---
