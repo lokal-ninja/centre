@@ -1,6 +1,6 @@
 ---
 title: Vicq-Exemplet
 url: /vicq-exemplet/
-latitude: 46.629
-longitude: 2.141
+latitude: 46.649
+longitude: 2.132
 ---

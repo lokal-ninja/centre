@@ -1,6 +1,6 @@
 ---
-title: ARGENT SUR SAULDRE
+title: Argent-sur-Sauldre
 url: /argent-sur-sauldre/
-latitude: 47.561
-longitude: 2.447
+latitude: 47.549
+longitude: 2.448
 ---
