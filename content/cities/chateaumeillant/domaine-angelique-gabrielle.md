@@ -1,5 +1,5 @@
 ---
-title: "Domaine Angélique GABRIELLE "
+title: "Domaine Angélique Gabrielle"
 url: /chateaumeillant/domaine-angelique-gabrielle/
 shop: vin
 ---
