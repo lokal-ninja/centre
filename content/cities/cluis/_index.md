@@ -1,6 +1,6 @@
 ---
 title: Cluis
 url: /cluis/
-latitude: 46.544
-longitude: 1.749
+latitude: 46.545
+longitude: 1.75
 ---
