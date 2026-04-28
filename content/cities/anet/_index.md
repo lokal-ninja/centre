@@ -1,6 +1,6 @@
 ---
 title: Anet
 url: /anet/
-latitude: 48.863
-longitude: 1.46
+latitude: 48.857
+longitude: 1.436
 ---

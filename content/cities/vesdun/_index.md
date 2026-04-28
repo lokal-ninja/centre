@@ -1,6 +1,6 @@
 ---
 title: Vesdun
 url: /vesdun/
-latitude: 46.573
-longitude: 2.421
+latitude: 46.555
+longitude: 2.486
 ---
