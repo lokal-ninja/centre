@@ -1,6 +1,6 @@
 ---
-title: Saint-Denis de Jouhet
+title: Saint-Denis-de-Jouhet
 url: /saint-denis-de-jouhet/
 latitude: 46.53
-longitude: 1.864
+longitude: 1.869
 ---
