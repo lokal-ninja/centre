@@ -1,6 +1,6 @@
 ---
 title: Issoudun
 url: /issoudun/
-latitude: 46.949
-longitude: 1.995
+latitude: 46.948
+longitude: 1.992
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Châtre
 url: /la-chatre/
-latitude: 46.582
-longitude: 1.988
+latitude: 46.577
+longitude: 1.986
 ---

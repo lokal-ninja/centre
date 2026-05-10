@@ -1,5 +1,5 @@
 ---
-title: "L'essentiel"
+title: "L'Essentiel"
 url: /cuzion/lessentiel-rue-du-lavoir/
 shop: boulangerie
 ---
