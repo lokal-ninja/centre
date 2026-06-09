@@ -1,6 +1,6 @@
 ---
 title: Lignières
 url: /lignieres/
-latitude: 46.746
-longitude: 2.194
+latitude: 46.75
+longitude: 2.175
 ---
