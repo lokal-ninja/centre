@@ -1,5 +1,5 @@
 ---
 title: "SFR"
-url: /pithiviers/sfr-2/
+url: /pithiviers/sfr-rue-de-la-couronne/
 shop: téléphone portable
 ---
