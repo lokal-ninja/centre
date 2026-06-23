@@ -1,6 +1,6 @@
 ---
-title: Crezancy-en-Sancerre
+title: Crézancy-en-Sancerre
 url: /crezancy-en-sancerre/
-latitude: 47.302
-longitude: 2.774
+latitude: 47.307
+longitude: 2.764
 ---
