@@ -1,6 +1,6 @@
 ---
 title: Nohant-Vic
 url: /nohant-vic/
-latitude: 46.618
-longitude: 1.953
+latitude: 46.623
+longitude: 1.959
 ---
