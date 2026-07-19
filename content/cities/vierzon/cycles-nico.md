@@ -1,5 +1,5 @@
 ---
-title: "CYCLES NICO"
+title: "Cycles Nico"
 url: /vierzon/cycles-nico/
 shop: vélo
 ---
