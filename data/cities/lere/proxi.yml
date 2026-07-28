@@ -7,6 +7,6 @@ city: Léré
 street: Grande Rue
 housenumber: "1"
 phone: +33 9 62 61 01 02
-opening_hours: Mo 07:30-12:30; Mo 15:30-19:00; Wed-Sat 07:30-12:30; Wed-Sat 15:30-19:00;
-    Sun 08:00-12:00
+opening_hours: Mo 07:30-12:30; Mo 15:30-19:00; We-Sa 07:30-12:30; We-Sa 15:30-19:00;
+    Su 08:00-12:00
 website: ""

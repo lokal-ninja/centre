@@ -1,6 +1,6 @@
 ---
 title: Lucé
 url: /luce/
-latitude: 48.436
-longitude: 1.443
+latitude: 48.441
+longitude: 1.472
 ---

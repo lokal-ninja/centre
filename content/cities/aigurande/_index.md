@@ -1,6 +1,6 @@
 ---
 title: Aigurande
 url: /aigurande/
-latitude: 46.434
-longitude: 1.827
+latitude: 46.435
+longitude: 1.83
 ---

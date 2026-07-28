@@ -7,5 +7,5 @@ city: Gas
 street: Impasse du Fossé
 housenumber: "3"
 phone: +33 6 62 05 23 65
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: ""
