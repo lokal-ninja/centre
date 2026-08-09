@@ -7,6 +7,5 @@ city: Olivet
 street: Rue Basse Mouillère
 housenumber: ""
 phone: ""
-opening_hours: Wed  17:00-19:00, Thu 17:00-19:00,  Fri 10:00-12:00 + 17:00-19:00,
-    Sat 10:00-12:00
+opening_hours: We,Th 17:00-19:00; Fr 10:00-12:00,17:00-19:00; Sa 10:00-12:00
 website: ""
