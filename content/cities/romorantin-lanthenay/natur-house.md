@@ -1,5 +1,5 @@
 ---
-title: "natur house"
+title: "Natur House"
 url: /romorantin-lanthenay/natur-house/
-shop: alimentation saine
+shop: les compléments alimentaires
 ---

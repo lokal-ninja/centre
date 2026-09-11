@@ -1,6 +1,6 @@
 ---
 title: Bourges
 url: /bourges/
-latitude: 47.103
-longitude: 2.411
+latitude: 47.086
+longitude: 2.394
 ---

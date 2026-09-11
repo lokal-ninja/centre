@@ -4,8 +4,10 @@ latitude: 47.92895
 longitude: 1.89802
 postcode: "45400"
 city: Fleury-les-Aubrais
-street: ""
-housenumber: ""
+street: Rue André Dessaux
+housenumber: "20"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
-website: https://www.bymycar.fr/concessions/audi-orleans-bymycar
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; 2026 Sep
+    13 09:00-12:00,14:00-18:00; 2026 Oct 11 09:00-12:00,14:00-18:00; 2026 Nov 01,2026
+    Nov 11 off; 2026 Dec 25 off; 2027 Jan 01 off
+website: ""

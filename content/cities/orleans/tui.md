@@ -1,5 +1,5 @@
 ---
-title: "TUI"
+title: "Tui"
 url: /orleans/tui/
 shop: agence de voyage
 ---

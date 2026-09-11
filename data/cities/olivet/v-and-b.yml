@@ -7,5 +7,6 @@ city: Olivet
 street: Rue de la Bergeresse
 housenumber: "1470"
 phone: +33 238885122
-opening_hours: ""
-website: ""
+opening_hours: Mo 14:00-20:30; Tu-We 10:00-20:30; Th-Fr 10:00-21:00; Sa 10:00-20:30;
+    Su closed
+website: https://www.vandb.fr/nos-magasins/v-and-b-olivet

@@ -7,5 +7,6 @@ city: Gien
 street: Rue Georges Clemenceau
 housenumber: "118"
 phone: +33 2 38 05 00 47
-opening_hours: ""
-website: ""
+opening_hours: Mo-Tu 09:00-12:30,14:00-19:00; We 09:00-19:00; Th-Fr 09:00-12:30,14:00-19:00;
+    Sa 09:00-19:00
+website: https://www.gemo.fr/magasin/GEMO_GIEN_chaussures_et_vetements/GEMO_5787
