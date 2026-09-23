@@ -7,5 +7,6 @@ city: Montargis
 street: Rue Dorée
 housenumber: ""
 phone: +33 2 38 98 90 57
-opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+opening_hours: Mo 14:00-19:00; Tu 10:00-13:00,14:00-19:00; We 10:00-19:00; Th 10:00-13:00,14:00-19:00;
+    Fr-Sa 10:00-19:00
 website: https://www.micromania.fr/magasin?storeid=M6

@@ -1,6 +1,6 @@
 ---
-title: GIEN
+title: Gien
 url: /gien/
-latitude: 47.707
-longitude: 2.64
+latitude: 47.684
+longitude: 2.631
 ---
