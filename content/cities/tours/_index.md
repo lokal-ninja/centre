@@ -1,6 +1,6 @@
 ---
 title: Tours
 url: /tours/
-latitude: 47.385
-longitude: 0.691
+latitude: 47.413
+longitude: 0.701
 ---

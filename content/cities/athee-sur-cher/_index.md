@@ -1,6 +1,6 @@
 ---
 title: Athée-sur-Cher
 url: /athee-sur-cher/
-latitude: 47.299
-longitude: 0.874
+latitude: 47.307
+longitude: 0.92
 ---
