@@ -1,6 +1,6 @@
 ---
 title: Ballan-Miré
 url: /ballan-mire/
-latitude: 47.343
-longitude: 0.616
+latitude: 47.344
+longitude: 0.615
 ---
