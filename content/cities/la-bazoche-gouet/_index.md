@@ -1,6 +1,6 @@
 ---
-title: La Bazoche-Gouët
+title: La Bazoche-Gouet
 url: /la-bazoche-gouet/
-latitude: 48.139
-longitude: 0.981
+latitude: 48.137
+longitude: 0.98
 ---

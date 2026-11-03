@@ -1,6 +1,6 @@
 ---
 title: Valencisse
 url: /valencisse/
-latitude: 47.592
-longitude: 1.196
+latitude: 47.59
+longitude: 1.199
 ---
